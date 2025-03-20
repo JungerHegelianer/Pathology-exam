@@ -1,0 +1,28 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Lipoblastoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin06.jpg",
+	"https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin13.jpg"
+      ]
+    },
+    {
+      "diagnosis": "Myxoid Liposarcoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxoidliposarcomajenkins01_20180130-130630new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxoidliposarcomajenkins02_20180130-130736new.jpg",
+	"https://www.pathologyoutlines.com/caseofweek/case200510image4.jpg"
+      ]
+    },
+    {
+      "diagnosis": "Angiolipoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke01.jpg",
+	"https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke02.jpg",
+	"https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke03.jpg"
+      ]
+    }
+  ]
+}
