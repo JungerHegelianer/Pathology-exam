@@ -25,14 +25,23 @@ body {
 }
 
 .tumor-image {
-    max-width: 200px;
+    max-width: 400px;
     height: auto;
     cursor: pointer;
     transition: transform 0.2s;
 }
 
 .tumor-image:hover {
-    transform: scale(1.1); /* Лёгкое увеличение при наведении */
+    transform: scale(1.1);
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
 button {
@@ -55,7 +64,12 @@ button:hover {
     color: #333;
 }
 
-/* Стили для увеличенного изображения */
+#score {
+    font-size: 18px;
+    color: #333;
+    margin: 10px;
+}
+
 .overlay {
     display: none;
     position: fixed;
@@ -68,7 +82,47 @@ button:hover {
     align-items: center;
 }
 
+.overlay-content {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
 .overlay img {
     max-width: 90%;
     max-height: 90%;
+}
+
+.overlay button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 10px;
+    font-size: 20px;
+}
+
+#prevImage {
+    left: 10px;
+}
+
+#nextImage {
+    right: 10px;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    z-index: 1000;
+    text-align: center;
+}
+
+.modal button {
+    margin: 10px;
 }

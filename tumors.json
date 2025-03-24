@@ -5,7 +5,11 @@
       "images": [
         "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin05.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin06.jpg",
-	"https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin13.jpg"
+        "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin13.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin09.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin10.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin11.jpg"
       ]
     },
     {
@@ -13,15 +17,62 @@
       "images": [
         "https://www.pathologyoutlines.com/imgau/softtissuemyxoidliposarcomajenkins01_20180130-130630new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuemyxoidliposarcomajenkins02_20180130-130736new.jpg",
-	"https://www.pathologyoutlines.com/caseofweek/case200510image4.jpg"
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxoidliposarcomajenkins03_20180130-130844new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxoidliposarcomajenkins04_20180130-130947new.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/04_48L.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/04_45B.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/04_54.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/04_46.jpg"
       ]
     },
     {
       "diagnosis": "Angiolipoma",
       "images": [
         "https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke01.jpg",
-	"https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke02.jpg",
-	"https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke03.jpg"
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke08.jpg"
+      ]
+    },
+    {
+      "diagnosis": "Myolipoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposemyolipomaDehner01.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposemyolipomaDehner02.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposemyolipomaDehner03.jpg"
+      ]
+    },
+    {
+      "diagnosis": "Chondroid lipoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposechondroiduddin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposechondroiduddin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposechondroiduddin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposechondroiduddin08.jpg"
+      ]
+    },
+    {
+      "diagnosis": "Spindle cell / pleomorphic lipoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposepleomorphicgeneral_Warmke01.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposepleomorphicgeneral_Meis01.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/04_22.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/04_21.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposepleomorphicgeneral_Meis03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueadiposepleomorphicgeneral_Meis04.jpg"
+      ]
+    },
+    {
+      "diagnosis": "Atypical spindle cell / pleomorphic lipomatous tumor",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueasltAlexiev03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueasltAlexiev04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueasltAlexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueasltAlexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueasltAlexiev07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueasltObeidin01.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueasltObeidin03.jpg"
       ]
     }
   ]

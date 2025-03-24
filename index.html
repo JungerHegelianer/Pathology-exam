@@ -1,18 +1,21 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Угадай опухоль</title>
+    <title>What’s your diagnosis?</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>Угадай опухоль</h1>
-        <div id="tumorImages"></div> <!-- Контейнер для всех изображений -->
-        <button id="checkButton">Проверить</button>
+        <h1>What’s your diagnosis?</h1>
+        <div id="tumorImages"></div>
+        <input type="text" id="userAnswer"> <!-- Убрано placeholder -->
+        <button id="checkButton">Check</button>
+        <button id="nextImageButton">Next Image</button>
         <p id="result"></p>
-        <button id="nextButton" style="display:none;">Следующая</button>
+        <p id="score">Correct answers: 0</p>
+        <button id="nextTumorButton" style="display:none;">New Tumor</button>
     </div>
     <script src="script.js"></script>
 </body>
