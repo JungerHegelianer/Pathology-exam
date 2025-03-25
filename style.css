@@ -20,28 +20,19 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 10px;
+    gap: 15px;
     margin: 20px 0;
 }
 
 .tumor-image {
-    max-width: 400px;
+    max-width: 600px; /* Увеличенный размер */
     height: auto;
     cursor: pointer;
     transition: transform 0.2s;
 }
 
 .tumor-image:hover {
-    transform: scale(1.1);
-}
-
-input[type="text"] {
-    padding: 10px;
-    font-size: 16px;
-    margin: 10px;
-    width: 300px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    transform: scale(1.05);
 }
 
 button {
@@ -57,6 +48,11 @@ button {
 
 button:hover {
     background-color: #45a049;
+}
+
+button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
 }
 
 #result {

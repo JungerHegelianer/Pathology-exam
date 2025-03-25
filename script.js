@@ -7,45 +7,46 @@ fetch('tumors.json')
     })
     .then(data => {
         console.log('JSON loaded:', data);
-        const tumors = data.tumors;
-        console.log('Number of tumors:', tumors.length);
-        console.log('Tumor list:', tumors.map(t => t.diagnosis));
-        let currentTumor, currentImageIndex, overlayImageIndex, correctAnswers = 0;
+        let tumors = [...data.tumors]; // Копия массива для рандомизации
+        let usedTumors = []; // Массив использованных опухолей
+        let currentTumor, currentImageIndex = 0, correctAnswers = 0, totalTumors = 0;
 
         const imagesContainer = document.getElementById('tumorImages');
         const checkButton = document.getElementById('checkButton');
         const nextImageButton = document.getElementById('nextImageButton');
         const resultElement = document.getElementById('result');
         const nextTumorButton = document.getElementById('nextTumorButton');
-        const userAnswerInput = document.getElementById('userAnswer');
         const scoreElement = document.getElementById('score');
 
-        if (!checkButton || !nextImageButton || !nextTumorButton || !imagesContainer || !resultElement || !userAnswerInput || !scoreElement) {
+        if (!checkButton || !nextImageButton || !nextTumorButton || !imagesContainer || !resultElement || !scoreElement) {
             console.error('Error: One or more elements not found');
             return;
         }
 
-        const tumorLinks = {
-            "Lipoblastoma": "https://www.pathologyoutlines.com/topic/softtissuelipoblastoma.html",
-            "Myxoid Liposarcoma": "https://www.pathologyoutlines.com/topic/softtissuemyxoidliposarcoma.html",
-            "Angiolipoma": "https://www.pathologyoutlines.com/topic/softtissueangiolipoma.html"
-        };
-
         function loadNewTumor() {
-            const randomTumorIndex = Math.floor(Math.random() * tumors.length);
-            currentTumor = tumors[randomTumorIndex];
+            if (tumors.length === 0) {
+                resultElement.textContent = 'No more tumors available!';
+                checkButton.style.display = 'none';
+                nextImageButton.style.display = 'none';
+                nextTumorButton.style.display = 'none';
+                return;
+            }
+
+            const randomIndex = Math.floor(Math.random() * tumors.length);
+            currentTumor = tumors[randomIndex];
+            usedTumors.push(currentTumor);
+            tumors.splice(randomIndex, 1); // Удаляем использованную опухоль
             currentImageIndex = 0;
-            imagesContainer.innerHTML = '';
+
+            imagesContainer.innerHTML = ''; // Очищаем предыдущие изображения
             showImage();
             nextImageButton.style.display = currentTumor.images.length > 1 ? 'inline' : 'none';
             resultElement.innerHTML = '';
             nextTumorButton.style.display = 'none';
-            userAnswerInput.value = '';
-            console.log('Loaded new tumor:', currentTumor.diagnosis);
+            checkButton.disabled = false;
         }
 
         function showImage() {
-            imagesContainer.innerHTML = '';
             const img = document.createElement('img');
             img.src = currentTumor.images[currentImageIndex];
             img.className = 'tumor-image';
@@ -56,12 +57,10 @@ fetch('tumors.json')
             };
             img.addEventListener('click', () => showOverlay(currentImageIndex));
             imagesContainer.appendChild(img);
-            console.log('Shown image:', img.src);
             nextImageButton.style.display = currentImageIndex < currentTumor.images.length - 1 ? 'inline' : 'none';
         }
 
         function showOverlay(index) {
-            overlayImageIndex = index;
             let overlay = document.querySelector('.overlay');
             if (!overlay) {
                 overlay = document.createElement('div');
@@ -80,31 +79,31 @@ fetch('tumors.json')
                 });
 
                 document.getElementById('prevImage').addEventListener('click', () => {
-                    if (overlayImageIndex > 0) {
-                        overlayImageIndex--;
+                    if (currentImageIndex > 0) {
+                        currentImageIndex--;
                         updateOverlayImage();
                     }
                 });
 
                 document.getElementById('nextImage').addEventListener('click', () => {
-                    if (overlayImageIndex < currentTumor.images.length - 1) {
-                        overlayImageIndex++;
+                    if (currentImageIndex < currentTumor.images.length - 1) {
+                        currentImageIndex++;
                         updateOverlayImage();
                     }
                 });
             }
             overlay.style.display = 'flex';
+            currentImageIndex = index;
             updateOverlayImage();
         }
 
         function updateOverlayImage() {
             const overlayImg = document.querySelector('.overlay img');
-            overlayImg.src = currentTumor.images[overlayImageIndex];
-            console.log('Overlay image:', overlayImg.src);
+            overlayImg.src = currentTumor.images[currentImageIndex];
             const prevButton = document.getElementById('prevImage');
             const nextButton = document.getElementById('nextImage');
-            prevButton.style.display = overlayImageIndex > 0 ? 'block' : 'none';
-            nextButton.style.display = overlayImageIndex < currentTumor.images.length - 1 ? 'block' : 'none';
+            prevButton.style.display = currentImageIndex > 0 ? 'block' : 'none';
+            nextButton.style.display = currentImageIndex < currentTumor.images.length - 1 ? 'block' : 'none';
         }
 
         function showSelfAssessmentModal() {
@@ -113,38 +112,38 @@ fetch('tumors.json')
                 modal = document.createElement('div');
                 modal.className = 'modal';
                 modal.innerHTML = `
-                    <p>Did you get it right?</p>
-                    <button id="selfCorrect">I got it right</button>
-                    <button id="selfIncorrect">I got it wrong</button>
+                    <p>Correct diagnosis: ${currentTumor.diagnosis}</p>
+                    <button id="selfCorrect">I was right</button>
+                    <button id="selfIncorrect">I was wrong</button>
                 `;
                 document.body.appendChild(modal);
 
                 document.getElementById('selfCorrect').addEventListener('click', () => {
                     correctAnswers++;
-                    scoreElement.textContent = `Correct answers: ${correctAnswers}`;
+                    totalTumors++;
+                    scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
                     modal.style.display = 'none';
                     nextTumorButton.style.display = 'inline';
                 });
 
                 document.getElementById('selfIncorrect').addEventListener('click', () => {
-                    scoreElement.textContent = `Correct answers: ${correctAnswers}`;
+                    totalTumors++;
+                    scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
                     modal.style.display = 'none';
                     nextTumorButton.style.display = 'inline';
                 });
+            } else {
+                modal.querySelector('p').textContent = `Correct diagnosis: ${currentTumor.diagnosis}`;
             }
             modal.style.display = 'block';
         }
 
         checkButton.addEventListener('click', () => {
             if (currentTumor) {
-                const link = tumorLinks[currentTumor.diagnosis] ? 
-                    `<a href="${tumorLinks[currentTumor.diagnosis]}" target="_blank">Read more</a>` : 
-                    'No article link available';
-                resultElement.innerHTML = `Diagnosis: ${currentTumor.diagnosis}<br>${link}`;
+                resultElement.textContent = `Diagnosis: ${currentTumor.diagnosis}`;
                 nextImageButton.style.display = 'none';
+                checkButton.disabled = true;
                 showSelfAssessmentModal();
-            } else {
-                resultElement.textContent = 'Error: No tumor loaded';
             }
         });
 
@@ -161,5 +160,6 @@ fetch('tumors.json')
     })
     .catch(error => {
         console.error('Error:', error);
-        document.getElementById('result') && (document.getElementById('result').textContent = 'Error loading data');
+        const result = document.getElementById('result');
+        if (result) result.textContent = 'Error loading data';
     });
