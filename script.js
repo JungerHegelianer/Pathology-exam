@@ -7,22 +7,25 @@ fetch('tumors.json')
     })
     .then(data => {
         console.log('JSON loaded:', data);
-        let tumors = [...data.tumors]; // Копия массива для рандомизации
-        let usedTumors = []; // Массив использованных опухолей
+        let tumors = [...data.tumors];
+        let usedTumors = [];
         let currentTumor, currentImageIndex = 0, correctAnswers = 0, totalTumors = 0;
 
         const imagesContainer = document.getElementById('tumorImages');
+        const clinicalInfoElement = document.getElementById('clinicalInfo');
         const checkButton = document.getElementById('checkButton');
         const nextImageButton = document.getElementById('nextImageButton');
         const resultElement = document.getElementById('result');
         const nextTumorButton = document.getElementById('nextTumorButton');
         const scoreElement = document.getElementById('score');
 
-        if (!checkButton || !nextImageButton || !nextTumorButton || !imagesContainer || !resultElement || !scoreElement) {
+        // Проверка наличия всех необходимых элементов DOM
+        if (!checkButton || !nextImageButton || !nextTumorButton || !imagesContainer || !resultElement || !scoreElement || !clinicalInfoElement) {
             console.error('Error: One or more elements not found');
             return;
         }
 
+        // Функция загрузки новой опухоли
         function loadNewTumor() {
             if (tumors.length === 0) {
                 resultElement.textContent = 'No more tumors available!';
@@ -35,18 +38,23 @@ fetch('tumors.json')
             const randomIndex = Math.floor(Math.random() * tumors.length);
             currentTumor = tumors[randomIndex];
             usedTumors.push(currentTumor);
-            tumors.splice(randomIndex, 1); // Удаляем использованную опухоль
+            tumors.splice(randomIndex, 1);
             currentImageIndex = 0;
 
-            imagesContainer.innerHTML = ''; // Очищаем предыдущие изображения
-            showImage();
-            nextImageButton.style.display = currentTumor.images.length > 1 ? 'inline' : 'none';
+            imagesContainer.innerHTML = '';
+            clinicalInfoElement.textContent = currentTumor.clinicalInfo || '';
+            clinicalInfoElement.style.fontStyle = 'italic';
+            clinicalInfoElement.style.textAlign = 'center';
+            clinicalInfoElement.style.marginBottom = '10px';
+            showInitialImage();
+            nextImageButton.style.display = currentImageIndex < currentTumor.images.length - 1 ? 'inline' : 'none';
             resultElement.innerHTML = '';
             nextTumorButton.style.display = 'none';
             checkButton.disabled = false;
         }
 
-        function showImage() {
+        // Функция отображения первой картинки
+        function showInitialImage() {
             const img = document.createElement('img');
             img.src = currentTumor.images[currentImageIndex];
             img.className = 'tumor-image';
@@ -55,11 +63,31 @@ fetch('tumors.json')
                 img.alt = 'Image not available';
                 console.error('Failed to load image:', img.src);
             };
-            img.addEventListener('click', () => showOverlay(currentImageIndex));
+            img.dataset.index = currentImageIndex; // Сохраняем индекс в dataset
+            img.addEventListener('click', (e) => showOverlay(parseInt(e.target.dataset.index)));
+            img.style.display = 'inline-block';
+            img.style.margin = '5px';
             imagesContainer.appendChild(img);
-            nextImageButton.style.display = currentImageIndex < currentTumor.images.length - 1 ? 'inline' : 'none';
         }
 
+        // Функция добавления следующей картинки
+        function addNextImage() {
+            const img = document.createElement('img');
+            img.src = currentTumor.images[currentImageIndex];
+            img.className = 'tumor-image';
+            img.alt = 'Microphotograph';
+            img.onerror = () => {
+                img.alt = 'Image not available';
+                console.error('Failed to load image:', img.src);
+            };
+            img.dataset.index = currentImageIndex; // Сохраняем индекс в dataset
+            img.addEventListener('click', (e) => showOverlay(parseInt(e.target.dataset.index)));
+            img.style.display = 'inline-block';
+            img.style.margin = '5px';
+            imagesContainer.appendChild(img);
+        }
+
+        // Функция показа увеличенного изображения в оверлее
         function showOverlay(index) {
             let overlay = document.querySelector('.overlay');
             if (!overlay) {
@@ -93,10 +121,11 @@ fetch('tumors.json')
                 });
             }
             overlay.style.display = 'flex';
-            currentImageIndex = index;
+            currentImageIndex = index; // Устанавливаем индекс кликнутой картинки
             updateOverlayImage();
         }
 
+        // Функция обновления изображения в оверлее
         function updateOverlayImage() {
             const overlayImg = document.querySelector('.overlay img');
             overlayImg.src = currentTumor.images[currentImageIndex];
@@ -106,15 +135,21 @@ fetch('tumors.json')
             nextButton.style.display = currentImageIndex < currentTumor.images.length - 1 ? 'block' : 'none';
         }
 
+        // Функция показа модального окна с оценкой
         function showSelfAssessmentModal() {
             let modal = document.querySelector('.modal');
+            const linkHtml = currentTumor.articleLink ? 
+                `<a href="${currentTumor.articleLink}" target="_blank">Read more on Pathology Outlines</a>` : 
+                'No article link available';
             if (!modal) {
                 modal = document.createElement('div');
                 modal.className = 'modal';
                 modal.innerHTML = `
                     <p>Correct diagnosis: ${currentTumor.diagnosis}</p>
+                    <p>${linkHtml}</p>
                     <button id="selfCorrect">I was right</button>
                     <button id="selfIncorrect">I was wrong</button>
+                    <p id="modalScore">Score: ${correctAnswers}/${totalTumors}</p>
                 `;
                 document.body.appendChild(modal);
 
@@ -122,6 +157,7 @@ fetch('tumors.json')
                     correctAnswers++;
                     totalTumors++;
                     scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
+                    modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
                     modal.style.display = 'none';
                     nextTumorButton.style.display = 'inline';
                 });
@@ -129,11 +165,14 @@ fetch('tumors.json')
                 document.getElementById('selfIncorrect').addEventListener('click', () => {
                     totalTumors++;
                     scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
+                    modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
                     modal.style.display = 'none';
                     nextTumorButton.style.display = 'inline';
                 });
             } else {
-                modal.querySelector('p').textContent = `Correct diagnosis: ${currentTumor.diagnosis}`;
+                modal.querySelector('p:first-child').textContent = `Correct diagnosis: ${currentTumor.diagnosis}`;
+                modal.querySelector('p:nth-child(2)').innerHTML = linkHtml;
+                modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
             }
             modal.style.display = 'block';
         }
@@ -150,7 +189,8 @@ fetch('tumors.json')
         nextImageButton.addEventListener('click', () => {
             if (currentImageIndex < currentTumor.images.length - 1) {
                 currentImageIndex++;
-                showImage();
+                addNextImage();
+                nextImageButton.style.display = currentImageIndex < currentTumor.images.length - 1 ? 'inline' : 'none';
             }
         });
 

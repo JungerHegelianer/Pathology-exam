@@ -1,7 +1,7 @@
 {
   "tumors": [
     {
-      "diagnosis": "Lipoblastoma",
+      "diagnosis": "Lipoblastoma / lipoblastomatosis",
       "images": [
         "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin05.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin06.jpg",
@@ -10,7 +10,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin09.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin10.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuelipoblastomauddin11.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueadiposelipoblastoma.html",
+      "clinicalInfo": "2 year old boy with a soft, painless mass on the thigh"
     },
     {
       "diagnosis": "Myxoid Liposarcoma",
@@ -23,7 +25,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/04_45B.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/04_54.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/04_46.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuemyxoidliposarcoma.html",
+      "clinicalInfo": "45 year old woman with a painless, slowly growing mass on the lower leg"
     },
     {
       "diagnosis": "Angiolipoma",
@@ -33,7 +37,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke04.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke05.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposeangiolipomawarmke08.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueadiposeangiolipoma.html",
+      "clinicalInfo": "28 year old man with a tender subcutaneous nodule on the forearm"
     },
     {
       "diagnosis": "Myolipoma",
@@ -41,7 +47,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueadiposemyolipomaDehner01.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposemyolipomaDehner02.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposemyolipomaDehner03.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueadiposemyolipoma.html",
+      "clinicalInfo": "50 year old woman with a painless mass in the pelvic region"
     },
     {
       "diagnosis": "Chondroid lipoma",
@@ -50,7 +58,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueadiposechondroiduddin06.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposechondroiduddin07.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposechondroiduddin08.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueadiposechondroid.html",
+      "clinicalInfo": "35 year old woman with a firm, nontender mass on the shoulder"
     },
     {
       "diagnosis": "Spindle cell / pleomorphic lipoma",
@@ -61,7 +71,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/04_21.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposepleomorphicgeneral_Meis03.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposepleomorphicgeneral_Meis04.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueadiposepleomorphicgeneral.html",
+      "clinicalInfo": "60 year old man with a soft, mobile mass on the upper back"
     },
     {
       "diagnosis": "Atypical spindle cell / pleomorphic lipomatous tumor",
@@ -73,7 +85,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueasltAlexiev07.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueasltObeidin01.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueasltObeidin03.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueaslt.html",
+      "clinicalInfo": "55 year old man with a slowly growing mass on the thigh"
     },
     {
       "diagnosis": "Hibernoma",
@@ -87,7 +101,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueadiposehibernomaUdDin09.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposehibernomaUdDin10.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposehibernomaUdDin11.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueadiposehibernoma.html",
+      "clinicalInfo": "40 year old woman with a painless, soft mass on the neck"
     },
     {
       "diagnosis": "Atypical lipomatous tumor / well differentiated liposarcoma",
@@ -98,7 +114,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissue/softtissuewdliposarcomaClay06.jpg",
         "https://www.pathologyoutlines.com/imgau/testisliposarcomabourgeau02.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/04_26A.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuewdliposarcoma.html",
+      "clinicalInfo": "62 year old man with a large, painless mass in the retroperitoneum"
     },
     {
       "diagnosis": "Dedifferentiated liposarcoma",
@@ -109,7 +127,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuededifflipoclay05new.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/04_37.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/04_39.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuededifflipo.html",
+      "clinicalInfo": "58 year old woman with a rapidly growing abdominal mass"
     },
     {
       "diagnosis": "Pleomorphic liposarcoma",
@@ -121,7 +141,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueadiposepleomorphiclipoSuster08.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposepleomorphiclipoSuster09.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadiposepleomorphiclipoSuster10.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueadiposepleomorphiclipo.html",
+      "clinicalInfo": "65 year old man with a painful, firm mass on the upper arm"
     },
     {
       "diagnosis": "Myxoid pleomorphic liposarcoma",
@@ -131,7 +153,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuemyxoidplsPerret03.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuemyxoidplsPerret04.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuemyxoidplsPerret05.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuemyxoidpls.html",
+      "clinicalInfo": "19 year old woman with a soft, enlarging mass on the thigh"
     },
     {
       "diagnosis": "Nodular fasciitis",
@@ -141,7 +165,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuenfDickson02anew.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuenfDickson02bnew.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuenfDickson003bnew.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuenf.html",
+      "clinicalInfo": "30 year old man with a rapidly growing, tender nodule on the forearm"
     },
     {
       "diagnosis": "Proliferative fasciitis",
@@ -154,7 +180,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/02_17L.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_15R.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_15L.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueproliferativefasciitis.html",
+      "clinicalInfo": "45 year old woman with a painful, firm mass on the hand"
     },
     {
       "diagnosis": "Proliferative myositis",
@@ -166,7 +194,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/02_12R.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_14L.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_14R.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueproliferativemyositis.html",
+      "clinicalInfo": "50 year old man with a tender, rapidly enlarging mass in the shoulder muscle"
     },
     {
       "diagnosis": "Myositis ossificans and fibro-osseous pseudotumor of digits",
@@ -181,7 +211,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuemyositisossificansgardner01.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuemyositisossificansgardner02.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuemyositisossificansgardner03.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuemyositisossificans.html",
+      "clinicalInfo": "25 year old man with a painful, firm mass in the thigh after trauma"
     },
     {
       "diagnosis": "Ischemic fasciitis",
@@ -195,7 +227,9 @@
         "https://www.pathologyoutlines.com/caseofweek/case200664image2.jpg",
         "https://www.pathologyoutlines.com/caseofweek/case200664image3.jpg",
         "https://www.pathologyoutlines.com/caseofweek/case200664image4.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueischemic.html",
+      "clinicalInfo": "70 year old woman with a painless mass over the sacrum due to prolonged immobility"
     },
     {
       "diagnosis": "Elastofibroma",
@@ -206,7 +240,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueelastofibromaUdDinmicro04.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueelastofibromaUdDinmicro05.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueelastofibromaUdDinmicro06.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueelastofibroma.html",
+      "clinicalInfo": "65 year old man with a subscapular mass causing mild discomfort"
     },
     {
       "diagnosis": "Fibrous hamartoma of infancy",
@@ -217,7 +253,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuefibroushamartUdDinmicro4.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuefibroushamartUdDinmicro5.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuefibroushamartUdDinmicro6.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuefibroushamart.html",
+      "clinicalInfo": "1 year old boy with a firm, nontender mass on the upper arm"
     },
     {
       "diagnosis": "Fibromatosis colli",
@@ -225,7 +263,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/02_37.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_38L.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_38R.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuefibromatosiscolli.html",
+      "clinicalInfo": "Newborn boy with a firm neck mass and torticollis"
     },
     {
       "diagnosis": "Inclusion body fibromatosis",
@@ -236,7 +276,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/02_43.jpg",
         "https://www.pathologyoutlines.com/wick/softtissue/fibromadigitalchildhoodcytoplasmicinclusionstri.jpg",
         "https://www.pathologyoutlines.com/wick/softtissue/fibromadigitalchildhoodcytoplasmicinclusionsmic.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueinfantiledigitalfibromatosis.html",
+      "clinicalInfo": "6 month old girl with a painless nodule on the finger"
     },
     {
       "diagnosis": "Fibroma of tendon sheath",
@@ -253,7 +295,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/02_23R.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_24R.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_24L.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuefibromatendon.html",
+      "clinicalInfo": "40 year old man with a slow-growing, firm nodule near the wrist"
     },
     {
       "diagnosis": "Desmoplastic fibroblastoma",
@@ -261,7 +305,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/02_28A.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_28B.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_28C.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuecollagenousfibroma.html",
+      "clinicalInfo": "55 year old woman with a painless, firm mass on the upper arm"
     },
     {
       "diagnosis": "Calcifying aponeurotic fibroma",
@@ -276,7 +322,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/02_35L.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_35R.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_36.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuecalcifying.html",
+      "clinicalInfo": "12 year old boy with a slowly growing, firm mass on the hand"
     },
     {
       "diagnosis": "EWSR1::SMAD3 positive fibroblastic tumor",
@@ -288,7 +336,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueesftmichal4.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueesftmichal6.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueesftmichal7.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueesft.html",
+      "clinicalInfo": "30 year old woman with a painless, superficial mass on the foot"
     },
     {
       "diagnosis": "Angiomyofibroblastoma",
@@ -303,7 +353,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueangiomyofibroblastoUdDin08.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueangiomyofibroblastoUdDin09.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueangiomyofibroblastoUdDin10.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueangiomyofibroblastoma.html",
+      "clinicalInfo": "42 year old woman with a painless vulvar mass"
     },
     {
       "diagnosis": "Cellular angiofibroma",
@@ -314,7 +366,9 @@
         "https://www.pathologyoutlines.com/imgau/Softtissuecellularangiofibroma14.jpg",
         "https://www.pathologyoutlines.com/imgau/Softtissuecellularangiofibroma15.jpg",
         "https://www.pathologyoutlines.com/imgau/Softtissuecellularangiofibroma16.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuecellularangiofibroma.html",
+      "clinicalInfo": "48 year old woman with a painless mass in the vulvovaginal region"
     },
     {
       "diagnosis": "Angiofibroma of soft tissue",
@@ -333,7 +387,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueangiofibromauddin19.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueangiofibromauddin20.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueangiofibromauddin21.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueangiofibroma.html",
+      "clinicalInfo": "35 year old man with a painless mass on the lower leg"
     },
     {
       "diagnosis": "Nuchal type fibroma",
@@ -344,7 +400,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuenuchaltypefibromathangaiah04.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuenuchaltypefibromathangaiah05.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuenuchaltypefibromathangaiah06.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuenuchaltypefibroma.html",
+      "clinicalInfo": "45 year old man with a firm, painless mass at the back of the neck"
     },
     {
       "diagnosis": "Superficial acral fibromyxoma",
@@ -355,7 +413,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuesuperficialacralUdDin04.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuesuperficialacralUdDin05.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuesuperficialacralUdDin06.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuesuperficialacral.html",
+      "clinicalInfo": "38 year old woman with a slow-growing nodule on the toe"
     },
     {
       "diagnosis": "Gardner fibroma",
@@ -366,7 +426,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuegardnerfibromaMicroMachado4.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuegardnerfibromaMicroMachado5.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuegardnerfibromaMicroMachado6.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuegardnerfibroma.html",
+      "clinicalInfo": "10 year old boy with a painless mass on the back"
     },
     {
       "diagnosis": "Solitary fibrous tumor",
@@ -378,7 +440,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuesftDermawan05.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuesftFritchie01.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuesftFritchie03.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuesft.html",
+      "clinicalInfo": "50 year old woman with a slow-growing mass in the pleural cavity"
     },
     {
       "diagnosis": "Fibromatosis-palmar / plantar",
@@ -392,7 +456,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuefibromatosissuperficialStewart020.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuefibromatosissuperficialStewart021.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuefibromatosissuperficialStewart022.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuefibromatosissuperficial.html",
+      "clinicalInfo": "40 year old man with firm, painful nodules on the palm"
     },
     {
       "diagnosis": "Fibromatosis-desmoid",
@@ -407,7 +473,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuefibromatosisdeepobeidinmicro11update.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuefibromatosisdeepobeidinmicro12update.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuefibromatosisdeepobeidinmicro13update.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuefibromatosisdeep.html",
+      "clinicalInfo": "35 year old woman with a firm, painless abdominal wall mass"
     },
     {
       "diagnosis": "Giant cell fibroblastoma",
@@ -423,7 +491,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/03_34B.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/03_34C.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/03_35L.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuegiantcellfibro.html",
+      "clinicalInfo": "4 year old boy with a painless, subcutaneous mass on the chest"
     },
     {
       "diagnosis": "Dermatofibrosarcoma protuberans (DFSP)",
@@ -437,7 +507,9 @@
         "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticdfspDickson09new.jpg",
         "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticdfspDickson10new.jpg",
         "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticdfspDickson11new.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticdfsp.html",
+      "clinicalInfo": "35 year old man with a slowly growing, firm plaque on the trunk"
     },
     {
       "diagnosis": "Adult fibrosarcoma",
@@ -454,7 +526,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/02_65R.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_66L.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/02_66R.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuefibrosarcoma.html",
+      "clinicalInfo": "50 year old woman with a painful, rapidly growing mass on the thigh"
     },
     {
       "diagnosis": "Myxofibrosarcoma",
@@ -473,7 +547,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuemyxofibrosarcomauddin14.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuemyxofibrosarcomauddin15.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuemyxofibrosarcomauddin16.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuemyxofibrosarcoma.html",
+      "clinicalInfo": "70 year old man with a soft, enlarging mass on the lower leg"
     },
     {
       "diagnosis": "Low grade fibromyxoid sarcoma",
@@ -487,7 +563,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuelgfibromyxoid_Rodacker03.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuelgfibromyxoid_Rodacker05.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuelgfibromyxoidgonzalez06.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuelgfibromyxoid.html",
+      "clinicalInfo": "30 year old woman with a painless, deep-seated mass on the thigh"
     },
     {
       "diagnosis": "Sclerosing epithelioid fibrosarcoma",
@@ -496,7 +574,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuesclerosingepithelioidfibrosarcomaAlexiev04.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuesclerosingepithelioidfibrosarcomaAlexiev05.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuesclerosingepithelioidfibrosarcomaAlexiev06.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuesclerosingepithelioidfibrosarcoma.html",
+      "clinicalInfo": "45 year old man with a firm, slowly growing mass in the chest wall"
     },
     {
       "diagnosis": "Tenosynovial giant cell tumor/giant cell tumor of tendon sheath",
@@ -509,7 +589,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuegctlocalWhisman_06.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuegctlocalwangcui08.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuegctlocalwangcui09.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuegctlocal.html",
+      "clinicalInfo": "35 year old woman with a painless, firm nodule near the finger joint"
     },
     {
       "diagnosis": "Deep fibrous histiocytoma/Dermatofibroma",
@@ -518,7 +600,9 @@
         "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticdeepbfhQasem02.jpg",
         "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticdeepbfhQasem05.jpg",
         "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticdeepbfhQasem07.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticdeepbfh.html",
+      "clinicalInfo": "40 year old woman with a firm, nontender subcutaneous mass on the leg"
     },
     {
       "diagnosis": "Plexiform fibrohistiocytic tumor",
@@ -536,14 +620,18 @@
         "https://www.pathologyoutlines.com/images/softtissue/03_39.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/03_41R.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/03_40.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueplexiformfh.html",
+      "clinicalInfo": "15 year old girl with a painless, multinodular mass on the forearm"
     },
     {
       "diagnosis": "Hemangioma",
       "images": [
         "https://www.pathologyoutlines.com/imgau/softtissuehemangiomauddin04.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuehemangiomauddin06.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuehemangioma.html",
+      "clinicalInfo": "25 year old woman with a soft, compressible mass on the neck"
     },
     {
       "diagnosis": "Arteriovenous malformation",
@@ -554,7 +642,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuearteriovenousmalformationslack07.jpg",
         "https://www.pathologyoutlines.com/imgau/bladderAVMAndrew_Fltv01.jpg",
         "https://www.pathologyoutlines.com/imgau/bladderAVMAndrew_Fltv02.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuehemangioma.html",
+      "clinicalInfo": "18 year old man with a pulsatile, painful mass on the scalp"
     },
     {
       "diagnosis": "Venous hemangioma",
@@ -565,7 +655,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuevenoushemangiomaqiao04new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuevenoushemangiomaqiao05new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuevenoushemangiomaqiao06new.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuehemangioma.html",
+      "clinicalInfo": "30 year old woman with a bluish, soft mass on the forearm"
     },
     {
       "diagnosis": "Anastomosing hemangioma",
@@ -576,7 +668,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueanastomosinghemangiomaFrozSamiei4.jpeg",
         "https://www.pathologyoutlines.com/imgau/softtissuehemangiomauddin01.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuehemangiomauddin02.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuehemangioma.html",
+      "clinicalInfo": "55 year old man with a painless mass in the kidney"
     },
     {
       "diagnosis": "Epithelioid hemangioma",
@@ -585,7 +679,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueepithelioidhemangiomaAlexiev02new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueepithelioidhemangiomaAlexiev03new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueepithelioidhemangiomaPathOutPic01.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuehemangioma.html",
+      "clinicalInfo": "40 year old woman with a tender, red nodule on the ear"
     },
     {
       "diagnosis": "Lymphangioma",
@@ -602,7 +698,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuelymphangiomaObeidinmicro10.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuelymphangiomaObeidinmicro11.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuelymphangiomaObeidinmicro12.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuelymphangioma.html",
+      "clinicalInfo": "5 year old girl with a soft, cystic mass on the neck"
     },
     {
       "diagnosis": "Cystic / cavernous lymphangioma",
@@ -611,7 +709,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuelymphangiomacysticmicroWarmke02.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuelymphangiomacysticmicroWarmke03.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuelymphangiomacysticmicroWarmke04.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuelymphangioma.html",
+      "clinicalInfo": "3 year old boy with a large, fluctuant mass in the axilla"
     },
     {
       "diagnosis": "Kaposiform hemangioendothelioma & tufted angioma",
@@ -628,7 +728,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueKHEphungmicro30.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueKHEphungmicro32.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueKHEphungmicro33.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuehemangioendotheliomakaposiform.html",
+      "clinicalInfo": "1 year old boy with a purplish, firm mass on the leg"
     },
     {
       "diagnosis": "Retiform hemangioendothelioma",
@@ -643,7 +745,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueretiformHEuddin08.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueretiformHEuddin09.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueretiformHEuddin10.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuehemangioendotheliomaretiform.html",
+      "clinicalInfo": "50 year old woman with a slow-growing, reddish plaque on the arm"
     },
     {
       "diagnosis": "Papillary intralymphatic angioendothelioma/Dabska tumor",
@@ -651,7 +755,9 @@
         "https://www.pathologyoutlines.com/wick/softtissue/dabskatumormicro1.jpg",
         "https://www.pathologyoutlines.com/wick/softtissue/dabskatumormicro2.jpg",
         "https://www.pathologyoutlines.com/wick/softtissue/dabskatumormicro3.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuehemangioendotheliomaendovascular.html",
+      "clinicalInfo": "6 year old girl with a painless, purple mass on the leg"
     },
     {
       "diagnosis": "Composite hemangioendothelioma",
@@ -661,7 +767,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomacompositeBorislav03new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomacompositeBorislav04new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomacompositeBorislav05new.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuehemangioendotheliomaepithelioid.html#composite",
+      "clinicalInfo": "31 year old man with painless slow growing swelling on upper back"
     },
     {
       "diagnosis": "Kaposi sarcoma",
@@ -678,7 +786,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuekaposiWishman11new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuekaposiWishman12new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuekaposiwick02new.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuekaposi.html",
+      "clinicalInfo": "45 year old man with multiple purple skin lesions on the legs"
     },
     {
       "diagnosis": "Pseudomyogenic hemangioendothelioma",
@@ -693,7 +803,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuepseudomyogenichemangioobeidin20new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuepseudomyogenichemangioobeidin21new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuepseudomyogenichemangioobeidin22new.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuepseudomyogenichemangio.html",
+      "clinicalInfo": "25 year old man with multiple firm nodules on the lower leg"
     },
     {
       "diagnosis": "Epithelioid hemangioendothelioma",
@@ -705,7 +817,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomaepithelioidBrcic5.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomaepithelioidBrcic6.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomaepithelioidBrcic7.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuehemangioendotheliomaepithelioid.html",
+      "clinicalInfo": "40 year old woman with a painless mass in the liver"
     },
     {
       "diagnosis": "Glomus tumor",
@@ -717,7 +831,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueglomusObeidin_17.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueglomusObeidin_19.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueglomusObeidin_20.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueglomus.html",
+      "clinicalInfo": "35 year old woman with a painful, tender nodule under the fingernail"
     },
     {
       "diagnosis": "Glomangioma",
@@ -725,13 +841,17 @@
         "https://www.pathologyoutlines.com/imgau/softtissueglomusObeidin_22.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueglomusObeidin_23.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueglomusObeidin_24.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueglomus.html",
+      "clinicalInfo": "40 year old man with a bluish, tender mass on the hand"
     },
     {
       "diagnosis": "Glomangiomyoma",
       "images": [
         "https://www.pathologyoutlines.com/imgau/softtissueglomusObeidin_25.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueglomus.html",
+      "clinicalInfo": "50 year old woman with a firm, painless mass on the forearm"
     },
     {
       "diagnosis": "Malignant glomus tumor",
@@ -739,7 +859,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueglomusObeidin_26.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueglomusObeidin_27.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueglomusObeidin_28.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueglomus.html",
+      "clinicalInfo": "45 year old man with a rapidly growing, painful mass on the leg"
     },
     {
       "diagnosis": "Leiomyoma",
@@ -749,7 +871,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueleiomyomaWarmke03.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueleiomyomaWarmke04.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueleiomyomaWarmke05.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueleiomyoma.html",
+      "clinicalInfo": "50 year old woman with a painless, firm mass in the uterus"
     },
     {
       "diagnosis": "Epstein-Barr virus associated smooth muscle tumor",
@@ -759,7 +883,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueebvAlexievmicro03.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueebvAlexievmicro04.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueebvAlexievmicro05.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueebv.html",
+      "clinicalInfo": "35 year old man with a painless mass in the liver post-transplantation"
     },
     {
       "diagnosis": "Leiomyosarcoma",
@@ -772,7 +898,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueleiomyosarcomamicroAlexiev06.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueleiomyosarcomamicroAlexiev07.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueleiomyosarcomamicroAlexiev08.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueleiomyosarcoma.html",
+      "clinicalInfo": "60 year old woman with a painful, rapidly growing mass in the thigh"
     },
     {
       "diagnosis": "Inflammatory leiomyosarcoma",
@@ -781,9 +909,10 @@
         "https://www.pathologyoutlines.com/imgau/softtissueinflammatoryLMSmontgomery01.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueinflammatoryLMSmontgomery02.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueinflammatoryLMSmontgomery03.jpg",
-        "https://www.pathologyoutlines.com/imgau/softtissueinflammatoryLMSmonto Montgomery03.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueinflammatoryLMSmontoya06.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueinflammatoryleiomyosarcoma.html",
+      "clinicalInfo": "55 year old man with a tender mass on the leg with inflammatory signs"
     },
     {
       "diagnosis": "Rhabdomyoma",
@@ -791,7 +920,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissueadultrhabdomyomaDehner01.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadultrhabdomyomaDehner02.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissueadultrhabdomyomaDehner03.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueadultrhabdomyoma.html#fetal",
+      "clinicalInfo": "50 year old man with a painless mass in the tongue"
     },
     {
       "diagnosis": "Fetal type rhabdomyoma",
@@ -812,7 +943,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/06_05C.jpg",
         "https://www.pathologyoutlines.com/wick/softtissue/rhabdomyomabasetonguejuveniletypemic1.jpg",
         "https://www.pathologyoutlines.com/wick/softtissue/rhabdomyomabasetonguejuveniletypemic2.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueadultrhabdomyoma.html#fetal",
+      "clinicalInfo": "2 year old boy with a soft, nontender mass on the neck"
     },
     {
       "diagnosis": "Genital type rhabdomyoma",
@@ -820,7 +953,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/06_11A.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/06_11B.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/06_11C.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueadultrhabdomyoma.html#fetal",
+      "clinicalInfo": "40 year old woman with a painless vaginal mass"
     },
     {
       "diagnosis": "Embryonal rhabdomyosarcoma",
@@ -837,7 +972,9 @@
         "https://www.pathologyoutlines.com/images/softtissue/06_33D.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/06_33E.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/06_27L.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueembryonalrhabdo.html",
+      "clinicalInfo": "5 year old boy with a rapidly growing mass in the orbit"
     },
     {
       "diagnosis": "Alveolar rhabdomyosarcoma",
@@ -853,7 +990,9 @@
         "https://www.pathologyoutlines.com/imgau/softtissuealvrhabdoUdDin09.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuealvrhabdoUdDin10.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuealvrhabdoUdDin11.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuealvrhabdo.html",
+      "clinicalInfo": "15 year old girl with a rapidly growing mass on the arm"
     },
     {
       "diagnosis": "Pleomorphic rhabdomyosarcoma",
@@ -868,21 +1007,27 @@
         "https://www.pathologyoutlines.com/images/softtissue/06_44A.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/06_44B.jpg",
         "https://www.pathologyoutlines.com/images/softtissue/06_44C.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuepleomorphicrhabdo.html",
+      "clinicalInfo": "60 year old man with a painful, firm mass on the thigh"
     },
     {
       "diagnosis": "Spindle cell / sclerosing rhabdomyosarcoma",
       "images": [
         "https://www.pathologyoutlines.com/imgau/softtissuesclerosingrhabdoKao01new.jpg",
         "https://www.pathologyoutlines.com/imgau/softtissuesclerosingrhabdoKao02new.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuesclerosingrhabdo.html",
+      "clinicalInfo": "25 year old man with a firm, slowly growing mass on the neck"
     },
     {
       "diagnosis": "Ectomesenchymoma",
       "images": [
         "https://www.pathologyoutlines.com/imgau/prostateectomesdickson01new.jpg",
         "https://www.pathologyoutlines.com/imgau/prostateectomesdickson02new.jpg"
-      ]
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueectomes.html",
+      "clinicalInfo": "5 year old boy with a painful mass in the pelvic region"
     },
     {
       "diagnosis": "GIST",
@@ -896,8 +1041,460 @@
         "https://www.pathologyoutlines.com/imgau/stomachGISTBell_16.jpg",
         "https://www.pathologyoutlines.com/imgau/stomachGISTBell_17.jpg",
         "https://www.pathologyoutlines.com/imgau/stomachGISTBell_18.jpg",
-        "https://www.pathologyoutlines.com/imgau/stomachGISTBell_19.jpg"
-      ]
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBell_19.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBychkov_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBychkov_08.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachGIST.html",
+      "clinicalInfo": "55 year old man with abdominal pain and a gastric mass"
+    },
+    {
+      "diagnosis": "Soft tissue chondroma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondromaRosenberg04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondromaRosenberg05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondromaRosenberg06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondromaRosenberg07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondromaRosenberg08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondromaRosenberg09.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueeskchondroma.html",
+      "clinicalInfo": "40 year old woman with a firm, painless mass on the finger"
+    },
+    {
+      "diagnosis": "Extraskeletal osteosarcoma",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case370case1image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case370case1image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case370case1image7.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case370case1image8Cytokeratin.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case370case2image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case370case2image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case370case2image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case370case2image6.jpg",
+        "https://www.pathologyoutlines.com/wick/softtissue/osteosarcomaextraskeletaltypeupperarmmicro2.jpg",
+        "https://www.pathologyoutlines.com/wick/softtissue/osteosarcomaextraskeletaltypeupperarmmicro1.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueeskosteo.html",
+      "clinicalInfo": "65 year old man with a painful, rapidly growing mass on the thigh"
+    },
+    {
+      "diagnosis": "Schwannoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueschwannomakamel_23.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueschwannomakamel_26.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueschwannomakamel_27.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueschwannomakamel_28.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueschwannomakamel_24.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueschwannomakamel_25.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueschwannomakamel_30.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueschwannomakamel_31.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case200650image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case200650image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case200650image3.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueschwannoma.html",
+      "clinicalInfo": "45 year old woman with a painless, mobile mass on the wrist"
+    },
+    {
+      "diagnosis": "Neurofibroma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueneurofibromaAbdellatif08new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueneurofibromaAbdellatif04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueneurofibromaAbdellatif05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueneurofibromaAbdellatif07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueneurofibromaAbdellatif10new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueneurofibromaAbdellatif14new.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueneurofibroma.html",
+      "clinicalInfo": "30 year old man with a soft, nontender mass on the back"
+    },
+    {
+      "diagnosis": "Perineurioma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini01.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini02.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini09.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini10.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini11.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini12.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueperineuriomasaggini13.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueperineurioma.html",
+      "clinicalInfo": "40 year old woman with a painless, firm mass on the leg"
+    },
+    {
+      "diagnosis": "Granular cell tumor",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuegranularcellobeidin01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuegranularcellobeidin02new.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuegranularcell.html",
+      "clinicalInfo": "50 year old woman with a painless nodule on the tongue"
+    },
+    {
+      "diagnosis": "Dermal nerve sheath myxoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticnervesheathmyxomaEsteves01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticnervesheathmyxomaEsteves02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticnervesheathmyxomaEsteves03new.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuenervesheathmyxoma.html",
+      "clinicalInfo": "35 year old man with a soft, nontender mass on the finger"
+    },
+    {
+      "diagnosis": "Solitary circumscribed neuroma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuesolitarycircneuromahuang01.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesolitarycircneuromahuang02.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesolitarycircneuromahuang03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesolitarycircneuromahuang07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesolitarycircneuromahuang08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesolitarycircneuromahuang09.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesolitarycircneuromahuang10.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuesolitarycircneuroma.html",
+      "clinicalInfo": "45 year old woman with a painless, firm nodule on the face"
+    },
+    {
+      "diagnosis": "Malignant peripheral nerve sheath tumor (MPNST)",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stmpnstmicro01.png",
+        "https://www.pathologyoutlines.com/imgau/stmpnstmicro02.png",
+        "https://www.pathologyoutlines.com/imgau/stmpnstmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stmpnstmicro04.png",
+        "https://www.pathologyoutlines.com/imgau/stmpnstmicro05.png",
+        "https://www.pathologyoutlines.com/imgau/softtissuempnstpopescu01.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuempnstpopescu02.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuempnstJMGardnerMD01.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuempnst.html",
+      "clinicalInfo": "40 year old man with a painful, rapidly growing mass on the thigh"
+    },
+    {
+      "diagnosis": "Malignant melanotic nerve sheath tumor",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuemmnstMicroUddin1.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemmnstMicroUddin2.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemmnstMicroUddin3.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemmnstMicroUddin4.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemmnstMicroUddin5.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemmnstMicroUddin6.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemmnstMicroUddin7.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemmnstMicroUddin8.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuemmnst.html",
+      "clinicalInfo": "50 year old woman with a pigmented, painful mass on the spine"
+    },
+    {
+      "diagnosis": "Intramuscular myxoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxomaFrazzette07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxomaHoda02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxomaFrazzette08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxomaHoda03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxomaHoda01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxomaFrazzette09.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxomaFrazzette10.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyxomaFrazzette11.jpeg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuemyxoma.html",
+      "clinicalInfo": "55 year old woman with a painless, soft mass in the thigh muscle"
+    },
+    {
+      "diagnosis": "Pleomorphic hyalinizing angiectatic tumor",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuephatperret02.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephatperret03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephatperret04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephatperret05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephatperret06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephatperret07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephatperret08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephatperret11.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephatperret12.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephatperret13.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuephat.html",
+      "clinicalInfo": "60 year old man with a slow-growing, painless mass on the leg"
+    },
+    {
+      "diagnosis": "Phosphaturic mesenchymal tumor",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuephosphaturicMicroAkin1.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephosphaturicMicroAkin2.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephosphaturicMicroAkin3.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephosphaturicMicroAkin4.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephosphaturicMicroAkin5.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephosphaturicMicroAkin6.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephosphaturicMicroAkin7.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephosphaturicMicroAkin8.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephosphaturicMicroAkin9.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuephosphaturicMicroAkin10.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuephosphaturic.html",
+      "clinicalInfo": "50 year old woman with bone pain and a soft tissue mass on the foot"
+    },
+    {
+      "diagnosis": "Perivascular epithelioid cell tumor (PEComa) benign",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett06.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusPEComa.html",
+      "clinicalInfo": "45 year old woman with a painless uterine mass"
+    },
+    {
+      "diagnosis": "Malignant PEComa",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett07.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett08.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett09.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusPEComa.html",
+      "clinicalInfo": "50 year old woman with a rapidly growing, painful mass in the pelvis"
+    },
+    {
+      "diagnosis": "Atypical fibroxanthoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticAFXGill1.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticAFXGill2.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticAFXGill3.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticAFX.html",
+      "clinicalInfo": "70 year old man with a rapidly growing, ulcerated nodule on the scalp"
+    },
+    {
+      "diagnosis": "Angiomatoid fibrous histiocytoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuefhangiomatoidUdDin02.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuefhangiomatoidUdDin03cb.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuefhangiomatoidUdDin04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuefhangiomatoidUdDin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuefhangiomatoidUdDin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuefhangiomatoidUdDin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuefhangiomatoidUdDin08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuefhangiomatoidUdDin09.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_44L.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_43.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_45L.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_45R.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuefhangiomatoid.html",
+      "clinicalInfo": "20 year old man with a painless, cystic mass on the arm"
+    },
+    {
+      "diagnosis": "Ossifying fibromyxoid tumor",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueossifyingfibromyxoid_Alexiev03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueossifyingfibromyxoid_Alexiev04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueossifyingfibromyxoid_Alexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueossifyingfibromyxoid_Alexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueossifyingfibromyxoid_Alexiev07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueossifyingfibromyxoid_Alexiev08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueossifyingfibromyxoid_Alexiev09.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueossifyingfibromyxoid.html",
+      "clinicalInfo": "45 year old man with a firm, slow-growing mass on the thigh"
+    },
+    {
+      "diagnosis": "Myoepithelioma / myoepithelial carcinoma / mixed tumor",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuemyoepithelialca_Alexiev03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyoepithelialca_Alexiev04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyoepithelialca_Alexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyoepithelialca_Alexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyoepithelialca_Alexiev07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyoepithelialca_Alexiev08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemyoepithelialca_Laskin09.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuemyoepithelialca.html",
+      "clinicalInfo": "50 year old woman with a painless, firm mass on the arm"
+    },
+    {
+      "diagnosis": "Synovial sarcoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuesynovialsarc_Obeidin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesynovialsarc_Obeidin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesynovialsarc_Obeidin08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesynovialsarc_Obeidin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesynovialsarc_Obeidin10.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesynovialsarc_Obeidin11.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesynovialsarc_Obeidin12.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesynovialsarc_Obeidin13.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuesynovialsarc_Obeidin14.jpg",
+        "https://www.pathologyoutlines.com/imgau/stainstle1_Zynger01.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuesynovialsarc.html",
+      "clinicalInfo": "25 year old man with a painful, deep mass near the knee"
+    },
+    {
+      "diagnosis": "Epithelioid sarcoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueepithelioidsarcomaAlexiev03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueepithelioidsarcomaAlexiev04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueepithelioidsarcomaAlexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueepithelioidsarcomaAlexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueepithelioidsarcomaAlexiev07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueepithelioidsarcomaAlexiev08.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueepithelioidsarcoma.html",
+      "clinicalInfo": "30 year old man with a firm, ulcerated nodule on the hand"
+    },
+    {
+      "diagnosis": "Alveolar soft part sarcoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftwarmke03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftwarmke05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftwarmke06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftwarmke07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftwarmke08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftwarmke09.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftwarmke10.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftwarmke11.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftwarmke12.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftmeis01.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftmeis02.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftmeis03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftmeis04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftmeis05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftmeis08.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftmeis09.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftmeis10.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuealveolarsoftmeis06.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuealveolarsoft.html",
+      "clinicalInfo": "20 year old woman with a slow-growing mass on the thigh"
+    },
+    {
+      "diagnosis": "Clear cell sarcoma of soft tissue",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem1.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem2.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem3.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem4.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem5.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem6.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem7.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem8.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem9.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem10.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem11.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem12.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem13.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueclearcellsarcomaMicroKosem14.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueclearcellsarcoma.html",
+      "clinicalInfo": "30 year old man with a painful mass on the foot"
+    },
+    {
+      "diagnosis": "Extraskeletal myxoid chondrosarcoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamyxoidalexiev03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamyxoidalexiev04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamyxoidalexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamyxoidalexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamyxoidalexiev07.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueeskchondrosarcomamyxoid.html",
+      "clinicalInfo": "50 year old man with a soft, painless mass on the thigh"
+    },
+    {
+      "diagnosis": "Desmoplastic small round cell tumor",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/testisdesmoplasticsmallAlexiev03.jpg",
+        "https://www.pathologyoutlines.com/imgau/testisdesmoplasticsmallAlexiev04.jpg",
+        "https://www.pathologyoutlines.com/imgau/testisdesmoplasticsmallAlexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/testisdesmoplasticsmallAlexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/testisdesmoplasticsmallAlexiev07.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueDSRCT.html",
+      "clinicalInfo": "20 year old man with abdominal pain and a pelvic mass"
+    },
+    {
+      "diagnosis": "Extrarenal rhabdoid tumor",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuerhabdoidtumoruddin01.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuerhabdoidtumoruddin02.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuerhabdoidtumoruddin03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuerhabdoidtumoruddin04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuerhabdoidtumoruddin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuerhabdoidtumoruddin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuerhabdoidtumoruddin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuerhabdoidtumoruddin08.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuerhabdoidtumor.html",
+      "clinicalInfo": "2 year old boy with a rapidly growing mass in the neck"
+    },
+    {
+      "diagnosis": "Intimal sarcoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueintimalsarcomaSebenik04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueintimalsarcomaSebenik05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueintimalsarcomaSebenik06a.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueintimalsarcomaSebenik06b.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueintimalsarcomaSebenik07a.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueintimalsarcomaSebenik007b.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueintimalsarcomaSebenik007c.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueintimalsarcomaSebenik07d.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueintimalsarcomaSebenik07e.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueintimalsarcomaSebenik07f.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case206image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case206image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case206image7.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case206image9.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case206image8.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueintimalsarcoma.html",
+      "clinicalInfo": "60 year old man with leg pain and a mass in the femoral artery"
+    },
+    {
+      "diagnosis": "Undifferentiated / unclassified sarcoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/alexievmicsofttissuemfhpleo01.jpg",
+        "https://www.pathologyoutlines.com/imgau/alexievmicsofttissuemfhpleo02.jpg",
+        "https://www.pathologyoutlines.com/imgau/alexievmicsofttissuemfhpleo03.jpg",
+        "https://www.pathologyoutlines.com/imgau/alexievmicsofttissuemfhpleo04.jpg",
+        "https://www.pathologyoutlines.com/imgau/alexievmicsofttissuemfhpleo05.jpg",
+        "https://www.pathologyoutlines.com/imgau/alexievmicsofttissuemfhpleo06.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_46L.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_49.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_46R.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_47.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_48.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_50.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_51.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_52.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_63.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_60L.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/03_60R.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuemfhpleogardner01.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuemfhpleo.html",
+      "clinicalInfo": "45 year old woman with a painful, rapidly growing mass on the thigh"
+    },
+    {
+      "diagnosis": "Ewing sarcoma",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneewingWarmke1.png",
+        "https://www.pathologyoutlines.com/imgau/boneewingWarmke2.png",
+        "https://www.pathologyoutlines.com/imgau/boneewingWarmke3.png",
+        "https://www.pathologyoutlines.com/imgau/boneewingmicroOzer1.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneewingWarmke4.png",
+        "https://www.pathologyoutlines.com/wick/ewing%20sarcoma%20micro0003.jpg"
+      ],
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneewing.html",
+      "clinicalInfo": "15 year old boy with a painful, destructive mass in the femur"
     }
   ]
 }
