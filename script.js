@@ -63,7 +63,7 @@ fetch('tumors.json')
                 img.alt = 'Image not available';
                 console.error('Failed to load image:', img.src);
             };
-            img.dataset.index = currentImageIndex; // Сохраняем индекс в dataset
+            img.dataset.index = currentImageIndex;
             img.addEventListener('click', (e) => showOverlay(parseInt(e.target.dataset.index)));
             img.style.display = 'inline-block';
             img.style.margin = '5px';
@@ -80,7 +80,7 @@ fetch('tumors.json')
                 img.alt = 'Image not available';
                 console.error('Failed to load image:', img.src);
             };
-            img.dataset.index = currentImageIndex; // Сохраняем индекс в dataset
+            img.dataset.index = currentImageIndex;
             img.addEventListener('click', (e) => showOverlay(parseInt(e.target.dataset.index)));
             img.style.display = 'inline-block';
             img.style.margin = '5px';
@@ -121,7 +121,7 @@ fetch('tumors.json')
                 });
             }
             overlay.style.display = 'flex';
-            currentImageIndex = index; // Устанавливаем индекс кликнутой картинки
+            currentImageIndex = index;
             updateOverlayImage();
         }
 
@@ -139,7 +139,7 @@ fetch('tumors.json')
         function showSelfAssessmentModal() {
             let modal = document.querySelector('.modal');
             const linkHtml = currentTumor.articleLink ? 
-                `<a href="${currentTumor.articleLink}" target="_blank">Read more on Pathology Outlines</a>` : 
+                `<a href="${currentTumor.articleLink}" target="_blank" rel="noopener noreferrer" class="article-link">Read more on Pathology Outlines</a>` : 
                 'No article link available';
             if (!modal) {
                 modal = document.createElement('div');
