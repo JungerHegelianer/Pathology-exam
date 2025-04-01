@@ -1,0 +1,475 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Subungual exostosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonesubungualexostosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonesubungualexostosisRicciotti04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonesubungualexostosisRicciotti05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonesubungualexostosisRicciotti06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonesubungualexostosisRicciotti07.jpg"
+      ],
+      "clinicalInfo": "25 year old woman with a painful nodule under the nail of the great toe"
+    },
+    {
+      "diagnosis": "Bizarre parosteal osteochondromatous proliferation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonebizarreparosteal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonebizarreparostealakinsanya01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonebizarreparostealakinsanya02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonebizarreparostealakinsanya03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonebizarreparostealakinsanya04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonebizarreparostealakinsanya05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonebizarreparostealakinsanya06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonebizarreparostealakinsanya07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonebizarreparostealakinsanya08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonebizarreparostealakinsanya09.jpg"
+      ],
+      "clinicalInfo": "30 year old man with a painless, firm mass on the proximal phalanx of the hand"
+    },
+    {
+      "diagnosis": "Periosteal chondroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonechondroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonechondromaqasem05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondromaqasem06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondromaqasem07.jpg"
+      ],
+      "clinicalInfo": "35 year old woman with a painless mass on the surface of the humerus"
+    },
+    {
+      "diagnosis": "Enchondroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonechondromaenchondroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonechondromaenchondromaAlexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondromaenchondromaAlexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondromaenchondromaAlexiev07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondromaenchondromaAlexiev08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondromaenchondromaAlexiev09.jpg"
+      ],
+      "clinicalInfo": "40 year old man with an asymptomatic lesion in the phalanx"
+    },
+    {
+      "diagnosis": "Osteochondroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneosteochondroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneosteochondromaMantillamicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteochondromaMantillamicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteochondromaMantillamicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteochondromaAFIPmicro1.jpg"
+      ],
+      "clinicalInfo": "15 year old boy with a painless, bony outgrowth near the knee"
+    },
+    {
+      "diagnosis": "Chondroblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonechondroblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonechondroblastomapatton01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondroblastomapatton02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondroblastomapatton03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondroblastomagardner01.jpg"
+      ],
+      "clinicalInfo": "20 year old man with joint pain and swelling in the femur"
+    },
+    {
+      "diagnosis": "Chondromyxoid fibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonechondromyxoidfibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin01.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin02.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin03.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin04.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin08.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin09.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin10.jpg"
+      ],
+      "clinicalInfo": "25 year old woman with mild pain and swelling in the tibia"
+    },
+    {
+      "diagnosis": "Synovial & tenosynovial chondromatosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/jointssynovialosteochondromatosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/jointssynovialosteochondromatosisUdDin08.jpg",
+        "https://www.pathologyoutlines.com/imgau/jointssynovialosteochondromatosisUdDin09.jpg",
+        "https://www.pathologyoutlines.com/imgau/jointssynovialosteochondromatosisUdDin10.jpg",
+        "https://www.pathologyoutlines.com/imgau/jointssynovialosteochondromatosisUdDin11.jpg",
+        "https://www.pathologyoutlines.com/imgau/jointssynovialosteochondromatosisUdDin12.jpg",
+        "https://www.pathologyoutlines.com/imgau/jointssynovialosteochondromatosisUdDin13.jpg",
+        "https://www.pathologyoutlines.com/imgau/jointssynovialosteochondromatosisUdDin14.jpg"
+      ],
+      "clinicalInfo": "45 year old man with joint pain and swelling in the knee"
+    },
+    {
+      "diagnosis": "Atypical cartilaginous tumor / chondrosarcoma, grade 1",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneatypicalcartilaginoustumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneatypicalcartilaginoustumorSerinelliRoza03.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneatypicalcartilaginoustumorSerinelliRoza04.jpeg",
+        "https://www.pathologyoutlines.com/imgau/boneatypicalcartilaginoustumorSerinelliRoza05.jpeg",
+        "https://www.pathologyoutlines.com/imgau/boneatypicalcartilaginoustumorSerinelliRoza06.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneatypicalcartilaginoustumorSerinelliRoza07.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneatypicalcartilaginoustumorSerinelliRoza08.jpeg",
+        "https://www.pathologyoutlines.com/imgau/boneatypicalcartilaginoustumorSerinelliRoza09.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneatypicalcartilaginoustumorSerinelliRoza10.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneatypicalcartilaginoustumorSerinelliRoza11.jpg"
+      ],
+      "clinicalInfo": "50 year old woman with a slow-growing mass in the pelvis"
+    },
+    {
+      "diagnosis": "Chondrosarcoma (primary, secondary, periosteal)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonechondrosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonechondrosarcomaQasemmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondrosarcomaQasemmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondrosarcomaQasemmicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondrosarcomaQasemmicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondrosarcomaQasemmicro5.jpg"
+      ],
+      "clinicalInfo": "55 year old man with a painful mass in the femur"
+    },
+    {
+      "diagnosis": "Clear cell chondrosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneclearcellchondrosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneclearcellchondrosarcomaalexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneclearcellchondrosarcomaalexiev07.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneclearcellchondrosarcomaalexiev08.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneclearcellchondrosarcomaalexiev09.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneclearcellchondrosarcomaalexiev10.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneclearcellchondrosarcomagardner01.jpg"
+      ],
+      "clinicalInfo": "60 year old woman with a destructive lesion in the humerus"
+    },
+    {
+      "diagnosis": "Mesenchymal chondrosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueeskchondrosarcomamesenchymal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger08.jpg"
+      ],
+      "clinicalInfo": "30 year old man with a rapidly growing mass in the rib"
+    },
+    {
+      "diagnosis": "Dedifferentiated chondrosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonedediffchondrosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonedediffchondrosarcomaKao01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonedediffchondrosarcomaKao02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonedediffchondrosarcomaKao03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonedediffchondrosarcomaWick04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonedediffchondrosarcomaWick05.jpg"
+      ],
+      "clinicalInfo": "65 year old man with a painful, aggressive mass in the pelvis"
+    },
+    {
+      "diagnosis": "Osteoma, NOS",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneosteoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneosteomaroza01.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteomaroza05.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteomaroza02.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteomaroza03.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteomaroza04.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca31.jpg"
+      ],
+      "clinicalInfo": "40 year old man with a painless, hard mass on the skull"
+    },
+    {
+      "diagnosis": "Osteoid osteoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneosteoidosteoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneosteoidosteomareith12.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoidosteomareith13.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoidosteomareith14.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoidosteomareith15.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoidosteomareith16.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoidosteomareith17.jpg"
+      ],
+      "clinicalInfo": "20 year old man with night pain in the tibia relieved by NSAIDs"
+    },
+    {
+      "diagnosis": "Osteoblastoma, NOS",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneosteoblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomaalexiev04.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomaalexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomaalexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas10.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas11.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas12.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas13.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas15.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas16.jpg"
+      ],
+      "clinicalInfo": "25 year old man with dull pain in the spine"
+    },
+    {
+      "diagnosis": "Low grade (central) osteosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneLGcentralosteo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneLGcentralosteo_Alexiev03.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneLGcentralosteo_Alexiev04.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneLGcentralosteo_Alexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneLGcentralosteo_Alexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneLGcentralosteo_Alexiev07.jpg"
+      ],
+      "clinicalInfo": "30 year old woman with a slow-growing mass in the femur"
+    },
+    {
+      "diagnosis": "Osteosarcoma, NOS",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneosteosarcomageneral.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralAlexievmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralAlexievmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralHartmicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralAlexievmicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralHartmicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralHartmicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralHartmicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralHartmicro8.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralHartmicro9.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralHartmicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralHartmicro12.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteosarcomageneralHartmicro13.jpg",
+        "https://pathologyoutlines.com/imgau/boneosteosarcomageneralAFIP4.jpg"
+      ],
+      "clinicalInfo": "15 year old boy with a painful, rapidly growing mass in the femur"
+    },
+    {
+      "diagnosis": "Parosteal osteosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneparostealosteo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin07NEW.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin08.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin11.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin09.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin10.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin12.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin13.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin16.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin14.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin15.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin17.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin18.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin20.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin22.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin23.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneparostealosteosarcomauddin24.jpg"
+      ],
+      "clinicalInfo": "30 year old woman with a painless mass on the posterior distal femur"
+    },
+    {
+      "diagnosis": "Fibrosarcoma of bone",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonefibrosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/wick/fibrosarcoma%20micro0002.jpg",
+        "https://www.pathologyoutlines.com/wick/fibrosarcoma%20micro0003.jpg"
+      ],
+      "clinicalInfo": "50 year old man with a painful mass in the tibia"
+    },
+    {
+      "diagnosis": "Hemangioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonehemangioma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonehemangiomaAbrahaoMachado03.jpeg",
+        "https://www.pathologyoutlines.com/imgau/bonehemangiomaAbrahaoMachado04.jpeg",
+        "https://www.pathologyoutlines.com/imgau/bonehemangiomaAbrahaoMachado05.jpeg",
+        "https://www.pathologyoutlines.com/imgau/bonehemangiomaAbrahaoMachado06.jpeg",
+        "https://www.pathologyoutlines.com/imgau/bonehemangiomaAbrahaoMachado07.jpeg",
+        "https://www.pathologyoutlines.com/imgau/bonehemangiomaAbrahaoMachado08.jpeg",
+        "https://www.pathologyoutlines.com/imgau/bonehemangiomaAbrahaoMachado09.jpeg",
+        "https://www.pathologyoutlines.com/imgau/bonehemangiomaAbrahaoMachado10.jpeg"
+      ],
+      "clinicalInfo": "40 year old woman with an asymptomatic lesion in the vertebral body"
+    },
+    {
+      "diagnosis": "Epithelioid hemangioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueepithelioidhemangioma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueepithelioidhemangiomaAlexiev01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueepithelioidhemangiomaAlexiev02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueepithelioidhemangiomaAlexiev03new.jpg"
+      ],
+      "clinicalInfo": "35 year old man with a tender nodule on the skull"
+    },
+    {
+      "diagnosis": "Epithelioid hemangioendothelioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuehemangioendotheliomaepithelioid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomaepithelioidBrcic1.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomaepithelioidBrcic2.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomaepithelioidBrcic3.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomaepithelioidBrcic4.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomaepithelioidBrcic5.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomaepithelioidBrcic6.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissuehemangioendotheliomaepithelioidBrcic7.jpg"
+      ],
+      "clinicalInfo": "45 year old woman with a painful mass in the femur"
+    },
+    {
+      "diagnosis": "Angiosarcoma/hemangioendothelioma in bone",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneangiosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/wick/angiosarcoma%20primary%20bone%20micro.jpg",
+        "https://www.pathologyoutlines.com/wick/angiosarcoma%20epithelioid%20type%20micro0002.jpg",
+        "https://www.pathologyoutlines.com/wick/angiosarcoma%20epithelioid%20type%20micro5.jpg",
+        "https://www.pathologyoutlines.com/wick/angiosarcoma%20epithelioid%20type%20primary%20bone%20micro.jpg"
+      ],
+      "clinicalInfo": "60 year old man with a destructive lesion in the tibia"
+    },
+    {
+      "diagnosis": "Aneurysmal bone cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneabc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri16.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri17.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri18.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri19.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri20.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri21.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri22.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri23.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri24.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca40.jpg"
+      ],
+      "clinicalInfo": "15 year old boy with a painful, expansile lesion in the femur"
+    },
+    {
+      "diagnosis": "Nonossifying fibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonemetaphysealfibrousdefect.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE09.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE10.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE11.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemetaphysealfibrousdefectUdDinHE12.jpg"
+      ],
+      "clinicalInfo": "15 year old boy with an asymptomatic lesion in the distal femur"
+    },
+    {
+      "diagnosis": "Giant cell tumor of bone, NOS",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonegiantcelltumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonegiantcelltumorAlexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonegiantcelltumorAlexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonegiantcelltumorAlexiev07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonegiantcelltumorAlexiev08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonegiantcelltumorAlexiev09.jpg"
+      ],
+      "clinicalInfo": "30 year old woman with a painful mass in the distal femur"
+    },
+    {
+      "diagnosis": "Chordoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonechordoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonechordomaHart09.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechordomaHart06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechordomaHart13.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechordomaHart14.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechordomaHart05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechordomaHart11.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechordomaUdDin01.png",
+        "https://www.pathologyoutlines.com/imgau/bonechordomaUdDin02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechordomaUdDin03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechordomaUdDin04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechordomaUdDin05.jpg"
+      ],
+      "clinicalInfo": "50 year old man with lower back pain and a sacral mass"
+    },
+    {
+      "diagnosis": "Simple bone cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonesolitarybonecyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonesolitarybonecystUddin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonesolitarybonecystUddin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonesolitarybonecystUddin08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonesolitarybonecystUddin09.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonesolitarybonecystUddin10.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonesolitarybonecystUddin11.jpg"
+      ],
+      "clinicalInfo": "10 year old boy with a painless lesion in the proximal humerus"
+    },
+    {
+      "diagnosis": "Fibrous dysplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonefibrousdysplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonefibrousdysplasiaMantilla05update.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonefibrousdysplasiaMantilla06update.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonefibrousdysplasiaMantilla07update.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca35.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillafibrousdysplasiamagliocca01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillafibrousdysplasiamagliocca02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillafibrousdysplasiamagliocca03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillafibrousdysplasiamagliocca04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonefibrousdysplasiaJMGardnerMD01.jpg"
+      ],
+      "clinicalInfo": "20 year old woman with a painless deformity in the femur"
+    },
+    {
+      "diagnosis": "Adamantinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneadamantinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneadamantinomaAlexiev03.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneadamantinomaAlexiev04.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneadamantinomaAlexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneadamantinomaAlexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneadamantinomaLaskin01.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneadamantinomaLaskin02.jpg"
+      ],
+      "clinicalInfo": "40 year old man with a painful mass in the tibia"
+    },
+    {
+      "diagnosis": "Undifferentiated pleomorphic sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneMFH.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneundiffpleosarcomakaseb01.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneundiffpleosarcomakaseb02.jpg",
+        "https://www.pathologyoutlines.com/wick/malignant%20fibrous%20histiocytoma%20micro0008.jpg",
+        "https://www.pathologyoutlines.com/wick/malignant%20fibrous%20histiocytoma%20primary%20in%20bone%20micro.jpg"
+      ],
+      "clinicalInfo": "60 year old woman with a rapidly growing mass in the femur"
+    },
+    {
+      "diagnosis": "Ewing sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneewing.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneewingWarmke1.png",
+        "https://www.pathologyoutlines.com/imgau/boneewingWarmke2.png",
+        "https://www.pathologyoutlines.com/imgau/boneewingWarmke3.png",
+        "https://www.pathologyoutlines.com/imgau/boneewingmicroOzer1.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneewingWarmke4.png",
+        "https://www.pathologyoutlines.com/wick/ewing%20sarcoma%20micro0003.jpg"
+      ],
+      "clinicalInfo": "15 year old boy with a painful, destructive mass in the femur"
+    },
+    {
+      "diagnosis": "CIC rearranged sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneCICDUX4.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneCICDUX4_Alexiev03.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCICDUX4_Alexiev04.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCICDUX4_Alexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCICDUX4_Alexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCICDUX4_Alexiev07.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCICDUX4_Alexiev08.jpg"
+      ],
+      "clinicalInfo": "25 year old man with a rapidly growing mass in the pelvis"
+    }
+  ]
+}

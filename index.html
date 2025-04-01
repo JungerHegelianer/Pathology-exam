@@ -3,16 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pathology Quiz: What's Your Diagnosis?</title>
+    <title>Pathology Quiz</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>What's Your Diagnosis?</h1>
+        <h1>Pathology Quiz</h1>
+        <div id="sectionMenu">
+            <button data-section="softTissue">Soft Tissue</button>
+            <button data-section="boneAndJoints">Bone & joints</button>
+            <button data-section="cns">CNS</button>
+        </div>
         <p id="clinicalInfo"></p>
         <div id="tumorImages"></div>
-        <button id="checkButton">Check</button>
-        <button id="nextImageButton">Next Image</button>
+        <button id="checkButton" style="display:none;">Check</button>
+        <button id="nextImageButton" style="display:none;">Next Image</button>
         <p id="result"></p>
         <p id="score">Correct answers: 0</p>
         <button id="nextTumorButton" style="display:none;">Next Tumor</button>
