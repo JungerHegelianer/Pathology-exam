@@ -9,11 +9,11 @@ const clinicalInfoElement = document.getElementById('clinicalInfo');
 const checkButton = document.getElementById('checkButton');
 const nextImageButton = document.getElementById('nextImageButton');
 const resultElement = document.getElementById('result');
-const nextTumorButton = document.getElementById('nextTumorButton');
+const nextCaseButton = document.getElementById('nextTumorButton'); // Переименовали с nextTumorButton на nextCaseButton
 const scoreElement = document.getElementById('score');
 const sectionButtons = document.querySelectorAll('#sectionMenu button');
 
-if (!checkButton || !nextImageButton || !nextTumorButton || !imagesContainer || !resultElement || !scoreElement || !clinicalInfoElement) {
+if (!checkButton || !nextImageButton || !nextCaseButton || !imagesContainer || !resultElement || !scoreElement || !clinicalInfoElement) {
     console.error('Error: One or more elements not found');
 }
 
@@ -31,7 +31,7 @@ function loadSection(section) {
             correctAnswers = 0;
             totalTumors = 0;
             scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
-            loadNewTumor();
+            loadNewCase(); // Заменили loadNewTumor на loadNewCase
             checkButton.style.display = 'inline';
             nextImageButton.style.display = 'inline';
         })
@@ -41,12 +41,12 @@ function loadSection(section) {
         });
 }
 
-function loadNewTumor() {
+function loadNewCase() { // Переименовали с loadNewTumor на loadNewCase
     if (tumors.length === 0) {
-        resultElement.textContent = 'No more tumors available!';
+        resultElement.textContent = 'No more cases available!';
         checkButton.style.display = 'none';
         nextImageButton.style.display = 'none';
-        nextTumorButton.style.display = 'none';
+        nextCaseButton.style.display = 'none';
         return;
     }
 
@@ -64,7 +64,7 @@ function loadNewTumor() {
     showInitialImage();
     nextImageButton.style.display = currentImageIndex < currentTumor.images.length - 1 ? 'inline' : 'none';
     resultElement.innerHTML = '';
-    nextTumorButton.style.display = 'none';
+    nextCaseButton.style.display = 'none';
     checkButton.disabled = false;
 }
 
@@ -169,7 +169,7 @@ function showSelfAssessmentModal() {
             scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
             modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
             modal.style.display = 'none';
-            nextTumorButton.style.display = 'inline';
+            nextCaseButton.style.display = 'inline';
         });
 
         document.getElementById('selfIncorrect').addEventListener('click', () => {
@@ -177,7 +177,7 @@ function showSelfAssessmentModal() {
             scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
             modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
             modal.style.display = 'none';
-            nextTumorButton.style.display = 'inline';
+            nextCaseButton.style.display = 'inline';
         });
     } else {
         modal.querySelector('p:first-child').textContent = `Correct diagnosis: ${currentTumor.diagnosis}`;
@@ -203,7 +203,7 @@ nextImageButton.addEventListener('click', () => {
     }
 });
 
-nextTumorButton.addEventListener('click', loadNewTumor);
+nextCaseButton.addEventListener('click', loadNewCase); // Заменили nextTumorButton на nextCaseButton
 
 sectionButtons.forEach(button => {
     button.addEventListener('click', () => {
@@ -212,5 +212,4 @@ sectionButtons.forEach(button => {
     });
 });
 
-// Автозагрузка Soft Tissue при старте (можно изменить на boneAndJoints, если нужно)
 loadSection('softTissue');
