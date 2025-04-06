@@ -1,0 +1,497 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Salivary duct cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/oralcavitysalivaryductcyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/oralcavitysalivaryductcystLee01anew.jpg",
+        "https://www.pathologyoutlines.com/imgau/oralcavitysalivaryductcystLee01bnew.jpg",
+        "https://www.pathologyoutlines.com/imgau/oralcavitysalivaryductcystLee01cnew.jpg",
+        "https://www.pathologyoutlines.com/imgau/oralcavitysalivaryductcystLee02anew.jpg"
+      ],
+      "clinicalInfo": "50 year old man with a painless swelling in the floor of the mouth"
+    },
+    {
+      "diagnosis": "Basal cell adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsbasalcelladenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenoma_Wei01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenoma_Wei02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenoma_Wei03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenoma_Wei04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenoma_Wei05.jpg"
+      ],
+      "clinicalInfo": "60 year old woman with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Canalicular adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandscanalicularadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscanalicularadenomavaz2.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscanalicularadenomavaz02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscanalicularadenomavaz03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscanalicularadenomavaz04.jpg"
+      ],
+      "clinicalInfo": "65 year old woman with a painless nodule in the upper lip"
+    },
+    {
+      "diagnosis": "Cystadenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandscystadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscystadenoma_Talwar04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscystadenoma_Talwar05.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscystadenoma_Talwar06.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscystadenoma_Talwar07.jpg"
+      ],
+      "clinicalInfo": "55 year old man with a cystic mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Keratocystoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandskeratocystoma.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f2f8/2976056/79283c9d4adc/jclinpath76521fig1.jpg"
+      ],
+      "clinicalInfo": "40 year old woman with a firm mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Lymphadenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandssebaceousadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case2007103large1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case2007103large2.jpg"
+      ],
+      "clinicalInfo": "50 year old man with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Myoepithelioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsmyoepithelioma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelioma_Zhao01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelioma_Zhao02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelioma_Wei03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelioma_Wei04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelioma_Wei08.jpg"
+      ],
+      "clinicalInfo": "45 year old woman with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Oncocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsoncocytoma.html",
+      "images": [
+        "https://www.researchgate.net/publication/362017794/figure/fig3/AS:11431281105597639@1670468959099/Oncocytoma-and-surrounding-normal-salivary-gland-tissue-and-adipose.jpg",
+        "https://www.researchgate.net/publication/362017794/figure/fig4/AS:11431281105597640@1670468959178/Tubular-acinar-formations-within-the-oncocytoma.jpg",
+        "https://www.researchgate.net/publication/362017794/figure/fig2/AS:11431281105616655@1670468958973/Cell-block-from-FNA-of-left-parotid-gland-showing-clusters-of-oncocytes.jpg"
+      ],
+      "clinicalInfo": "70 year old man with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Pleomorphic adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandspleomorphicadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomaxu04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomaxu05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomaxu06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomaxu07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomaxu08new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomaxu09new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomaxu10new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomaxu11new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomaxu12new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomaxu13new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomaxu14new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomabychkov01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomawei03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomawei04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomacow40401new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomacow40402new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomacow40403new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandspleomorphicadenomacow40404new.jpg"
+      ],
+      "clinicalInfo": "40 year old woman with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Sclerosing polycystic adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandssclerosingpolycysticadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssclerosingpolycystic_Liang01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssclerosingpolycystic_Liang02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssclerosingpolycystic_Liang03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssclerosingpolycystic_Liang04.jpg"
+      ],
+      "clinicalInfo": "50 year old woman with a firm mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Sialadenoma papilliferum",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandssialadenoma.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7816/3335493/91eeff4fa038/CRIM.DENTISTRY2012-356271.001.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7816/3335493/d7655d6812aa/CRIM.DENTISTRY2012-356271.002.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7816/3335493/a0e3f9bd0032/CRIM.DENTISTRY2012-356271.003.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7816/3335493/5b1ae0ddc552/CRIM.DENTISTRY2012-356271.004.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7816/3335493/608c896f3719/CRIM.DENTISTRY2012-356271.005.jpg"
+      ],
+      "clinicalInfo": "60 year old man with a papillary lesion on the palate"
+    },
+    {
+      "diagnosis": "Striated duct adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsstriatedductadenoma.html",
+      "images": [
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12105-024-01696-5/MediaObjects/12105_2024_1696_Fig1_HTML.png"
+      ],
+      "clinicalInfo": "55 year old woman with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Warthin tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandswarthin.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandswarthinBalgobind02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandswarthinBalgobind03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandswarthinBalgobind04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandswarthinBalgobind05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandswarthinBalgobind06.jpg"
+      ],
+      "clinicalInfo": "60 year old man with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Acinic cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsaciniccell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsaciniccellRao01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsaciniccellRao02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsaciniccellRao03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsaciniccellLahouti001.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsaciniccellLahouti002.jpg"
+      ],
+      "clinicalInfo": "50 year old woman with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Adenocarcinoma, NOS",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsadenocarcinomaNOS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsadenocarcinomaNOSleon01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsadenocarcinomaNOSleon02.jpg"
+      ],
+      "clinicalInfo": "60 year old man with a firm mass in the submandibular gland"
+    },
+    {
+      "diagnosis": "Adenoid cystic carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsadenoidcystic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsadenoidcysticXu02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsadenoidcysticXu03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsadenoidcysticXu04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsadenoidcysticXu05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsadenoidcysticXu06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsadenoidcysticXu07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsadenoidcysticXu08new.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsadenoidcysticXu09new.jpg"
+      ],
+      "clinicalInfo": "50 year old woman with a painful mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Basal cell adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsbasalcelladenocarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroProsser01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroProsser02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroGupta03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroProsser04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroProsser05.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroGupta06.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroGupta08.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroGupta09.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroProsser10.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroGupta11.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroGupta12.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroProsser13.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsbasalcelladenocarcinomamicroProsser14.jpg"
+      ],
+      "clinicalInfo": "55 year old man with a slow-growing mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Carcinoma ex pleomorphic adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsmalignantmixedtumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmalignantmixedtumorGupta04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmalignantmixedtumorGupta05.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmalignantmixedtumorGupta06.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmalignantmixedtumorGupta07.jpg"
+      ],
+      "clinicalInfo": "60 year old man with a rapidly growing mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Carcinosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandscarcinosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscarcinosarcomaBundele01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscarcinosarcomaBundele02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscarcinosarcomaBundele03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscarcinosarcomaBundele04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscarcinosarcomaBundele05.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscarcinosarcomaBundele06.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandscarcinosarcomaBundele07.jpg"
+      ],
+      "clinicalInfo": "65 year old man with an aggressive mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Clear cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsclearcellcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case483image12.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case483image13.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case483image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case483image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case483image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case483image7.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case483image8.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case483image9.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case483image10.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case483image11.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsclearcellcarcinomaMicroNg01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsclearcellcarcinomaMicroNg02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsclearcellcarcinomaMicroNg04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsclearcellcarcinomaMicroNg05.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsclearcellcarcinomaMicroNg07.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsclearcellcarcinomaMicroNg08.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsclearcellcarcinomaMicroNg09.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsclearcellcarcinomaMicroChapman01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsclearcellcarcinomaMicroChapman02.jpg"
+      ],
+      "clinicalInfo": "55 year old woman with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Epithelial myoepithelial carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsepimyocarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsepimyocarcinomagupta02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsepimyocarcinomagupta03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsepimyocarcinomagupta04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsepimyocarcinomagupta05.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsepimyocarcinomagupta06.jpg"
+      ],
+      "clinicalInfo": "60 year old woman with a firm mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Intraductal carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsintraductalsalivary.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsintraductalsalivaryEly01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsintraductalsalivaryEly02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsintraductalsalivaryEly03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsintraductalsalivaryEly04.jpg"
+      ],
+      "clinicalInfo": "55 year old man with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Lymphoepithelial carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsLEL.html",
+      "images": [
+        "https://journals.sagepub.com/cms/10.1177/2050313X241260210/asset/67e843c7-d0d0-4ae6-942b-22eb756584c4/assets/images/large/10.1177_2050313x241260210-fig2.jpg",
+        "https://journals.sagepub.com/cms/10.1177/2050313X241260210/asset/d7adeb10-be70-4c5f-b26b-9dadbe9c5c01/assets/images/large/10.1177_2050313x241260210-fig3.jpg",
+        "https://journals.sagepub.com/cms/10.1177/2050313X241260210/asset/d83291a4-d5a2-409c-9eab-b30627fc01ad/assets/images/large/10.1177_2050313x241260210-fig4.jpg",
+        "https://journals.sagepub.com/cms/10.1177/2050313X241260210/asset/eb075511-49c0-4966-ad3a-a6c842e60cb1/assets/images/large/10.1177_2050313x241260210-fig5.jpg",
+        "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20191118085045828-0559:9781316402078:12349fig30_2.png",
+        "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-319-09021-4_16/MediaObjects/327732_1_En_16_Fig3_HTML.png"
+      ],
+      "clinicalInfo": "50 year old woman with a firm mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Lymphoepithelial carcinoma of the thymus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mediastinumLEL.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mediastinumLELsuster01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mediastinumLELsuster02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mediastinumLELsuster03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mediastinumLELsuster04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mediastinumLELsuster05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mediastinumLELsuster07new.jpg"
+      ],
+      "clinicalInfo": "45 year old man with a mediastinal mass and chest pain"
+    },
+    {
+      "diagnosis": "Mucinous adenocarcinoma salivary glands",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsmucinousadeno.html",
+      "images": [
+        "https://ars.els-cdn.com/content/image/1-s2.0-S0740257024000546-gr2.jpg",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S2212440313000084-gr2.jpg"
+      ],
+      "clinicalInfo": "60 year old man with a mucinous mass in the submandibular gland"
+    },
+    {
+      "diagnosis": "Mucoepidermoid carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsMEC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsMECasiry08.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsMECasiry09.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsMECasiry10.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsMECasiry12.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsMECasiry11.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsMECasiry13.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case346image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case346image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case346image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case346image4.jpg"
+      ],
+      "clinicalInfo": "40 year old woman with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Myoepithelial carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsmyoepithelialcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelialcarcinomaSalamaXu02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelialcarcinomaSalamaXu03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelialcarcinomaSalamaXu04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelialcarcinomaSalamaXu05.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelialcarcinomaSalamaXu06.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelialcarcinomaSalamaXu07.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelialcarcinomaSalamaXu08.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelialcarcinomaSalamaXu09.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmyoepithelialcarcinomaSalamaXu10.jpg"
+      ],
+      "clinicalInfo": "50 year old woman with a firm mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Neuroendocrine carcinoma of salivary glands",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsLCNC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsLCNCmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsLCNCmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsLCNCmicro3.jpg"
+      ],
+      "clinicalInfo": "60 year old man with an aggressive mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Polymorphous adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsPLGA.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro07.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro08.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro09.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro11.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsPLGAmicro12.jpg"
+      ],
+      "clinicalInfo": "60 year old woman with a painless mass in the palate"
+    },
+    {
+      "diagnosis": "Salivary duct carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandssalivaryductcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssalivaryductcarcinomajalal09a.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssalivaryductcarcinomajalal10a.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssalivaryductcarcinomajalal11a.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssalivaryductcarcinomajalal12a.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssalivaryductcarcinomajalal13a.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssalivaryductcarcinomajalal15a.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssalivaryductcarcinomajalal16a.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssalivaryductcarcinomajalal19a.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssalivaryductcarcinomajalal20a.jpg"
+      ],
+      "clinicalInfo": "65 year old man with an aggressive mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Sclerosing microcystic adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandssclerosingmicrocysticadeno.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssclerosingmicrocysticadenopusztaszeri01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssclerosingmicrocysticadenopusztaszeri03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssclerosingmicrocysticadenopusztaszeri02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssclerosingmicrocysticadenopusztaszeri04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssclerosingmicrocysticadenopusztaszeri05.jpg"
+      ],
+      "clinicalInfo": "50 year old woman with a firm mass in the lower lip"
+    },
+    {
+      "diagnosis": "Secretory carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandssecretory.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmammarygupta11.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmammarygupta12.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmammarygupta13.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmammarygupta14.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmammarygupta15.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmammarygupta16.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmammarygupta17.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmammarygupta18.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmammarygupta19.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmammarygupta20.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsmammarygupta21.jpg"
+      ],
+      "clinicalInfo": "40 year old woman with a painless mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Sialoblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandssialoblastoma.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c240/3132117/2c62d0be214e/rt-2011-2-e13-g001.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c240/3132117/6adcc6e66b0e/rt-2011-2-e13-g002.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0acf/2811626/656c125ee2d3/12105_2009_128_Fig1_HTML.jpg",
+        "https://www.jpedsurg.org/cms/10.1016/j.jpedsurg.2008.04.035/asset/0e185949-5123-43a7-a1ab-0f2e13530e25/main.assets/gr4_lrg.jpg",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S1092913406000128-gr4.jpg",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S1092913406000128-gr6.jpg"
+      ],
+      "clinicalInfo": "2 year old boy with a congenital mass in the parotid gland"
+    },
+    {
+      "diagnosis": "Lymphoepithelial sialadenitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandslymphoepithelialsialadenitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandslymphoepithelialsialadenitismicro01.JPG",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandslymphoepithelialsialadenitismicro02.JPG",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandslymphoepithelialsialadenitismicro03.JPG",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsLESAmicro04.JPG"
+      ],
+      "clinicalInfo": "50 year old woman with bilateral salivary gland swelling"
+    },
+    {
+      "diagnosis": "Necrotizing sialometaplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandsnecrotizingsialo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/Case497img01.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case497img02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsnecrotizingsialosmith01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsnecrotizingsialosmith02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsnecrotizingsialosmith03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsnecrotizingsialosmith04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsnecrotizingsialosmith05.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsnecrotizingsialosmith06.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandsnecrotizingsialosmith07.jpg"
+      ],
+      "clinicalInfo": "45 year old man with a painful ulcer on the palate"
+    },
+    {
+      "diagnosis": "Chronic sialadenitis / sialolithiasis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandssialolithiasis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssialolithiasismicro01.PNG",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssialolithiasismicro02.JPG",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssialolithiasismicro03.JPG"
+      ],
+      "clinicalInfo": "40 year old man with recurrent swelling and pain in the submandibular gland"
+    },
+    {
+      "diagnosis": "Sjögren syndrome",
+      "articleLink": "https://www.pathologyoutlines.com/topic/salivaryglandssjogren.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssjogrenOrmandy01.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssjogrenOrmandy02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssjogrenOrmandy03.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssjogrenOrmandy04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssjogrenOrmandy06.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssjogrenOrmandy07.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssjogrenOrmandy05.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssjogrenMarvi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssjogrenMarvi04.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssjogrenMarvi05.jpg",
+        "https://www.pathologyoutlines.com/imgau/salivaryglandssjogrenMarvi01.jpg"
+      ],
+      "clinicalInfo": "50 year old woman with dry mouth and bilateral parotid gland swelling"
+    }
+  ]
+}
