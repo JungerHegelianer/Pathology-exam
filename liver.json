@@ -11,7 +11,7 @@
         "https://www.pathologyoutlines.com/imgau/livercarolisdiseaseSalahi05.jpeg",
         "https://www.pathologyoutlines.com/imgau/livercarolisdiseaseSalahi06.jpg"
       ],
-      "clinicalInfo": "30 year old man with recurrent cholangitis and cystic dilatation of intrahepatic bile ducts"
+      "clinicalInfo": "30 year old man with recurrent abdominal pain and fever"
     },
     {
       "diagnosis": "Congenital hepatic fibrosis",
@@ -21,7 +21,7 @@
         "https://www.pathologyoutlines.com/imgau/livercongenitalhepaticfibrosisliao09.jpg",
         "https://www.pathologyoutlines.com/imgau/livercongenitalhepaticfibrosisliao10.jpg"
       ],
-      "clinicalInfo": "15 year old boy with portal hypertension and fibrous bands in the liver"
+      "clinicalInfo": "15 year old boy with abdominal distension and fatigue"
     },
     {
       "diagnosis": "Extrahepatic biliary atresia",
@@ -33,7 +33,7 @@
         "https://www.pathologyoutlines.com/imgau/liverextrahepaticbiliaryatresiaHuang02.jpg",
         "https://www.pathologyoutlines.com/imgau/liverextrahepaticbiliaryatresiaJoldoshova01.jpg"
       ],
-      "clinicalInfo": "2 month old infant with jaundice and absent extrahepatic bile ducts"
+      "clinicalInfo": "2 month old infant with jaundice and pale stools"
     },
     {
       "diagnosis": "Foregut cyst",
@@ -44,7 +44,7 @@
         "https://www.pathologyoutlines.com/imgau/liverforegutcystoliveira05.jpg",
         "https://www.pathologyoutlines.com/imgau/liverforegutcystoliveira06.jpg"
       ],
-      "clinicalInfo": "40 year old woman with an asymptomatic cystic lesion in the liver"
+      "clinicalInfo": "40 year old woman with an incidental finding on abdominal imaging"
     },
     {
       "diagnosis": "Navajo hepatopathy",
@@ -57,7 +57,7 @@
         "https://www.pathologyoutlines.com/imgau/livernavajohepatopathyHanson05.jpg",
         "https://www.pathologyoutlines.com/imgau/livernavajohepatopathyHanson06.jpg"
       ],
-      "clinicalInfo": "5 year old child with jaundice and liver fibrosis"
+      "clinicalInfo": "5 year old child with jaundice and poor growth"
     },
     {
       "diagnosis": "Polycystic liver disease",
@@ -80,7 +80,7 @@
         "https://www.pathologyoutlines.com/imgau/liverpolycysticliverdiseaseZynger3.jpg",
         "https://www.pathologyoutlines.com/imgau/liverpolycysticliverdiseasekikuchi15.jpg"
       ],
-      "clinicalInfo": "40 year old woman with multiple liver cysts and abdominal discomfort"
+      "clinicalInfo": "40 year old woman with abdominal discomfort and bloating"
     },
     {
       "diagnosis": "Progressive familial intrahepatic cholestasis",
@@ -91,7 +91,7 @@
         "https://www.pathologyoutlines.com/imgau/liverpfic_GoyalSingh03.jpg",
         "https://www.pathologyoutlines.com/imgau/liverpfic_GoyalSingh04.jpg"
       ],
-      "clinicalInfo": "3 year old child with jaundice and intrahepatic cholestasis"
+      "clinicalInfo": "3 year old child with jaundice and itching"
     },
     {
       "diagnosis": "Simple biliary cyst",
@@ -105,7 +105,7 @@
         "https://www.pathologyoutlines.com/imgau/liversolitarycystChen02.jpg",
         "https://www.pathologyoutlines.com/imgau/liversolitarycystChen03.jpg"
       ],
-      "clinicalInfo": "50 year old woman with an asymptomatic cyst in the liver"
+      "clinicalInfo": "50 year old woman with an incidental liver lesion on ultrasound"
     },
     {
       "diagnosis": "Von Meyenburg complex",
@@ -115,7 +115,7 @@
         "https://www.pathologyoutlines.com/imgau/livervonmeyenburgjoneja02.jpg",
         "https://www.pathologyoutlines.com/imgau/livervonmeyenburgjoneja03.jpg"
       ],
-      "clinicalInfo": "40 year old man with incidental bile duct hamartomas in the liver"
+      "clinicalInfo": "40 year old man with an incidental finding during liver imaging"
     },
     {
       "diagnosis": "Alpha-1 antitrypsin deficiency",
@@ -126,7 +126,7 @@
         "https://www.pathologyoutlines.com/imgau/liverAAT_Pendse07.jpg",
         "https://www.pathologyoutlines.com/imgau/liverAAT_Pendse08.jpg"
       ],
-      "clinicalInfo": "45 year old man with liver cirrhosis and PAS-positive globules"
+      "clinicalInfo": "45 year old man with fatigue and abnormal liver tests"
     },
     {
       "diagnosis": "Gaucher disease",
@@ -138,7 +138,7 @@
         "https://www.pathologyoutlines.com/caseofweek/case164image3.jpg",
         "https://www.pathologyoutlines.com/imgau/livergauchersTsang04.jpg"
       ],
-      "clinicalInfo": "30 year old woman with hepatomegaly and Gaucher cells in the liver"
+      "clinicalInfo": "30 year old woman with abdominal enlargement and easy bruising"
     },
     {
       "diagnosis": "Glycogen storage diseases",
@@ -148,7 +148,7 @@
         "https://www.pathologyoutlines.com/imgau/liverglycogenstoragediseasekhurram02.jpg",
         "https://www.pathologyoutlines.com/imgau/liverglycogenstoragediseasekhurram03.jpg"
       ],
-      "clinicalInfo": "5 year old child with hepatomegaly and glycogen accumulation in hepatocytes"
+      "clinicalInfo": "5 year old child with enlarged abdomen and low energy"
     },
     {
       "diagnosis": "Hemochromatosis",
@@ -158,7 +158,7 @@
         "https://www.pathologyoutlines.com/imgau/liverhemochromatosisEvason02.jpg",
         "https://www.pathologyoutlines.com/imgau/liverhemochromatosisEvason03.jpg"
       ],
-      "clinicalInfo": "50 year old man with liver cirrhosis and iron overload"
+      "clinicalInfo": "50 year old man with fatigue and joint pain"
     },
     {
       "diagnosis": "Niemann-Pick disease",
@@ -168,7 +168,7 @@
         "https://www.webpathology.com/_next/image?url=https%3A%2F%2Fd3cyex60hhnlth.cloudfront.net%2Ffit-in%2F650x650%2Ffilters%3Aformat(webp)%2Fcase%2Fdetail_images%2Fc859_6_detail.jpg&w=1920&q=75",
         "https://www.webpathology.com/_next/image?url=https%3A%2F%2Fd3cyex60hhnlth.cloudfront.net%2Ffit-in%2F650x650%2Ffilters%3Aformat(webp)%2Fcase%2Fdetail_images%2Fc859_4_detail.jpg&w=750&q=75"
       ],
-      "clinicalInfo": "2 year old child with hepatosplenomegaly and lipid-laden macrophages"
+      "clinicalInfo": "2 year old child with abdominal swelling and developmental delay"
     },
     {
       "diagnosis": "Primary hyperoxaluria",
@@ -179,7 +179,7 @@
         "https://www.pathologyoutlines.com/caseofweek/case436image4.jpg",
         "https://www.pathologyoutlines.com/caseofweek/case436image5.jpg"
       ],
-      "clinicalInfo": "10 year old child with oxalate crystals in the liver and kidney failure"
+      "clinicalInfo": "10 year old child with recurrent abdominal pain and fatigue"
     },
     {
       "diagnosis": "Wilson disease",
@@ -194,7 +194,7 @@
         "https://www.pathologyoutlines.com/imgau/liverwilsonsdiseaseNalbantoglu05.jpg",
         "https://www.pathologyoutlines.com/caseofweek/case388image10Rhodanine.jpg"
       ],
-      "clinicalInfo": "25 year old man with liver cirrhosis and copper accumulation"
+      "clinicalInfo": "25 year old man with fatigue and neurological symptoms"
     },
     {
       "diagnosis": "Acute hepatitis",
@@ -209,7 +209,7 @@
         "https://www.pathologyoutlines.com/imgau/liveracutehepgeneralVenableWindon09.jpg",
         "https://www.pathologyoutlines.com/imgau/liveracutehepgeneralVenableWindon10.jpg"
       ],
-      "clinicalInfo": "35 year old man with jaundice and acute liver inflammation"
+      "clinicalInfo": "35 year old man with jaundice and nausea"
     },
     {
       "diagnosis": "Alcoholic liver disease",
@@ -220,7 +220,7 @@
         "https://www.pathologyoutlines.com/imgau/liveralcoholichepMicroChan3.jpg",
         "https://www.pathologyoutlines.com/imgau/liveralcoholichepMicroChan4.jpg"
       ],
-      "clinicalInfo": "45 year old man with fatty liver and alcoholic steatosis"
+      "clinicalInfo": "45 year old man with abdominal pain and weight loss"
     },
     {
       "diagnosis": "Autoimmune hepatitis",
@@ -238,7 +238,7 @@
         "https://www.pathologyoutlines.com/imgau/liverautoimmune_Chan10.jpg",
         "https://www.pathologyoutlines.com/imgau/liverautoimmune_Chan11.jpg"
       ],
-      "clinicalInfo": "40 year old woman with chronic liver inflammation and autoantibodies"
+      "clinicalInfo": "40 year old woman with fatigue and elevated liver enzymes"
     },
     {
       "diagnosis": "Glycogenic hepatopathy",
@@ -251,7 +251,7 @@
         "https://www.pathologyoutlines.com/imgau/liverglycogenichepatopathyHagen2.jpg",
         "https://www.pathologyoutlines.com/imgau/liverglycogenichepatopathyHagen3.jpg"
       ],
-      "clinicalInfo": "20 year old man with hepatomegaly and glycogen accumulation due to diabetes"
+      "clinicalInfo": "20 year old man with abdominal enlargement and poor glucose control"
     },
     {
       "diagnosis": "Granulomatous hepatitis",
@@ -266,7 +266,7 @@
         "https://www.pathologyoutlines.com/imgau/livergrannoninfect_chan12.jpg",
         "https://www.pathologyoutlines.com/imgau/livergrannoninfect_chan13.jpg"
       ],
-      "clinicalInfo": "50 year old man with granulomas in the liver and systemic symptoms"
+      "clinicalInfo": "50 year old man with fever and weight loss"
     },
     {
       "diagnosis": "Neonatal hepatitis",
@@ -279,7 +279,7 @@
         "https://www.pathologyoutlines.com/imgau/liverneonatalhepMicroChan4.jpg",
         "https://www.pathologyoutlines.com/imgau/liverneonatalhepMicroChan6.jpg"
       ],
-      "clinicalInfo": "1 month old infant with jaundice and liver inflammation"
+      "clinicalInfo": "1 month old infant with jaundice and poor feeding"
     },
     {
       "diagnosis": "Nonalcoholic fatty liver disease / nonalcoholic steatohepatitis (NASH)",
@@ -291,7 +291,7 @@
         "https://www.pathologyoutlines.com/imgau/liverNASHIkura16.jpg",
         "https://www.pathologyoutlines.com/imgau/liverNASHIkura17.jpg"
       ],
-      "clinicalInfo": "45 year old man with fatty liver and steatohepatitis"
+      "clinicalInfo": "45 year old man with fatigue and elevated liver tests"
     },
     {
       "diagnosis": "Hepatitis B virus (HBV)",
@@ -306,7 +306,7 @@
         "https://www.pathologyoutlines.com/imgau/liverhepBVyas04a.jpg",
         "https://www.pathologyoutlines.com/imgau/liverhepBVyas05.jpg"
       ],
-      "clinicalInfo": "35 year old man with chronic hepatitis B and liver inflammation"
+      "clinicalInfo": "35 year old man with jaundice and abdominal discomfort"
     },
     {
       "diagnosis": "Hepatitis C virus (HCV)",
@@ -322,7 +322,7 @@
         "https://www.pathologyoutlines.com/imgau/HepCMicroKikuchi8.jpg",
         "https://www.pathologyoutlines.com/imgau/HepCMicroKikuchi12.jpg"
       ],
-      "clinicalInfo": "40 year old man with chronic hepatitis C and liver fibrosis"
+      "clinicalInfo": "40 year old man with fatigue and abnormal liver function"
     },
     {
       "diagnosis": "Angiomyolipoma",
@@ -334,7 +334,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorAML_Evason04.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorAML_Evason05.jpg"
       ],
-      "clinicalInfo": "40 year old woman with a benign liver mass containing fat and muscle"
+      "clinicalInfo": "40 year old woman with an incidental liver mass on imaging"
     },
     {
       "diagnosis": "Bile duct adenoma",
@@ -350,7 +350,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorbileductadenomaIjaz8.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorbileductadenomaIjaz9.jpg"
       ],
-      "clinicalInfo": "50 year old man with a small benign bile duct tumor in the liver"
+      "clinicalInfo": "50 year old man with an incidental liver lesion on CT"
     },
     {
       "diagnosis": "Biliary adenofibroma",
@@ -364,7 +364,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorbiliaryadenofibromaNaili06.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorbiliaryadenofibromaNaili07.jpg"
       ],
-      "clinicalInfo": "45 year old woman with a rare benign liver tumor with glandular elements"
+      "clinicalInfo": "45 year old woman with an unusual liver mass on imaging"
     },
     {
       "diagnosis": "Focal fatty change",
@@ -379,7 +379,7 @@
         "https://www.pathologyoutlines.com/caseofweek/case141image4.jpg",
         "https://www.pathologyoutlines.com/caseofweek/case141image5.jpg"
       ],
-      "clinicalInfo": "40 year old woman with localized fat accumulation in the liver"
+      "clinicalInfo": "40 year old woman with a localized liver abnormality on ultrasound"
     },
     {
       "diagnosis": "Focal nodular hyperplasia",
@@ -393,7 +393,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorFNHHuber08.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorFNHHuber09.jpg"
       ],
-      "clinicalInfo": "35 year old woman with a benign nodular lesion in the liver"
+      "clinicalInfo": "35 year old woman with an incidental liver lesion on MRI"
     },
     {
       "diagnosis": "Hemangioma",
@@ -409,7 +409,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorhemangioma13.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorhemangioma14.jpg"
       ],
-      "clinicalInfo": "45 year old woman with an asymptomatic vascular lesion in the liver"
+      "clinicalInfo": "45 year old woman with an asymptomatic liver mass on imaging"
     },
     {
       "diagnosis": "Hepatic infantile hemangioma",
@@ -425,7 +425,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorIHEZhang05.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorIHEJain05.jpg"
       ],
-      "clinicalInfo": "3 month old infant with multiple vascular lesions in the liver"
+      "clinicalInfo": "3 month old infant with multiple liver lesions on ultrasound"
     },
     {
       "diagnosis": "Hepatocellular adenoma",
@@ -437,7 +437,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorhepatocellularadenomapendse10a.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorhepatocellularadenomagonzalez01a.jpg"
       ],
-      "clinicalInfo": "30 year old woman with a benign liver tumor associated with oral contraceptives"
+      "clinicalInfo": "30 year old woman with a liver mass and history of oral contraceptives"
     },
     {
       "diagnosis": "Intraductal papillary neoplasm of the bile ducts",
@@ -447,7 +447,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorintraductalpapDong02new.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorintraductalpapDong03new.jpg"
       ],
-      "clinicalInfo": "60 year old man with a papillary tumor in the intrahepatic bile ducts"
+      "clinicalInfo": "60 year old man with abdominal pain and abnormal liver imaging"
     },
     {
       "diagnosis": "Mesenchymal hamartoma",
@@ -465,7 +465,7 @@
         "https://www.pathologyoutlines.com/caseofweek/case200661image4.jpg",
         "https://www.pathologyoutlines.com/caseofweek/case200661image5.jpg"
       ],
-      "clinicalInfo": "2 year old child with a large cystic liver mass"
+      "clinicalInfo": "2 year old child with a large abdominal mass"
     },
     {
       "diagnosis": "Mucinous cystic neoplasm",
@@ -475,7 +475,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorMCNEvason02new.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorMCNEvason03new.jpg"
       ],
-      "clinicalInfo": "50 year old woman with a mucinous cystic lesion in the liver"
+      "clinicalInfo": "50 year old woman with a cystic liver lesion on imaging"
     },
     {
       "diagnosis": "Nodular regenerative hyperplasia",
@@ -487,7 +487,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumornodularregenhyperGonzalo04.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumornodularregenhyperGonzalo06.jpg"
       ],
-      "clinicalInfo": "40 year old man with nodular liver regeneration and portal hypertension"
+      "clinicalInfo": "40 year old man with abdominal distension and abnormal liver tests"
     },
     {
       "diagnosis": "Segmental atrophy",
@@ -499,7 +499,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorsegmentalatrophyAssarzadegan06.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorsegmentalatrophyAssarzadegan07.jpg"
       ],
-      "clinicalInfo": "55 year old man with localized liver atrophy and fibrosis"
+      "clinicalInfo": "55 year old man with localized liver changes on imaging"
     },
     {
       "diagnosis": "High grade dysplastic nodule",
@@ -510,7 +510,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorhighgradedysplasticnod_Gonzalez03.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorhighgradedysplasticnodTwitterImageWei1.jpg"
       ],
-      "clinicalInfo": "50 year old man with a precancerous nodule in a cirrhotic liver"
+      "clinicalInfo": "50 year old man with a liver nodule and chronic liver disease"
     },
     {
       "diagnosis": "Large regenerative nodule",
@@ -522,7 +522,7 @@
         "https://www.pathologyoutlines.com/imgau/liver/livertumorlivercelldysplasiaAssarzadegan4.jpg",
         "https://www.pathologyoutlines.com/imgau/liver/livertumorlivercelldysplasiaAssarzadegan5.jpg"
       ],
-      "clinicalInfo": "45 year old man with a benign regenerative nodule in the liver"
+      "clinicalInfo": "45 year old man with a liver lesion and cirrhosis"
     },
     {
       "diagnosis": "Liver cell dysplasia",
@@ -534,7 +534,7 @@
         "https://www.pathologyoutlines.com/imgau/liver/livertumorlivercelldysplasiaAssarzadegan4.jpg",
         "https://www.pathologyoutlines.com/imgau/liver/livertumorlivercelldysplasiaAssarzadegan5.jpg"
       ],
-      "clinicalInfo": "50 year old man with dysplastic hepatocytes in a cirrhotic liver"
+      "clinicalInfo": "50 year old man with abnormal liver cells on biopsy"
     },
     {
       "diagnosis": "Macroregenerative nodule",
@@ -542,7 +542,7 @@
       "images": [
         "https://www.pathologyoutlines.com/imgau/livertumormacroregenerativenodule_Gonzalez01.jpg"
       ],
-      "clinicalInfo": "45 year old man with a large regenerative nodule in the liver"
+      "clinicalInfo": "45 year old man with a large liver nodule on imaging"
     },
     {
       "diagnosis": "Hepatocellular carcinoma",
@@ -553,7 +553,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorHCCChen14.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorHCCChen15.jpg"
       ],
-      "clinicalInfo": "60 year old man with a malignant liver tumor and cirrhosis"
+      "clinicalInfo": "60 year old man with fatigue and a liver mass"
     },
     {
       "diagnosis": "HCC - clear cell variant",
@@ -566,7 +566,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorclearcellHCCGonzalez05.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorclearcellHCCGonzalez06.jpg"
       ],
-      "clinicalInfo": "55 year old man with a clear cell hepatocellular carcinoma"
+      "clinicalInfo": "55 year old man with a liver mass and chronic liver disease"
     },
     {
       "diagnosis": "HCC - fibrolamellar variant",
@@ -580,7 +580,7 @@
         "https://www.pathologyoutlines.com/caseofweek/case161image4.jpg",
         "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/08fd/3045764/a965a6a599ef/CJ-8-2-g002.jpg"
       ],
-      "clinicalInfo": "20 year old man with a fibrolamellar hepatocellular carcinoma"
+      "clinicalInfo": "20 year old man with abdominal pain and a liver mass"
     },
     {
       "diagnosis": "HCC - lymphocyte rich",
@@ -591,7 +591,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorlelhccGlll01.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorlelhccGlll02.jpg"
       ],
-      "clinicalInfo": "50 year old man with a lymphocyte-rich hepatocellular carcinoma"
+      "clinicalInfo": "50 year old man with a liver mass and abnormal liver tests"
     },
     {
       "diagnosis": "HCC - macrotrabecular massive",
@@ -605,7 +605,7 @@
         "https://www.pathologyoutlines.com/imgau/macrotrabecularhepatocellularcarcinomaRaulSGonzalezMD01.jpg",
         "https://www.pathologyoutlines.com/imgau/macrotrabecularhepatocellularcarcinomaRaulSGonzalezMD02.jpg"
       ],
-      "clinicalInfo": "55 year old man with a macrotrabecular massive hepatocellular carcinoma"
+      "clinicalInfo": "55 year old man with a liver mass and weight loss"
     },
     {
       "diagnosis": "HCC - sarcomatoid variant",
@@ -618,7 +618,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorsarcomatoidelliott_08.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorsarcomatoidelliott_09.jpg"
       ],
-      "clinicalInfo": "60 year old man with a sarcomatoid hepatocellular carcinoma"
+      "clinicalInfo": "60 year old man with a rapidly growing liver mass"
     },
     {
       "diagnosis": "HCC - scirrhous type",
@@ -630,7 +630,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorsclerosingHCCGill07.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorscirrhousHCCONeil01.jpg"
       ],
-      "clinicalInfo": "55 year old man with a scirrhous hepatocellular carcinoma"
+      "clinicalInfo": "55 year old man with a firm liver mass on imaging"
     },
     {
       "diagnosis": "HCC - steatohepatitic",
@@ -642,7 +642,7 @@
         "https://www.pathologyoutlines.com/imgau/liversteatohepatiticHCCWardMicro4.jpg",
         "https://www.pathologyoutlines.com/imgau/liversteatohepatiticHCCWardMicro5.jpg"
       ],
-      "clinicalInfo": "50 year old man with a steatohepatitic hepatocellular carcinoma"
+      "clinicalInfo": "50 year old man with a liver mass and fatty liver"
     },
     {
       "diagnosis": "Combined hepatocellular carcinoma-cholangiocarcinoma",
@@ -652,7 +652,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorcombinedHCCcholangioGuedj4a.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorcombinedHCCcholangioGuedj5a.jpg"
       ],
-      "clinicalInfo": "60 year old man with a mixed liver tumor of HCC and cholangiocarcinoma"
+      "clinicalInfo": "60 year old man with a liver mass and jaundice"
     },
     {
       "diagnosis": "Intrahepatic cholangiocarcinoma (small and large duct types)",
@@ -672,7 +672,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorcholangiocarcinomaRaulSGonzalezMD02.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorcholangiocarcinomaRaulSGonzalezMD03.jpg"
       ],
-      "clinicalInfo": "65 year old man with a malignant bile duct tumor in the liver"
+      "clinicalInfo": "65 year old man with abdominal pain and a liver mass"
     },
     {
       "diagnosis": "Angiosarcoma",
@@ -685,7 +685,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorangiosarcomaHerman08.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorangiosarcomaHerman09.jpg"
       ],
-      "clinicalInfo": "60 year old man with a malignant vascular tumor in the liver"
+      "clinicalInfo": "60 year old man with a rapidly growing liver mass"
     },
     {
       "diagnosis": "Calcifying nested stromal epithelial tumor",
@@ -696,7 +696,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorCNESTXia04new.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorCNESTXia05new.jpg"
       ],
-      "clinicalInfo": "10 year old girl with a rare calcified liver tumor"
+      "clinicalInfo": "10 year old girl with a calcified liver mass"
     },
     {
       "diagnosis": "Epithelioid hemangioendothelioma",
@@ -713,7 +713,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorEHEJMGardnerMD03.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorEHEJMGardnerMD04.jpg"
       ],
-      "clinicalInfo": "40 year old woman with a multifocal vascular tumor in the liver"
+      "clinicalInfo": "40 year old woman with multiple liver lesions"
     },
     {
       "diagnosis": "Hepatic small vessel neoplasm",
@@ -723,7 +723,7 @@
         "https://www.pathologyoutlines.com/imgau/liverhsvnGill02.jpg",
         "https://www.pathologyoutlines.com/imgau/liverhsvnGill03.jpg"
       ],
-      "clinicalInfo": "50 year old man with a benign small vessel tumor in the liver"
+      "clinicalInfo": "50 year old man with a small liver lesion on imaging"
     },
     {
       "diagnosis": "Hepatoblastoma",
@@ -737,7 +737,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorhepatoblastoma_OliveiraCipriano09.jpg",
         "https://www.pathologyoutlines.com/imgau/livertumorhepatoblastoma_OliveiraCipriano10.jpg"
       ],
-      "clinicalInfo": "3 year old child with a malignant liver tumor"
+      "clinicalInfo": "3 year old child with an abdominal mass and weight loss"
     },
     {
       "diagnosis": "Neuroendocrine carcinoma",
@@ -746,7 +746,7 @@
         "https://www.pathologyoutlines.com/imgau/livertumorNEcarcinomaLee01.jpeg",
         "https://www.pathologyoutlines.com/imgau/livertumorNEcarcinomaLee02.jpg"
       ],
-      "clinicalInfo": "55 year old man with a high-grade neuroendocrine tumor in the liver"
+      "clinicalInfo": "55 year old man with a liver mass and systemic symptoms"
     },
     {
       "diagnosis": "Undifferentiated embryonal sarcoma",
@@ -765,7 +765,7 @@
         "https://www.pathologyoutlines.com/imgau/liverundiffembryonalsarcomaRaulSGonzalezMD02.jpg",
         "https://www.pathologyoutlines.com/imgau/liverundiffembryonalsarcomaRaulSGonzalezMD03.jpg"
       ],
-      "clinicalInfo": "10 year old child with an aggressive sarcoma in the liver"
+      "clinicalInfo": "10 year old child with a large liver mass"
     },
     {
       "diagnosis": "Well differentiated neuroendocrine tumor",
@@ -773,7 +773,7 @@
       "images": [
         "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f30a/2542373/77caff712a36/1477-7819-6-91-4.jpg"
       ],
-      "clinicalInfo": "50 year old man with a low-grade neuroendocrine tumor in the liver"
+      "clinicalInfo": "50 year old man with a liver mass and abdominal discomfort"
     }
   ]
 }
