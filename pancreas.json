@@ -1,0 +1,253 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Intraductal oncocytic papillary neoplasm (IOPN)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasiopn.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasiopnAskan01.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasiopnAskan03.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasiopnAskan05.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasiopnAskan06.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasiopnAskan07.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasiopnAskan10.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasiopnAskan11.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasiopnliverwei02.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasiopnAskan09.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasiopnliverwei03.jpg"
+      ],
+      "clinicalInfo": "60 year old woman with abdominal pain and a pancreatic mass"
+    },
+    {
+      "diagnosis": "Intraductal papillary mucinous neoplasm (IPMN)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasipmn.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/23f5/2999199/a25ab0ac9deb/WJGS-2-352-g002.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/23f5/2999199/a0f87d84cc92/WJGS-2-352-g003.jpg"
+      ],
+      "clinicalInfo": "65 year old man with an incidental cystic lesion in the pancreas"
+    },
+    {
+      "diagnosis": "Intraductal tubulopapillary neoplasm (ITPN)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasitpn.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasitpn_askanbasturk01.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasitpn_askanbasturk02.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasitpn_askanbasturk03.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasitpn_askanbasturk04.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasitpn_askanbasturk06.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasitpn_askanbasturk07.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasitpn_askanbasturk08a.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasitpn_askanbasturk08b.jpg"
+      ],
+      "clinicalInfo": "55 year old man with abdominal discomfort and a pancreatic lesion"
+    },
+    {
+      "diagnosis": "Lymphoepithelial cysts",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreaslymphoepithelial.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreaslymphoepithelialrytych02.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaslymphoepithelialrytych03.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaslymphoepithelialrytych04.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaslymphoepithelialKrogh03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaslymphoepithelialrytych06.jpg"
+      ],
+      "clinicalInfo": "50 year old man with an incidental cystic lesion in the pancreas"
+    },
+    {
+      "diagnosis": "Mucinous cystic neoplasm (MCN)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasmcn.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasmcn_Gonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmcn_Gonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmcn_Gonzalez03.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmcn_Rosenbaum04.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmcnGonzalez02n.jpg"
+      ],
+      "clinicalInfo": "45 year old woman with a cystic mass in the pancreas"
+    },
+    {
+      "diagnosis": "PanIN",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreaspanin.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreaspaninarmutlu07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaspaninarmutlu08new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaspaninarmutlu09new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaspaninarmutlu10new.jpg"
+      ],
+      "clinicalInfo": "60 year old man with an incidental finding on pancreatic biopsy"
+    },
+    {
+      "diagnosis": "Serous cystadenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasserous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasserousbulutay01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasserousbulutay02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasserousbulutay03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasserousbulutay04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasserousbulutay05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasserousbulutay09new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasserousbulutay06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasserousbulutay07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasserousbulutay08new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasserousbulutay10new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasserousbulutay11new.jpg"
+      ],
+      "clinicalInfo": "55 year old woman with an asymptomatic pancreatic cyst"
+    },
+    {
+      "diagnosis": "Simple mucinous cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasmucnoncyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasmucnoncystmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmucnoncystmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmucnoncystmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmucnoncystmicro04.jpg"
+      ],
+      "clinicalInfo": "50 year old woman with an incidental pancreatic cyst"
+    },
+    {
+      "diagnosis": "Acinar cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasacinar.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini1.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini2.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini3.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini6.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini7.jpg"
+      ],
+      "clinicalInfo": "60 year old man with abdominal pain and weight loss"
+    },
+    {
+      "diagnosis": "Acinar cystic transformation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasacinarcellcystadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasacinarcellcystadenomaarolechen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasacinarcellcystadenomaarolechen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasacinarcellcystadenomaarolechen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasacinarcellcystadenomaarolechen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasacinarcellcystadenomaarolechen07.jpg"
+      ],
+      "clinicalInfo": "45 year old woman with an incidental pancreatic lesion"
+    },
+    {
+      "diagnosis": "Ductal adenocarcinoma, NOS",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasductal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasductalChen001.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasductalChen002.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasductalChen003.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasductalChen004.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasductalChen005.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasductalChen006.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasductalChen007.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasductalChen008.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasductalChen009.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasductalChen10.jpg"
+      ],
+      "clinicalInfo": "65 year old man with jaundice and abdominal pain"
+    },
+    {
+      "diagnosis": "Adenosquamous carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasadenosquamous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasadenosquamoustaskin08anew.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasadenosquamoustaskin07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasadenosquamousgonzalez01new.jpg"
+      ],
+      "clinicalInfo": "60 year old man with weight loss and a pancreatic mass"
+    },
+    {
+      "diagnosis": "Colloid carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreascolloid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreascolloidVazzanomicro2.JPG",
+        "https://www.pathologyoutlines.com/imgau/pancreascolloidVazzanomicro1.JPG",
+        "https://www.pathologyoutlines.com/imgau/pancreascolloidVazzanobrq1.JPG"
+      ],
+      "clinicalInfo": "55 year old woman with abdominal pain and a pancreatic mass"
+    },
+    {
+      "diagnosis": "Medullary carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasmedullarytranahsan01.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmedullarytranahsan02.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmedullarytranahsan03.jpg"
+      ],
+      "clinicalInfo": "50 year old man with a pancreatic mass and weight loss"
+    },
+    {
+      "diagnosis": "Undifferentiated carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasundifferentiated.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasundifferentiatedLuchini03.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasundifferentiatedLuchini04.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasundifferentiatedLuchini05.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasundifferentiatedLuchini06.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasundifferentiatedLuchini07.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasundifferentiatedLuchini08.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasundifferentiatedLuchini09.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasundifferentiatedLuchini010.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasundifferentiatedLuchini011.jpg"
+      ],
+      "clinicalInfo": "60 year old man with abdominal pain and rapid weight loss"
+    },
+    {
+      "diagnosis": "Undifferentiated carcinoma with osteoclast-like giant cells",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasosteoclastic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasosteoclasticluchini03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasosteoclasticluchini04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasosteoclasticluchini05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasosteoclasticluchini06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasosteoclasticluchini07new.jpg"
+      ],
+      "clinicalInfo": "55 year old woman with a pancreatic mass and weight loss"
+    },
+    {
+      "diagnosis": "Neuroendocrine neoplasm",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreaspen.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreaspenHutchings07.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaspenHutchings08.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaspenHutchings09.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaspenHutchings10.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaspenHutchings12.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaspenSopha14new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreaspenSopha15new.jpg"
+      ],
+      "clinicalInfo": "50 year old man with abdominal discomfort and a pancreatic lesion"
+    },
+    {
+      "diagnosis": "Clear cell pancreatic endocrine tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasclearcellendocrine.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasclearcellendocrineSinghi01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasclearcellendocrineSinghi02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasclearcellendocrineSinghi03new.jpg"
+      ],
+      "clinicalInfo": "45 year old woman with a pancreatic mass and hypoglycemia"
+    },
+    {
+      "diagnosis": "Mixed neuroendocrine nonneuroendocrine neoplasms (MiNENs)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreasmixed.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/pancreasmixedZiebell01.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmixedZiebell02.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmixedZiebell03.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasmixedZiebell04.jpg"
+      ],
+      "clinicalInfo": "60 year old man with a pancreatic mass and abdominal pain"
+    },
+    {
+      "diagnosis": "Neuroendocrine tumor with sarcomatous differentiation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/pancreaspensarcomatous.html",
+      "images": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmodpathol.3880457/MediaObjects/41379_2001_Article_BF3880457_Fig2_HTML.jpg?as=webp",
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmodpathol.3880457/MediaObjects/41379_2001_Article_BF3880457_Fig3_HTML.jpg?as=webp",
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmodpathol.3880457/MediaObjects/41379_2001_Article_BF3880457_Fig5_HTML.jpg?as=webp"
+      ],
+      "clinicalInfo": "55 year old man with a rapidly growing pancreatic mass"
+    }
+  ]
+}
