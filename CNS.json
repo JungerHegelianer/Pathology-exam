@@ -1,0 +1,651 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Astrocytoma, IDH mutant",
+      "articleLink": "https://www.pathologyoutlines.com/topic/CNStumorgliomasastrocytomasIDHmutant.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseastrocytomaIDHmutAbdelzahermicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseastrocytomaIDHmutAbdelzahermicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseastrocytomaIDHmutAbdelzahermicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseastrocytomaIDHmutAbdelzahermicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseastrocytomaIDHmutAbdelzahermicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseastrocytomaIDHmutAbdelzahermicro8.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseastrocytomaIDHmutAbdelzahermicro11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumor/anaastroidhmutantDeWittmicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumor/anaastroidhmutantDeWittmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumor/anaastroidhmutantDeWittmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumor/anaastroidhmutantDeWittmicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorglioblastomaidhmutantMorrismicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorglioblastomaidhmutantMorrismicro2.jpg"
+      ],
+      "clinicalInfo": "40 year old man with seizures and a brain lesion"
+    },
+    {
+      "diagnosis": "Oligodendroglioma, IDH mutant and 1p / 19q codeleted",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumoroligodendrogliomaidhmutant.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumoroligodendrogliomaidhmutantahrendsen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoroligodendrogliomaidhmutantahrendsen07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoroligodendrogliomaidhmutantahrendsen10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoroligodendrogliomaidhmutantahrendsen11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoroligodendrogliomaidhmutantahrendsen12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoroligodendrogliomaidhmutantahrendsen14.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoroligodendrogliomaidhmutantahrendsen15.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoroligodendrogliomaidhmutantahrendsen16.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoranaplasticoliDeWittmicro6.jpg"
+      ],
+      "clinicalInfo": "45 year old woman with headaches and a temporal lobe mass"
+    },
+    {
+      "diagnosis": "Glioblastoma, IDH wild type",
+      "articleLink": "https://www.pathologyoutlines.com/topic/CNStumorgliomasglioblastomasIDHwildtype.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal07.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal08.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal09.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal10.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal11.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeMorris12.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal13.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal14.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal21.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal22.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal23.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal25.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal26.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorgliomasglioblastomasIDHwildtypeRamlal24.jpg"
+      ],
+      "clinicalInfo": "60 year old man with neurological deficits and a brain mass"
+    },
+    {
+      "diagnosis": "Diffuse astrocytoma, MYB or MYBL1 altered",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumordiffuseastrocytomamyb.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseastrocytomamybAhrendsen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseastrocytomamybAhrendsen07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseastrocytomamybAhrendsen05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseastrocytomamybAhrendsen03.jpg"
+      ],
+      "clinicalInfo": "30 year old woman with seizures and a cortical lesion"
+    },
+    {
+      "diagnosis": "Angiocentric glioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorangiocentricglioma.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a4/Neuropathology_case_V_03.jpg",
+        "https://hms.harvard.edu/sites/default/files/uploads/news/Glioma600%20ORIGINAL.jpg",
+        "https://neurosciencenews.com/files/2016/02/angiocentric-glioma-genetics.jpg",
+        "https://www.lidsen.com/image/data/obm-neurobiology-0237-20181105-lily/obm-neurobiology-0237-20181105-lily_html_94877fd3.jpg",
+        "https://www.lidsen.com/image/data/obm-neurobiology-0237-20181105-lily/obm-neurobiology-0237-20181105-lily_html_167c64de.jpg",
+        "https://www.lidsen.com/image/data/obm-neurobiology-0237-20181105-lily/obm-neurobiology-0237-20181105-lily_html_c4f11b11.jpg",
+        "https://www.lidsen.com/image/data/obm-neurobiology-0237-20181105-lily/obm-neurobiology-0237-20181105-lily_html_96f9b8ed.jpg"
+      ],
+      "clinicalInfo": "25 year old man with refractory epilepsy and a brain lesion"
+    },
+    {
+      "diagnosis": "Polymorphous low grade neuroepithelial tumor of the young (PLNTY)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorplnty.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorplntyabdelzaher01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorplntyabdelzaher02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorplntyabdelzaher03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorplntyabdelzaher04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorplntyabdelzaher05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorplntyahrendsen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorplntyahrendsen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorplntyahrendsen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorplntyahrendsen04.jpg"
+      ],
+      "clinicalInfo": "20 year old woman with seizures and a temporal lobe lesion"
+    },
+    {
+      "diagnosis": "Diffuse low grade glioma, MAPK pathway altered",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumordiffuselowgradegliomaMAPK.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuselowgradegliomaMAPKVoudouri04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuselowgradegliomaMAPKVoudouri05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuselowgradegliomaMAPKVoudouri06.jpg"
+      ],
+      "clinicalInfo": "35 year old man with headaches and a brain lesion"
+    },
+    {
+      "diagnosis": "Diffuse midline glioma, H3 K27 altered",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumordmgh3k27m.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumordmgh3k27mdewitt1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordmgh3k27mdewitt2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordmgh3k27mdewitt3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case477image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case477image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case477image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case477image5.jpg"
+      ],
+      "clinicalInfo": "10 year old child with neurological deficits and a brainstem mass"
+    },
+    {
+      "diagnosis": "Diffuse hemispheric glioma, H3 G34 mutant",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumordiffuseH3G34mutant.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseH3G34mutantVoudouriZanazzi04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseH3G34mutantVoudouriZanazzi05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordiffuseH3G34mutantVoudouriZanazzi06.jpg"
+      ],
+      "clinicalInfo": "15 year old boy with seizures and a cerebral mass"
+    },
+    {
+      "diagnosis": "Diffuse pediatric type high grade glioma, H3 wild type and IDH wild type",
+      "articleLink": "",
+      "images": [
+        "https://www.researchgate.net/publication/355443813/figure/fig3/AS:11431281244222679@1715862391473/Diffuse-pediatric-type-high-grade-glioma-H3-wildtype-and-IDH-wildtype-histologic.tif",
+        "https://www.mdpi.com/ijms/ijms-25-08498/article_deploy/html/images/ijms-25-08498-g004-550.jpg"
+      ],
+      "clinicalInfo": "8 year old child with neurological symptoms and a brain mass"
+    },
+    {
+      "diagnosis": "Infant type hemispheric glioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/CNStumorinfanttype.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/CNStumorinfanttypeAhrendsenWadhwani03.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorinfanttypeAhrendsenWadhwani04.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorinfanttypeAhrendsenWadhwani05.jpg"
+      ],
+      "clinicalInfo": "2 year old infant with developmental delay and a brain lesion"
+    },
+    {
+      "diagnosis": "Pilocytic astrocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorpilocyticastrocytoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilocyticastrocytoma_Cimino03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilocyticastrocytoma_Cimino04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilocyticastrocytoma_Cimino07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilocyticastrocytoma_Cimino08.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilocyticastrocytoma_Cimino09.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilocyticastrocytoma_Cimino10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilocyticastrocytoma_Cimino11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilocyticastrocytoma_Cimino12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilocyticastrocytoma_Cimino13.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilomyxoidastroAbdelzahermicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilomyxoidastroAbdelzahermicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpilomyxoidastroAbdelzahermicro3.jpg"
+      ],
+      "clinicalInfo": "12 year old child with headaches and a cerebellar mass"
+    },
+    {
+      "diagnosis": "Pleomorphic xanthoastrocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorpleomorphicxanthoastrocytoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorpleomorphicxanthoastrocytomamemon01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpleomorphicxanthoastrocytomamemon02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpleomorphicxanthoastrocytomamemon_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpleomorphicxanthoastrocytomamemon04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpleomorphicxanthoastrocytomamemon05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpleomorphicxanthoastrocytomamemon06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpleomorphicxanthoastrocytomamemon07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpleomorphicxanthoastrocytomamemon08.jpg"
+      ],
+      "clinicalInfo": "25 year old woman with seizures and a temporal lobe mass"
+    },
+    {
+      "diagnosis": "Subependymal giant cell astrocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorsubependymalgiantcell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymalgiantcellOtero01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymalgiantcellAhmadian01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymalgiantcellAhmadian02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymalgiantcellAhmadian03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymalgiantcellThomas003.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymalgiantcellAhmadian005b.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymalgiantcellThomas04.jpg"
+      ],
+      "clinicalInfo": "15 year old boy with seizures and a ventricular lesion"
+    },
+    {
+      "diagnosis": "Chordoid glioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorchordoidglioma.html",
+      "images": [
+        "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-981-15-7126-8_7/MediaObjects/490803_1_En_7_Fig2_HTML.jpg"
+      ],
+      "clinicalInfo": "50 year old woman with headaches and a third ventricle mass"
+    },
+    {
+      "diagnosis": "Astroblastoma, MN1 altered",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorastroblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case312image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case312image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case312image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case312image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case312EMAimage5.jpg"
+      ],
+      "clinicalInfo": "30 year old woman with seizures and a cerebral mass"
+    },
+    {
+      "diagnosis": "High grade astrocytoma with piloid features (HGAP)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/CNStumorHGAP.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/CNStumorHGAPGianno01.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorHGAPGianno02.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorHGAPGianno03.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorHGAPGianno05.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorHGAPGianno06.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorHGAPGianno04.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorHGAPGianno07.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorHGAPGianno08.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorHGAPGianno09.jpg"
+      ],
+      "clinicalInfo": "40 year old man with neurological deficits and a brain lesion"
+    },
+    {
+      "diagnosis": "Gangliocytoma & ganglioglioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorganglioncelltumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorganglioncelltumorAhrendsen05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorganglioncelltumorAhrendsen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorganglioncelltumorAhrendsen07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorganglioncelltumorAhrendsen08.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorganglioncelltumorAhrendsen09.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorganglioncelltumorAhrendsen10.jpg"
+      ],
+      "clinicalInfo": "20 year old man with seizures and a temporal lobe mass"
+    },
+    {
+      "diagnosis": "Desmoplastic infantile astrocytoma / ganglioglioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumordesmoplasticinfantileganglioglioma.html",
+      "images": [
+        "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-319-33432-5_17/MediaObjects/210525_2_En_17_Fig3_HTML.gif",
+        "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-7091-1544-2_63/MediaObjects/309569_1_En_63_Fig2a_HTML.png"
+      ],
+      "clinicalInfo": "1 year old infant with developmental delay and a large brain mass"
+    },
+    {
+      "diagnosis": "Dysembryoplastic neuroepithelial tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorDNET.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorDNETciminodampier01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorDNETciminodampier02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorDNETciminodampier03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorDNETciminodampier04.jpg",
+        "https://path.upmc.edu/cases/case106/images/micro1.jpg"
+      ],
+      "clinicalInfo": "15 year old boy with refractory epilepsy and a cortical lesion"
+    },
+    {
+      "diagnosis": "Papillary glioneuronal tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorpapillaryglioneuronal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher3.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher4.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher5.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher6.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher7.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher16.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher8.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher9.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher13.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher14.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillaryglioneuronalMicroAbdelzaher15.jpg"
+      ],
+      "clinicalInfo": "30 year old woman with seizures and a brain lesion"
+    },
+    {
+      "diagnosis": "Rosette forming glioneuronal tumor (RGNT)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorRGNT.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher3.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher4.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher5.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher6.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher7.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher8.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher9.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher13.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher14.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorRGNTMicroAbdelzaher15.jpg"
+      ],
+      "clinicalInfo": "35 year old man with headaches and a posterior fossa lesion"
+    },
+    {
+      "diagnosis": "Myxoid glioneuronal tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumormyxoidglioneuronaltumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxoidglioneuronaltumorYeaney02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxoidglioneuronaltumorYeaney03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxoidglioneuronaltumorYeaney04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxoidglioneuronaltumorYeaney05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxoidglioneuronaltumorYeaney06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxoidglioneuronaltumorYeaney07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxoidglioneuronaltumorYeaney08.jpg"
+      ],
+      "clinicalInfo": "25 year old woman with seizures and a septal lesion"
+    },
+    {
+      "diagnosis": "Diffuse leptomeningeal glioneuronal tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumordiffuseleptglioneurtumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/CNStumorDLGTschwetye01.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorDLGTschwetye02.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorDLGTschwetye03.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case542image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case542image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case542image3.jpg"
+      ],
+      "clinicalInfo": "10 year old child with hydrocephalus and leptomeningeal enhancement"
+    },
+    {
+      "diagnosis": "Multinodular and vacuolating neuronal tumor (MVNT)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/CNStumorMVNT.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/CNStumorMVNTgianno01.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorMVNTcavatorta02.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorMVNTgianno02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorMVNTgianno03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorMVNTgianno06.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case545image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case545image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case545image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case545image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case545image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case545image6.jpg"
+      ],
+      "clinicalInfo": "40 year old woman with seizures and a temporal lobe lesion"
+    },
+    {
+      "diagnosis": "Dysplastic cerebellar gangliocytoma (Lhermitte-Duclos disease)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumordysplasticgangliocytoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro8.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro9.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro13.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumordysplasticgangliocytomaAbdelzahermicro14.jpg"
+      ],
+      "clinicalInfo": "35 year old man with ataxia and a cerebellar lesion"
+    },
+    {
+      "diagnosis": "Central neurocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorcentralneurocytoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorcentralneurocytomaYoda02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorcentralneurocytomaYoda03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorcentralneurocytomaYoda04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorcentralneurocytomaYoda05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorcentralneurocytomaYoda07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorcentralneurocytomaYoda08.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorcentralneurocytomaYoda09.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorcentralneurocytomaYoda10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorcentralneurocytomaYoda11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorcentralneurocytomaYoda12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorcentralneurocytomaYoda13.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case119image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case119image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case119image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case119image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case119image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case119image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case119image7.jpg"
+      ],
+      "clinicalInfo": "30 year old man with headaches and a ventricular mass"
+    },
+    {
+      "diagnosis": "Extraventricular neurocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorextraventricularneurocytoma.html",
+      "images": [
+        "https://www.researchgate.net/profile/Angela-Mastronuzzi/publication/269768617/figure/fig1/AS:272030960451598@1441868643117/Patient-1-photomicrographs-of-the-extraventricular-neurocytoma-Specimens-showing.png"
+      ],
+      "clinicalInfo": "35 year old woman with seizures and a brain lesion"
+    },
+    {
+      "diagnosis": "Cerebellar liponeurocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorcerebellarliponeurocytoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorcerebellarliponeurocytomaMicroBarresi2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorcerebellarliponeurocytomaMicroBarresi3.jpg"
+      ],
+      "clinicalInfo": "50 year old man with ataxia and a cerebellar mass"
+    },
+    {
+      "diagnosis": "Ependymoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorependymoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorependymomaCai04bn.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorependymomaCai05n.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorependymomaMartinez-Lage01n.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorependymomaCai07n.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorependymomatanycyticabdelzahernew01n.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorependymomatanycyticabdelzahernew02n.jpg"
+      ],
+      "clinicalInfo": "40 year old woman with neurological deficits and a spinal cord lesion"
+    },
+    {
+      "diagnosis": "Myxopapillary ependymoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumormyxopapillaryependymoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxopapillaryependymomaGilani03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxopapillaryependymomaGilani04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxopapillaryependymomaMemon01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxopapillaryependymomaMemon02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormyxopapillaryependymomaMemon03.jpg"
+      ],
+      "clinicalInfo": "30 year old man with back pain and a spinal mass"
+    },
+    {
+      "diagnosis": "Subependymoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorsubependymoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher08.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher09.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher13.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher14.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorsubependymomaAbdelzaher15.jpg",
+        "https://www.pathologyoutlines.com/images/cns/cnstumorsubependymoma01_2x.jpg",
+        "https://www.pathologyoutlines.com/images/cns/cnstumorsubependymoma02_4x.jpg",
+        "https://www.pathologyoutlines.com/images/cns/cnstumorsubependymoma04_10x.jpg"
+      ],
+      "clinicalInfo": "50 year old man with headaches and a ventricular lesion"
+    },
+    {
+      "diagnosis": "Medulloblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumormedulloblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumormedulloblastomatauziede12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormedulloblastomatauziede13.jpg",
+        "https://www.pathologyoutlines.com/imgau/CNStumorSHHdewitt06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormedulloblastomatauziede20.jpg"
+      ],
+      "clinicalInfo": "5 year old child with ataxia and a posterior fossa mass"
+    },
+    {
+      "diagnosis": "Atypical teratoid / rhabdoid tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumoratypicalteratoidrhabdoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumoratypicalteratoidrhabdoidSinghmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoratypicalteratoidrhabdoidSinghmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoratypicalteratoidrhabdoidSinghmicro4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case502img01.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case502img03.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case502img04.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case502img05.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case502img06.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case502img07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoratypicalteratoidrhabdoidLi01.jpg"
+      ],
+      "clinicalInfo": "3 year old child with neurological deficits and a brain mass"
+    },
+    {
+      "diagnosis": "Pineocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorpineocytoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorpineocytomacimino01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpineocytomacimino02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpineocytomacimino03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpineocytomacimino04.jpg"
+      ],
+      "clinicalInfo": "40 year old woman with headaches and a pineal region mass"
+    },
+    {
+      "diagnosis": "Pineal parenchymal tumor of intermediate differentiation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorpinealparenchymalintermediate.html",
+      "images": [
+        "https://s3.amazonaws.com/static.wd7.us/3/30/Pineal_parenchymal_tumor_with_intermediate_differentiation_microscopic_2.jpg?20151123182347"
+      ],
+      "clinicalInfo": "35 year old man with visual disturbances and a pineal mass"
+    },
+    {
+      "diagnosis": "Pineoblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorpineoblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorpineoblastomaWadhwaniMultz01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpineoblastomaWadhwaniMultz02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpineoblastomaWadhwaniMultz04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpineoblastomaAhrendsen11.jpg"
+      ],
+      "clinicalInfo": "10 year old child with headaches and a pineal region mass"
+    },
+    {
+      "diagnosis": "Papillary tumor of pineal region",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorpapillarytumorpineal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillarytumorpinealabdelzaher01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillarytumorpinealabdelzaher02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillarytumorpinealabdelzaher04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillarytumorpinealabdelzaher06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillarytumorpinealabdelzaher07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillarytumorpinealabdelzaher08.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillarytumorpinealabdelzaher12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapillarytumorpinealabdelzaher14.jpg"
+      ],
+      "clinicalInfo": "45 year old woman with headaches and a pineal region lesion"
+    },
+    {
+      "diagnosis": "Desmoplastic myxoid tumor of the pineal region, SMARCB1 mutant",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorSMARCB1mutant.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorSMARCB1mutantVoudouriZanazzi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorSMARCB1mutantVoudouriZanazzi01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorSMARCB1mutantVoudouriZanazzi03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorSMARCB1mutantvarious03.jpg"
+      ],
+      "clinicalInfo": "30 year old man with neurological symptoms and a pineal mass"
+    },
+    {
+      "diagnosis": "Meningioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumormeningiomageneral.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai08.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai13.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai14.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai15.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai18.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai23.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneral_Cai21.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai17.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormeningiomageneralCai22.jpg"
+      ],
+      "clinicalInfo": "55 year old woman with headaches and a dural-based mass"
+    },
+    {
+      "diagnosis": "Melanocytic tumors / melanoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumormelanocytictumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumormelanocytictumorAl-Zaidi1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormelanocytictumorAl-Zaidi2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormelanocytictumorAl-Zaidi3.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormelanocytictumorAl-Zaidi4.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormelanocytictumorAl-Zaidi5.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormelanocytictumorAl-Zaidi6.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormelanocytictumorAl-Zaidi7.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormelanocytictumorKresak1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormelanocytictumorKresak2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumormelanocytictumorKresak3.jpg"
+      ],
+      "clinicalInfo": "60 year old man with neurological deficits and a brain lesion"
+    },
+    {
+      "diagnosis": "Rosai-Dorfman disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorhistiocytic.html#erdheimchester",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case488image1.JPG",
+        "https://www.pathologyoutlines.com/caseofweek/case488image2.JPG",
+        "https://www.pathologyoutlines.com/caseofweek/case488image4.JPG",
+        "https://www.pathologyoutlines.com/caseofweek/case488image5.JPG",
+        "https://www.pathologyoutlines.com/caseofweek/case488image6.JPG",
+        "https://www.pathologyoutlines.com/caseofweek/case488image7.JPG"
+      ],
+      "clinicalInfo": "45 year old man with neurological symptoms and a brain lesion"
+    },
+    {
+      "diagnosis": "Adamantinomatous craniopharyngioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumoradamcraniopharyngioma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis13.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis15.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis09.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumoradamcraniopharyngiomaLakis14.jpg"
+      ],
+      "clinicalInfo": "40 year old man with visual disturbances and a sellar mass"
+    },
+    {
+      "diagnosis": "Papillary craniopharyngioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cnstumorpapcraniopharyngioma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapcraniopharyngiomaLakis01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapcraniopharyngiomaLakis02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapcraniopharyngiomaLakis03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpapcraniopharyngiomaCai1.jpg"
+      ],
+      "clinicalInfo": "50 year old woman with headaches and a sellar lesion"
+    },
+    {
+      "diagnosis": "Pituitary neuroendocrine tumor (PitNET)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/CNSpituitaryendocrine.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cnstumorpituitaryadenomaAsa01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpituitaryadenomaAsa02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpituitaryadenomaAsa04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cnstumorpituitaryadenomaAsa05.jpg"
+      ],
+      "clinicalInfo": "45 year old woman with hormonal imbalances and a pituitary mass"
+    }
+  ]
+}

@@ -8,12 +8,13 @@ const imagesContainer = document.getElementById('tumorImages');
 const clinicalInfoElement = document.getElementById('clinicalInfo');
 const checkButton = document.getElementById('checkButton');
 const nextImageButton = document.getElementById('nextImageButton');
+const showAllImagesButton = document.getElementById('showAllImagesButton'); // Новая кнопка
 const resultElement = document.getElementById('result');
-const nextCaseButton = document.getElementById('nextTumorButton'); // Переименовали с nextTumorButton на nextCaseButton
+const nextCaseButton = document.getElementById('nextTumorButton');
 const scoreElement = document.getElementById('score');
 const sectionButtons = document.querySelectorAll('#sectionMenu button');
 
-if (!checkButton || !nextImageButton || !nextCaseButton || !imagesContainer || !resultElement || !scoreElement || !clinicalInfoElement) {
+if (!checkButton || !nextImageButton || !showAllImagesButton || !nextCaseButton || !imagesContainer || !resultElement || !scoreElement || !clinicalInfoElement) {
     console.error('Error: One or more elements not found');
 }
 
@@ -31,9 +32,10 @@ function loadSection(section) {
             correctAnswers = 0;
             totalTumors = 0;
             scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
-            loadNewCase(); // Заменили loadNewTumor на loadNewCase
+            loadNewCase();
             checkButton.style.display = 'inline';
             nextImageButton.style.display = 'inline';
+            showAllImagesButton.style.display = 'inline'; // Показываем новую кнопку
         })
         .catch(error => {
             console.error('Error:', error);
@@ -41,11 +43,12 @@ function loadSection(section) {
         });
 }
 
-function loadNewCase() { // Переименовали с loadNewTumor на loadNewCase
+function loadNewCase() {
     if (tumors.length === 0) {
         resultElement.textContent = 'No more cases available!';
         checkButton.style.display = 'none';
         nextImageButton.style.display = 'none';
+        showAllImagesButton.style.display = 'none';
         nextCaseButton.style.display = 'none';
         return;
     }
@@ -63,6 +66,7 @@ function loadNewCase() { // Переименовали с loadNewTumor на load
     clinicalInfoElement.style.marginBottom = '10px';
     showInitialImage();
     nextImageButton.style.display = currentImageIndex < currentTumor.images.length - 1 ? 'inline' : 'none';
+    showAllImagesButton.style.display = currentTumor.images.length > 1 ? 'inline' : 'none'; // Показываем, если больше 1 изображения
     resultElement.innerHTML = '';
     nextCaseButton.style.display = 'none';
     checkButton.disabled = false;
@@ -98,6 +102,27 @@ function addNextImage() {
     img.style.display = 'inline-block';
     img.style.margin = '5px';
     imagesContainer.appendChild(img);
+}
+
+function showAllImages() {
+    imagesContainer.innerHTML = ''; // Очищаем контейнер
+    currentTumor.images.forEach((imageSrc, index) => {
+        const img = document.createElement('img');
+        img.src = imageSrc;
+        img.className = 'tumor-image';
+        img.alt = 'Microphotograph';
+        img.onerror = () => {
+            img.alt = 'Image not available';
+            console.error('Failed to load image:', img.src);
+        };
+        img.dataset.index = index;
+        img.addEventListener('click', (e) => showOverlay(parseInt(e.target.dataset.index)));
+        img.style.display = 'inline-block';
+        img.style.margin = '5px';
+        imagesContainer.appendChild(img);
+    });
+    nextImageButton.style.display = 'none'; // Скрываем "Next Image", так как все изображения уже показаны
+    showAllImagesButton.style.display = 'none'; // Скрываем "Show All Images"
 }
 
 function showOverlay(index) {
@@ -203,7 +228,9 @@ nextImageButton.addEventListener('click', () => {
     }
 });
 
-nextCaseButton.addEventListener('click', loadNewCase); // Заменили nextTumorButton на nextCaseButton
+showAllImagesButton.addEventListener('click', showAllImages); // Обработчик для новой кнопки
+
+nextCaseButton.addEventListener('click', loadNewCase);
 
 sectionButtons.forEach(button => {
     button.addEventListener('click', () => {
