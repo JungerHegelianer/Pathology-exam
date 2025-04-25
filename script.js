@@ -3,12 +3,13 @@ console.log('Script started');
 let tumors = [];
 let usedTumors = [];
 let currentTumor, currentImageIndex = 0, correctAnswers = 0, totalTumors = 0;
+let isSelfAssessed = false; // Флаг для отслеживания самооценки
 
 const imagesContainer = document.getElementById('tumorImages');
 const clinicalInfoElement = document.getElementById('clinicalInfo');
 const checkButton = document.getElementById('checkButton');
 const nextImageButton = document.getElementById('nextImageButton');
-const showAllImagesButton = document.getElementById('showAllImagesButton'); // Новая кнопка
+const showAllImagesButton = document.getElementById('showAllImagesButton');
 const resultElement = document.getElementById('result');
 const nextCaseButton = document.getElementById('nextTumorButton');
 const scoreElement = document.getElementById('score');
@@ -35,7 +36,7 @@ function loadSection(section) {
             loadNewCase();
             checkButton.style.display = 'inline';
             nextImageButton.style.display = 'inline';
-            showAllImagesButton.style.display = 'inline'; // Показываем новую кнопку
+            showAllImagesButton.style.display = 'inline';
         })
         .catch(error => {
             console.error('Error:', error);
@@ -58,6 +59,13 @@ function loadNewCase() {
     usedTumors.push(currentTumor);
     tumors.splice(randomIndex, 1);
     currentImageIndex = 0;
+    isSelfAssessed = false; // Сбрасываем флаг для нового случая
+
+    // Удаляем старое модальное окно, если оно существует
+    const existingModal = document.querySelector('.modal');
+    if (existingModal) {
+        existingModal.remove();
+    }
 
     imagesContainer.innerHTML = '';
     clinicalInfoElement.textContent = currentTumor.clinicalInfo || '';
@@ -66,7 +74,7 @@ function loadNewCase() {
     clinicalInfoElement.style.marginBottom = '10px';
     showInitialImage();
     nextImageButton.style.display = currentImageIndex < currentTumor.images.length - 1 ? 'inline' : 'none';
-    showAllImagesButton.style.display = currentTumor.images.length > 1 ? 'inline' : 'none'; // Показываем, если больше 1 изображения
+    showAllImagesButton.style.display = currentTumor.images.length > 1 ? 'inline' : 'none';
     resultElement.innerHTML = '';
     nextCaseButton.style.display = 'none';
     checkButton.disabled = false;
@@ -105,7 +113,7 @@ function addNextImage() {
 }
 
 function showAllImages() {
-    imagesContainer.innerHTML = ''; // Очищаем контейнер
+    imagesContainer.innerHTML = '';
     currentTumor.images.forEach((imageSrc, index) => {
         const img = document.createElement('img');
         img.src = imageSrc;
@@ -121,8 +129,8 @@ function showAllImages() {
         img.style.margin = '5px';
         imagesContainer.appendChild(img);
     });
-    nextImageButton.style.display = 'none'; // Скрываем "Next Image", так как все изображения уже показаны
-    showAllImagesButton.style.display = 'none'; // Скрываем "Show All Images"
+    nextImageButton.style.display = 'none';
+    showAllImagesButton.style.display = 'none';
 }
 
 function showOverlay(index) {
@@ -176,38 +184,90 @@ function showSelfAssessmentModal() {
     const linkHtml = currentTumor.articleLink ? 
         `<a href="${currentTumor.articleLink}" target="_blank" rel="noopener noreferrer" class="article-link">Read more on Pathology Outlines</a>` : 
         'No article link available';
+    
     if (!modal) {
         modal = document.createElement('div');
         modal.className = 'modal';
         modal.innerHTML = `
-            <p>Correct diagnosis: ${currentTumor.diagnosis}</p>
-            <p>${linkHtml}</p>
-            <button id="selfCorrect">I was right</button>
-            <button id="selfIncorrect">I was wrong</button>
-            <p id="modalScore">Score: ${correctAnswers}/${totalTumors}</p>
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <p id="diagnosis">Correct diagnosis: ${currentTumor.diagnosis}</p>
+                <p id="articleLink">${linkHtml}</p>
+                <button id="selfCorrect">I was right</button>
+                <button id="selfIncorrect">I was wrong</button>
+                <p id="modalScore">Score: ${correctAnswers}/${totalTumors}</p>
+            </div>
         `;
         document.body.appendChild(modal);
 
-        document.getElementById('selfCorrect').addEventListener('click', () => {
-            correctAnswers++;
-            totalTumors++;
-            scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
-            modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
+        // Обработчик закрытия модального окна
+        const closeButton = modal.querySelector('.close');
+        closeButton.addEventListener('click', () => {
             modal.style.display = 'none';
-            nextCaseButton.style.display = 'inline';
+            if (!isSelfAssessed) checkButton.disabled = false; // Включаем кнопку, если самооценка не сделана
         });
 
-        document.getElementById('selfIncorrect').addEventListener('click', () => {
-            totalTumors++;
-            scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
-            modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
+        // Обработчик клика по модальному фону
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) {
+                modal.style.display = 'none';
+                if (!isSelfAssessed) checkButton.disabled = false; // Включаем кнопку
+            }
+        });
+
+        // Обработчики самооценки
+        const selfCorrectButton = modal.querySelector('#selfCorrect');
+        const selfIncorrectButton = modal.querySelector('#selfIncorrect');
+
+        selfCorrectButton.addEventListener('click', () => {
+            if (!isSelfAssessed) {
+                correctAnswers++;
+                totalTumors++;
+                isSelfAssessed = true;
+                scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
+                modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
+                selfCorrectButton.style.display = 'none';
+                selfIncorrectButton.style.display = 'none';
+                nextCaseButton.style.display = 'inline';
+            }
             modal.style.display = 'none';
-            nextCaseButton.style.display = 'inline';
+            checkButton.disabled = false; // Кнопка остаётся активной
+        });
+
+        selfIncorrectButton.addEventListener('click', () => {
+            if (!isSelfAssessed) {
+                totalTumors++;
+                isSelfAssessed = true;
+                scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
+                modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
+                selfCorrectButton.style.display = 'none';
+                selfIncorrectButton.style.display = 'none';
+                nextCaseButton.style.display = 'inline';
+            }
+            modal.style.display = 'none';
+            checkButton.disabled = false; // Кнопка остаётся активной
         });
     } else {
-        modal.querySelector('p:first-child').textContent = `Correct diagnosis: ${currentTumor.diagnosis}`;
-        modal.querySelector('p:nth-child(2)').innerHTML = linkHtml;
-        modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
+        // Проверяем существование элементов перед обновлением
+        const diagnosisElement = modal.querySelector('#diagnosis');
+        const articleLinkElement = modal.querySelector('#articleLink');
+        const scoreElement = modal.querySelector('#modalScore');
+        const selfCorrectButton = modal.querySelector('#selfCorrect');
+        const selfIncorrectButton = modal.querySelector('#selfIncorrect');
+
+        if (diagnosisElement) {
+            diagnosisElement.textContent = `Correct diagnosis: ${currentTumor.diagnosis}`;
+        }
+        if (articleLinkElement) {
+            articleLinkElement.innerHTML = linkHtml;
+        }
+        if (scoreElement) {
+            scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
+        }
+        if (selfCorrectButton && selfIncorrectButton) {
+            selfCorrectButton.style.display = isSelfAssessed ? 'none' : 'inline';
+            selfIncorrectButton.style.display = isSelfAssessed ? 'none' : 'inline';
+        }
     }
     modal.style.display = 'block';
 }
@@ -215,7 +275,6 @@ function showSelfAssessmentModal() {
 checkButton.addEventListener('click', () => {
     if (currentTumor) {
         resultElement.textContent = `Diagnosis: ${currentTumor.diagnosis}`;
-        checkButton.disabled = true;
         showSelfAssessmentModal();
     }
 });
@@ -228,7 +287,7 @@ nextImageButton.addEventListener('click', () => {
     }
 });
 
-showAllImagesButton.addEventListener('click', showAllImages); // Обработчик для новой кнопки
+showAllImagesButton.addEventListener('click', showAllImages);
 
 nextCaseButton.addEventListener('click', loadNewCase);
 
