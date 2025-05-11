@@ -1,0 +1,879 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Epidermolytic acanthoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticepidermolyticacanthoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticepidermolyticacanthomaRoy3A.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticepidermolyticacanthomaRoy3B.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticepidermolyticacanthomaRoy4A.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticepidermolyticacanthomaRoy4B.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with a warty skin lesion"
+    },
+    {
+      "diagnosis": "Melanoacanthoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticmelanoacanthoma.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/de9d/3673377/22bd3818cac9/IDOJ-4-119-g002.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/93f9/3088943/d994a209fb67/IJD-56-79-g003.jpg",
+        "https://ijdvl.com/content/126/2011/77/6/Images/ijdvl_2011_77_6_699_86485_f5.jpg",
+        "https://ijdvl.com/content/126/2011/77/6/Images/ijdvl_2011_77_6_699_86485_f4.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with a pigmented skin lesion"
+    },
+    {
+      "diagnosis": "Basal cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticbcc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro09.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro11.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro12.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro13.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro14.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro15.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro16.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro17.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro18.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro19.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticbccmicro20.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with an ulcerated skin lesion on the face"
+    },
+    {
+      "diagnosis": "Keratoacanthoma / SCC keratoacanthoma type",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocytickeratoacanthoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytickeratoacanthoma_Sharma01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytickeratoacanthoma_Sharma02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytickeratoacanthoma_Sharma03.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with a rapidly growing skin nodule"
+    },
+    {
+      "diagnosis": "Squamous cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticscc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsccYanmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsccYanmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsccYanmicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsccYanmicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsccYanmicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsccYanmicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsccYanmicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsccYanmicro8.jpg"
+      ],
+      "clinicalInfo": "70-year-old male with an ulcerated skin lesion on the scalp"
+    },
+    {
+      "diagnosis": "Verrucous carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticverrucousscc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skinNMverrucousPathWest04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMverrucousPathWest05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMverrucousPathWest06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMverrucousPathWest07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMverrucousPathWest08.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with a warty skin mass"
+    },
+    {
+      "diagnosis": "Lymphoepithelioma-like carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticLEL.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumorLELC1.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f352/3485757/6e996e63d0d9/CRIM.ONCMED2012-241816.001.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1bcb/3023728/0b6eec483a26/1746-1596-6-4-1.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1bcb/3023728/7046a9922c16/1746-1596-6-4-2.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1bcb/3023728/91c84d08bbc0/1746-1596-6-4-3.jpg",
+        "https://escholarship.org/content/qt6g85008c/1.jpg",
+        "https://escholarship.org/content/qt8032z03d/3.jpg",
+        "https://escholarship.org/content/qt8032z03d/4.jpg"
+      ],
+      "clinicalInfo": "70-year-old female with a subcutaneous skin nodule"
+    },
+    {
+      "diagnosis": "Cutaneous neuroendocrine carcinoma / Merkel cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticmerkelcell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmerkelcellly04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmerkelcellly05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmerkelcellly06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmerkelcellly07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmerkelcellly08new.jpg"
+      ],
+      "clinicalInfo": "75-year-old male with a rapidly growing skin nodule"
+    },
+    {
+      "diagnosis": "Clear cell acanthoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticclearcellacanthoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticclearcellacanthomaCox01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticclearcellacanthomaCox02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticclearcellacanthomaCox03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticclearcellacanthomaCox04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticclearcellacanthomaCox05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticclearcellacanthomaCox06.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with a scaly skin lesion"
+    },
+    {
+      "diagnosis": "Large cell acanthoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticlargecellacanthoma.html",
+      "images": [
+       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi01.jpg",
+       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi02.jpg",
+       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi03.jpg",
+       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi04.jpg",
+       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi05.jpg",
+       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi06.jpg",
+       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi07.jpg",
+       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi08.jpg",
+"https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi09.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with a pigmented skin lesion"
+    },
+    {
+      "diagnosis": "Warty dyskeratoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticwartydyskeratoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticwdOccidental01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticwdOccidental02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticwdOccidental03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticwdOccidental04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticwdOccidental05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticwdOccidental06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticwdOccidental07.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with a warty skin nodule"
+    },
+    {
+      "diagnosis": "Warts (verrucae)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skinnontumorwarts.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skinnontumorwarts_Abdelkader03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnontumorwarts_Abdelkader004.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnontumorwarts_Abdelkader005.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnontumorwarts_Abdelkader06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticverrucavulgaris_Elwood01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticverrucavulgaris_Elwood02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticverrucavulgaris_Elwood03.jpg",
+        "https://www.pathologyoutlines.com/images/prostate/10_73R.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnontumorwartsMirunaPopescu1301.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnontumorwartsMirunaPopescu1302.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnontumorwartsshilpa_rakesh_path01.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with a rough skin lesion"
+    },
+    {
+      "diagnosis": "Seborrheic keratosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticsk.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKshalin01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKshalin02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKunderwood01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKunderwood02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKunderwood03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKunderwood04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKunderwood05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKunderwood06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKunderwood07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKshalin03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKshalin04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKunderwood08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticSKunderwood09.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with a warty skin lesion"
+    },
+    {
+      "diagnosis": "Lentigo",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticsolarlentigo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticsolarlentigoharohr01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticsolarlentigoharohr02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticsolarlentigoharohr03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticsolarlentigoharohr04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticsolarlentigoharohr05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticsolarlentigoharohr06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticsolarlentigoharohr07.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with a pigmented skin lesion"
+    },
+    {
+      "diagnosis": "Squamous cell carcinoma in situ / Bowen disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticcisgeneral.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralRay002.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralRay003.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralHamilton004.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralHamilton005.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralRay06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralHamilton07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralHamilton008.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralRay009.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralRay010.jpg",
+        "https://www.pathologyoutlines.com/images/skinBowen1.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralBychkov01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralBychkov02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralBychkov03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticcisgeneralBychkov04new.jpg"
+      ],
+      "clinicalInfo": "65-year-old female with a scaly skin lesion"
+    },
+    {
+      "diagnosis": "Actinic keratosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticactinickeratosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras09.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras10.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras11.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras12.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras13.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras14.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras15.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticactinickeratosis_FernandezFigueras16.jpg"
+      ],
+      "clinicalInfo": "70-year-old male with a scaly skin lesion on sun-exposed skin"
+    },
+    {
+      "diagnosis": "Syringocystadenoma papilliferum",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticpapillarysyringadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpapillarysyringadenomaMotaparthi01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpapillarysyringadenomaMotaparthi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpapillarysyringadenomaMotaparthi03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpapillarysyringadenomaMotaparthi04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpapillarysyringadenomaMotaparthi05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpapillarysyringadenomaMotaparthi06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpapillarysyringadenomaMotaparthi07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpapillarysyringadenomaMotaparthi08.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with a warty skin lesion on the scalp"
+    },
+    {
+      "diagnosis": "Apocrine carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/anusapocrinecarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/anusapocrinecarcinomaMicroLiao1.jpg",
+        "https://www.pathologyoutlines.com/imgau/anusapocrinecarcinomaMicroLiao2.jpg",
+        "https://www.pathologyoutlines.com/imgau/anusapocrinecarcinomaMicroLiao3.jpg",
+        "https://www.pathologyoutlines.com/imgau/anusapocrinecarcinomaMicroLiao7.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with a skin mass in the perianal region"
+    },
+    {
+      "diagnosis": "Digital papillary adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticaggressivedigital.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/digitalmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/digitalmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/digitalmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/digitalmicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/digitalmicro05.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with a painful skin nodule on the finger"
+    },
+    {
+      "diagnosis": "Adenoid cystic carcinoma (primary cutaneous)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticACC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticACCronen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticACCronen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticACCronen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticACCronen04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticACCronen05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticACCronen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticACCronen07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticACCronen08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticACCronen09.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticACCronen10.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticACCronen11.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with a slow-growing skin mass"
+    },
+    {
+      "diagnosis": "Cutaneous mixed tumor / chondroid syringoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticchondroidsyringoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/images/skintumorchondsyr3.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan09.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan10.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan12.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan15.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan18.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan21.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan23.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticchondroidsyrsriharan29.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with a firm skin nodule"
+    },
+    {
+      "diagnosis": "NUT carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/nasalnutcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/nasalnutcarcinoma_rooper01.jpg",
+        "https://www.pathologyoutlines.com/imgau/nasalnutcarcinoma_rooper02.jpg",
+        "https://www.pathologyoutlines.com/imgau/nasalnutcarcinoma_rooper03.jpg",
+        "https://www.pathologyoutlines.com/imgau/nasalnutcarcinoma_rooper04.jpg",
+        "https://www.pathologyoutlines.com/imgau/nasalnutcarcinoma_rooper05.jpg",
+        "https://www.pathologyoutlines.com/imgau/nasalnutcarcinoma_rooper06.jpg",
+        "https://www.pathologyoutlines.com/imgau/stainsnutm1_Dickson01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stainsnutm1_Dickson02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stainsnutm1_Dickson03.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with a rapidly growing skin mass"
+    },
+    {
+      "diagnosis": "Microcystic adnexal carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticsclerosingsweatductcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsclerosingsweatductcarcinomaCullisonRohr01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsclerosingsweatductcarcinomaCullisonRohr02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsclerosingsweatductcarcinomaCullisonRohr03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsclerosingsweatductcarcinomaCullisonRohr04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsclerosingsweatductcarcinomaCullisonRohr05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsclerosingsweatductcarcinomaCullisonRohr06.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with a firm skin nodule"
+    },
+    {
+      "diagnosis": "Poroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticeccrineporoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrineporomaRegmiSpeiser04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrineporomaRegmiSpeiser05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrineporomaRegmiSpeiser06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrineporomaRegmiSpeiser07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrineporomaRegmiSpeiser08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrineporomaRegmiSpeiser09.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrineporomaRegmiSpeiser10.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrineporomaRegmiSpeiser11.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrineporomaRegmiSpeiser12.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrineporomaRegmiSpeiser13.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrineporomaRegmiSpeiser14.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with a nodular skin lesion"
+    },
+    {
+      "diagnosis": "Hidrocystoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticapocrinecystadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticapocrinecystadenomaKhurana02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticapocrinecystadenomaKhurana03.jpg",
+        "https://www.pathologyoutlines.com/images/skintumorhidro1.jpg",
+        "https://www.pathologyoutlines.com/images/skintumorhidro2.jpg",
+        "https://www.pathologyoutlines.com/images/skintumorhidro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticapocrinecystadenomaKhurana04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnonmelanocyticepidermoidzaitsev03.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with a cystic skin lesion"
+    },
+    {
+      "diagnosis": "Syringoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticsyringoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsyringoma_AhmedShalin01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsyringoma_AhmedShalin02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsyringoma_AhmedShalin03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsyringoma_AhmedShalin04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsyringoma_AhmedShalin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsyringoma_AhmedShalin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsyringoma_AhmedShalin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsyringoma_AhmedShalin08.jpg",
+        "https://www.pathologyoutlines.com/images/skintumorsyringoma2.jpg",
+        "https://www.pathologyoutlines.com/images/skintumorsyringoma1.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with small skin papules"
+    },
+    {
+      "diagnosis": "Eccrine syringofibroadenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticacrosyringealadenomatosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticacrosyringealadenomatosisBrem01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticacrosyringealadenomatosisBrem02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticacrosyringealadenomatosisBrem03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticacrosyringealadenomatosisBrem04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticacrosyringealadenomatosisBrem05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticacrosyringealadenomatosisBrem06.JPG",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticacrosyringealadenomatosisBrem07.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with a warty skin lesion"
+    },
+    {
+      "diagnosis": "Hidradenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticeccrineacrospiroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/Hidradenomamicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/Hidradenomamicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/Hidradenomamicro03.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with a nodular skin lesion"
+    },
+    {
+      "diagnosis": "Spiradenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticeccrinespiradenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran09.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran10.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran11.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran12.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinespiradenomaTran13.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with a painful skin nodule"
+    },
+    {
+      "diagnosis": "Cylindroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticeccrinecylindroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinecylindromaDick01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinecylindromaDick02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinecylindromaDick03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinecylindromaDick04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticeccrinecylindromaDick05.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with a firm skin nodule on the scalp"
+    },
+    {
+      "diagnosis": "Tubular apocrine adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticapocrinetubularadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skinNMTapocrinetubularadenomahamza01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMTapocrinetubularadenomahamza02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMTapocrinetubularadenomahamza03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMTapocrinetubularadenomahamza04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMTapocrinetubularadenomahamza06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMTapocrinetubularadenomahamza05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMTapocrinetubularadenomahamza07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMTapocrinetubularadenomahamza08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinNMTapocrinetubularadenomahamza09.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with a skin nodule"
+    },
+    {
+      "diagnosis": "Hidradenoma papilliferum",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocytichidradenomapap.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytichidradenomapapBW1.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytichidradenomapapBW2.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytichidradenomapapBW3.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytichidradenomapapBW4.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytichidradenomapapBW5.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with a skin nodule in the genital area"
+    },
+    {
+      "diagnosis": "Mammary/mammary-like tissue and associated lesions",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvaectopicmammary.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case273image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case273image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case273image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case273image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case273image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case273image7.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with a skin lesion in the vulvar region"
+    },
+    {
+      "diagnosis": "Paget disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantpaget.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka_11.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with an eczematous skin lesion on the nipple"
+    },
+    {
+      "diagnosis": "Extramammary Paget disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticpagets.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpagetsAsadbeigi01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpagetsAsadbeigi02.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseasebreastmicro1.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseaseextramammary1.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseaseextramammary2.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseaseextramammary3.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseaseextramammary4.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseaseextramammary5.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseaseextramammary6.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseaseextramammary7.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseaseextramammarydermalinva1.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseaseextramammarydermalinva2.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseaseextramammaryPAS1.jpg",
+        "https://www.pathologyoutlines.com/wick/skin/pagetdiseaseextramammaryPAS2.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with an eczematous skin lesion in the groin"
+    },
+    {
+      "diagnosis": "Pilar sheath acanthoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticpilarsheathacanthoma.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/SkinTumors-P8190634.JPG/1280px-SkinTumors-P8190634.JPG",
+        "https://escholarship.org/content/qt76n6n43j/fig2.jpeg",
+        "https://pbs.twimg.com/media/DSGXAdPUEAEot7e?format=jpg&name=large",
+        "https://pbs.twimg.com/media/DSGXBZTUEAA3UQQ?format=jpg&name=large"
+      ],
+      "clinicalInfo": "50-year-old male with a skin nodule on the face"
+    },
+    {
+      "diagnosis": "Tumor of the follicular infundibulum",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocytictumorfollicularinfundibulum.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictumorfollicularinfundibulumGiubellino01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictumorfollicularinfundibulumGiubellino02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictumorfollicularinfundibulumGiubellino03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictumorfollicularinfundibulumGiubellino004.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictumorfollicularinfundibulumGiubellino006.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with a flat skin lesion"
+    },
+    {
+      "diagnosis": "Fibrofolliculoma / trichodiscoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticfolliculofibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticfolliculofibromaSamiei02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticfolliculofibromaSamiei03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticfolliculofibromaSamiei04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticfolliculofibromaSamiei05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticfolliculofibromaSamiei06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticfolliculofibromaSamiei07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticfolliculofibromaSamiei08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticfolliculofibromaSamiei09.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with multiple small skin papules"
+    },
+    {
+      "diagnosis": "Proliferating pilar cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticpilartumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilartumorKazlouskaya02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilartumorKazlouskaya03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilartumorKazlouskaya04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilartumorKazlouskaya05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilartumorBeatty06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilartumorBeatty07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilartumorBeatty08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilartumorBeatty09.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilartumorBeatty10.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with a cystic skin lesion on the scalp"
+    },
+    {
+      "diagnosis": "Trichoadenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocytictrichoadenoma.html",
+      "images": [
+        "https://www.researchgate.net/publication/338524979/figure/fig1/AS:864341150670848@1583086397541/Trichoadenoma-Multiple-dermal-cysts-filled-with-infundibulartype-keratin.jpg",
+        "https://scontent.ftlv19-3.fna.fbcdn.net/v/t39.30808-6/464634966_8316938155070178_5816353371675413983_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9eae26&_nc_ohc=HqYhA_nmHo0Q7kNvwHCldqi&_nc_oc=AdlKxdrYdJ8cyJi4AYy94RVw7FjLChVdficxzSfbt2xcZs5OEygn9xt3UIK1egECNJqHns5_ldW8OUos9hb8VAAa&_nc_zt=23&_nc_ht=scontent.ftlv19-3.fna&_nc_gid=zZORYu03WXN5rqoE0txqfw&oh=00_AfLj6t_2w-BNzHJzihJwID9wMcIJEH5AIrMFwlEXlcpkew&oe=6823C220",
+        "https://dermnetnz.org/assets/Uploads/pathology/e/trichadenoma-fig-2.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with a skin nodule on the face"
+    },
+    {
+      "diagnosis": "Trichofolliculoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocytictrichofolliculoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintrichofolliculomaAsadbeigi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintrichofolliculomaAsadbeigi03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintrichofolliculomaAsadbeigi04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintrichofolliculomaAsadbeigi05.png",
+        "https://www.pathologyoutlines.com/imgau/skintrichofolliculomaAsadbeigi06.png"
+      ],
+      "clinicalInfo": "45-year-old female with a skin nodule with central hair"
+    },
+    {
+      "diagnosis": "Trichilemmoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocytictrichilemmoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichilemmomaturnbull01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichilemmomaturnbull02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichilemmomaturnbull10new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichilemmomaturnbull06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichilemmomaturnbull09new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichilemmomaturnbull11new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichilemmomaturnbull08new.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with a warty skin lesion"
+    },
+    {
+      "diagnosis": "Trichoepithelioma / trichoblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocytictrichoepithelioma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichoepithelioma_russelgoldman01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichoepithelioma_russelgoldman02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichoepithelioma_russelgoldman03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichoepithelioma_russelgoldman04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichoepithelioma_russelgoldman05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocytictrichoepithelioma_russelgoldman06.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with a firm skin nodule"
+    },
+    {
+      "diagnosis": "Pilomatricoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticpilomatrixoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaUdDin02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaUdDin03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaUdDin04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaUdDin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaUdDin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaUdDin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaUdDin08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaBychkovn01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaBychkovn02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaBychkovn05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaBychkovn03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticpilomatrixomaBychkovn04new.jpg"
+      ],
+      "clinicalInfo": "20-year-old female with a hard skin nodule"
+    },
+    {
+      "diagnosis": "Blastic plasmacytoid dendritic cell neoplasm",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonemarrowneoplasticBPDCN.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonemarrowneoplasticBPDCNKhourySkin2x.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonemarrowneoplasticBPDCNKhourySkin20x.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with a violaceous skin lesion"
+    },
+    {
+      "diagnosis": "Langerhans cell histiocytic neoplasms",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodeslch.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodesLCHshanmugam04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesLCHshanmugam05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesLCHshanmugam07.jpg"
+      ],
+      "clinicalInfo": "5-year-old male with a scaly skin lesion"
+    },
+    {
+      "diagnosis": "Xanthelasma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/eyeeyelidxanthelasma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/eyeeyelidxanthelasmayeaney03.jpg",
+        "https://www.pathologyoutlines.com/imgau/eyeeyelidxanthelasmayeaney04.jpg",
+        "https://www.pathologyoutlines.com/imgau/eyeeyelidxanthelasmayeaney06.jpg",
+        "https://www.pathologyoutlines.com/imgau/eyeeyelidxanthelasmayeaney07.jpg",
+        "https://www.pathologyoutlines.com/imgau/eyeeyelidxanthelasmayeaney05.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with yellowish skin lesions on the eyelids"
+    },
+    {
+      "diagnosis": "Juvenile xanthogranuloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticjuvenilexantho.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticjuvenilexantho_HamieAbbas03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticjuvenilexantho_HamieAbbas04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticjuvenilexantho_HamieAbbas05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticjuvenilexantho_HamieAbbas06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticjuvenilexanthomunkhdelgerbychkov01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticjuvenilexanthomunkhdelgerbychkov03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticjuvenilexanthomunkhdelgerbychkov04.jpg"
+      ],
+      "clinicalInfo": "2-year-old male with a yellowish skin nodule"
+    },
+    {
+      "diagnosis": "Multicentric reticulohistiocytosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormultireticulo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case153image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case153image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case153image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case153image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case153image5.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with multiple skin nodules"
+    },
+    {
+      "diagnosis": "Rosai-Dorfman disease (RDD)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodessinushistiocytosiswithmassivelymph.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodesRDDRavindranRech01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesRDDRavindranRech02.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with a skin nodule"
+    },
+    {
+      "diagnosis": "Erdheim-Chester disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneerdheim.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneerdheimRavindran01.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneerdheimRavindran02.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneerdheimRavindran05.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with a skin lesion"
+    },
+    {
+      "diagnosis": "Sclerotic fibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticsclerosingfibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsclerosingfibromakramer01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsclerosingfibromakramer02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsclerosingfibromakramer03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsclerosingfibromakramer04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsclerosingfibromakramer05.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with a firm skin nodule"
+    },
+    {
+      "diagnosis": "Pleomorphic fibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissuepleomorphicfibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/images/softtissue/02_31L.jpg",
+        "https://www.pathologyoutlines.com/images/softtissue/02_31R.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8a39/3643370/2f1fa17ac2d1/JCytol-30-71-g001.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8a39/3643370/1b91370b6ee2/JCytol-30-71-g002.jpg",
+        "https://pathorama.ch/storage/samples/007269.jpg",
+        "https://pathorama.ch/storage/samples/007270.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with a soft skin nodule"
+    },
+    {
+      "diagnosis": "Angiofibroma / fibrous papule",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticangiofibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromahosler01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromahosler02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromahosler03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromahosler04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromahosler05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromahosler06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromahosler07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromahosler08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromahosler09.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromahosler10.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromahosler11.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromaelwood01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromaelwood02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromaelwood03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticangiofibromaelwood04.jpg"
+      ],
+      "clinicalInfo": "35-year-old male with a small skin papule on the face"
+    },
+   {
+      "diagnosis": "Superficial angiomyxoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticsuperficialangio.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsuperficialangioMicroIlagan1.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsuperficialangioMicroIlagan2.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsuperficialangioMicroIlagan3.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsuperficialangioMicroIlagan4.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsuperficialangioMicroIlagan5.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with a soft skin nodule"
+    },
+    {
+      "diagnosis": "Dermatomyofibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticdermatomyofibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticdermatomyofibromaMicroMiller1.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticdermatomyofibromaMicroMiller3.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticdermatomyofibromaMicroMiller5.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticdermatomyofibromaMicroMiller9.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with a firm skin plaque"
+    },
+    {
+      "diagnosis": "Multinucleate cell angiohistiocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticmultinucleatecellangio.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmultinucleatecellangioRoy03A.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmultinucleatecellangioRoy03B.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmultinucleatecellangioRoy03C.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmultinucleatecellangioRoy04.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with multiple skin papules"
+    },
+    {
+      "diagnosis": "Sebaceoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticsebaceoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceousepitheliomaBattle004.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceousepitheliomaBattle02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceousepitheliomaBattle03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceousepitheliomaBattle0005.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceousepitheliomaBattle006.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceousepitheliomaBattle07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceousepitheliomaBattle009.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceousepitheliomaBattle10new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceousepitheliomaBattle011.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceousepitheliomaBattle12new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceousepitheliomaBattle13new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceomaAlhalasehPradhan001.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceomaAlhalasehPradhan02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceomaAlhalasehPradhan03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceomaAlhalasehPradhan004.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceomaAlhalasehPradhan06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceomaAlhalasehPradhan007.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceomaAlhalasehPradhan008.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceomaAlhalasehPradhan09.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceomaAlhalasehPradhan10.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceomaAlhalasehPradhan11.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceomaAlhalasehPradhan12.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with a yellowish skin nodule"
+    },
+    {
+      "diagnosis": "Sebaceous adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticsebaceousadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skinsebaceousadenomaMoshiri01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinsebaceousadenomaMoshiri02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinsebaceousadenomaMoshiri03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinsebaceousadenomaPinczewski01.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with a skin nodule on the face"
+    },
+    {
+      "diagnosis": "Sebaceous carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticsebaceouscarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada1.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada2.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada3.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada4.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada5.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada6.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada7.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada8.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada9.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada10.jpg"
+      ],
+      "clinicalInfo": "70-year-old male with an ulcerated skin lesion"
+    }
+  ]
+}
