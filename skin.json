@@ -130,15 +130,15 @@
       "diagnosis": "Large cell acanthoma",
       "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticlargecellacanthoma.html",
       "images": [
-       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi01.jpg",
-       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi02.jpg",
-       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi03.jpg",
-       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi04.jpg",
-       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi05.jpg",
-       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi06.jpg",
-       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi07.jpg",
-       "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi08.jpg",
-"https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi09.jpg"
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticlargecellacanthomaKamilAlmohamedi09.jpg"
       ],
       "clinicalInfo": "55-year-old male with a pigmented skin lesion"
     },
@@ -784,7 +784,7 @@
       ],
       "clinicalInfo": "35-year-old male with a small skin papule on the face"
     },
-   {
+    {
       "diagnosis": "Superficial angiomyxoma",
       "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticsuperficialangio.html",
       "images": [
@@ -857,23 +857,7 @@
         "https://www.pathologyoutlines.com/imgau/skinsebaceousadenomaPinczewski01.jpg"
       ],
       "clinicalInfo": "55-year-old female with a skin nodule on the face"
-    },
-    {
-      "diagnosis": "Sebaceous carcinoma",
-      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticsebaceouscarcinoma.html",
-      "images": [
-        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada1.jpg",
-        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada2.jpg",
-        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada3.jpg",
-        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada4.jpg",
-        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada5.jpg",
-        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada6.jpg",
-        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada7.jpg",
-        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada8.jpg",
-        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada9.jpg",
-        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticsebaceouscarcinomaZada10.jpg"
-      ],
-      "clinicalInfo": "70-year-old male with an ulcerated skin lesion"
     }
   ]
 }
+
