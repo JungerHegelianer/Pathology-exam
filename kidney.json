@@ -1,0 +1,565 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Papillary adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorrenalcortadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrenalcortadenomaSaleebCastillo02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrenalcortadenomaSaleebCastillo03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrenalcortadenomaSaleebCastillo04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrenalcortadenomaSaleebCastillo05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrenalcortadenomaSaleebCastillo07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrenalcortadenomaSaleebCastillo08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrenalcortadenomaSaleeb1.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with an incidental small renal mass"
+    },
+    {
+      "diagnosis": "Renal cell carcinoma - Papillary",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignantrccpap.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpapsaleebcastillo01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpapsaleebcastillo02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpapsaleebcastillo03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpapsaleebcastillo04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpapsaleebcastillo05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpapsaleebcastillo07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpapsaleebcastillo08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpapsaleebcastillo09.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpapsaleebcastillo10.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantrccpaptype1_andeen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantrccpaptype1_andeen05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpapvranic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpapMicroSueEPig2.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpaptretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpaptretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpaptretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccpaptretiakova04.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with a renal mass and hematuria"
+    },
+    {
+      "diagnosis": "Oncocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumoroncocytoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova09.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova10.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova11.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocytoma_Tretiakova12.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with an incidental renal mass"
+    },
+    {
+      "diagnosis": "Renal cell carcinoma - Chromophobe",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignantrccchromo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccchromoTretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccchromoTretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccchromoTretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccchromoTretiakova04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantrccchromoAnderson01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccchromoTretiakova05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantrccchromoAnderson03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccchromoTretiakova07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccchromokatcollmd02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccchromokatcollmd03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccchromokatcollmd04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccchromokatcollmd05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantrccchromoAnderson02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantrccchromoAnderson05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantrccchromoAnderson04.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with a renal mass"
+    },
+    {
+      "diagnosis": "Renal cell carcinoma - Hybrid oncocytic chromophobe tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumoroncocyticchromhybrid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumoroncocyticchromhybridWu01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumoroncocyticchromhybridWu02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumoroncocyticchromhybridWu03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumoroncocyticchromhybridTretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumoroncocyticchromhybridAlbadine01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumoroncocyticchromhybridAlbadine03.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with a renal mass"
+    },
+    {
+      "diagnosis": "Collecting duct carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignantcollectingduct.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantcollectingductAnderson01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantcollectingductAnderson02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantcollectingductAnderson03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantcollectingductAnderson04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantcollectingductpease01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantcollectingductpease02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantcollectingductpease03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantcollectingductpease04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantcollectingductpease05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantcollectingductpease06.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with a renal mass and flank pain"
+    },
+    {
+      "diagnosis": "Renal cell tumors - Clear cell papillary renal cell tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorclearcellpapillary.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantclearcellpapillarymaclennan06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantclearcellpapillarymaclennan07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantclearcellpapillarymaclennan10.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantclearcellpapillarymaclennan04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantclearcellpapillarymaclennan05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantclearcellpapillarymaclennan09.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorCCPRCcollins02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorCCPRCcollins03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorCCPRCcollins04.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with a cystic renal mass"
+    },
+    {
+      "diagnosis": "Mucinous tubular and spindle cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignantmucinoustubular.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmucinoustubularCraigValencia01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmucinoustubularCraigValencia02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmucinoustubularCraigValencia03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmucinoustubularGordetskyValencia01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmucinoustubularGordetskyValencia02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmucinoustubularGordetskyValencia03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmucinoustubularKatcollMD1.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmucinoustubularKatcollMD2.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmucinoustubularKatcollMD3.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmucinoustubularKatcollMD4.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with a renal mass"
+    },
+    {
+      "diagnosis": "Renal cell carcinoma - Tubulocystic",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignanttubulocystic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanttubulocystic_Anderson03n.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanttubulocystic_Anderson02n.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanttubulocystic_Anderson04n.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanttubulocystic_Anderson06n.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanttubulocystic_Sopha01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanttubulocystic_Sopha02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanttubulocystic_Sopha06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanttubulocystic_Sopha07.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case484image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case484image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case484image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case484image6.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with a cystic renal mass"
+    },
+    {
+      "diagnosis": "Renal cell carcinoma - Acquired cystic disease associated",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignantacquiredcysticRCC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantacquiredcysticRCCAndeen1.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantacquiredcysticRCCAndeen2.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantacquiredcysticRCCPathOutPic01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantacquiredcysticRCCPathOutPic02.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with end-stage renal disease and a renal mass"
+    },
+    {
+      "diagnosis": "Renal cell carcinoma - Eosinophilic, solid and cystic",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorescrcc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorescrccpals_grove03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorescrccpals_grove09.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorescrccpals_grove05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorescrcckatcollmd01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorescrcckatcollmd02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorescrcckatcollmd04.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with a cystic renal mass"
+    },
+    {
+      "diagnosis": "TFE3 rearranged renal cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignantASPLTFE3.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantASPLTFE3Tretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantASPLTFE3Tretiakova04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantASPLTFE3Tretiakova05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantASPLTFE3Andeen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantASPLTFE3Tretiakova12.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantASPLTFE3Tretiakova06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantASPLTFE3Tretiakova07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantASPLTFE3Andeen04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantASPLTFE3Andeen05.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with a renal mass"
+    },
+    {
+      "diagnosis": "Renal cell carcinoma - ELOC (TCEB1) mutated",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumortceb1mutatedrcc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumortceb1mutatedrccTretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumortceb1mutatedrccTretiakova05.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with a renal mass"
+    },
+    {
+      "diagnosis": "Renal cell carcinoma - FH deficient",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorHLRCC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorHLRCC_zynger01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorHLRCC_andeentretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorHLRCC_andeentretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorHLRCC_andeentretiakova03.jpg",
+        "https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=725659&s=43&r=3&c=3",
+        "https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3984629_nihms-545901-f0001.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with a renal mass and family history of cancer"
+    },
+    {
+      "diagnosis": "Renal cell carcinoma - SDH deficient",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorSDH.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9eb/4232296/2d1c62b75507/pas-38-1588-g005.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9eb/4232296/1bd281a9b0fd/pas-38-1588-g006.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9eb/4232296/970339ada331/pas-38-1588-g007.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9eb/4232296/dc865e066a39/pas-38-1588-g008.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9eb/4232296/1faa1eae2b1a/pas-38-1588-g009.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9eb/4232296/32ff7917f195/pas-38-1588-g010.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/SDH-RCC_-_3_-_myxoid_change_-_intermed_mag.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/SDH-RCC_-_3_-_characteristic_-_intermed_mag.jpg",
+        "https://librepathology.org/w/images/thumb/5/51/SDH-deficient_renal_cell_carcinoma_-2-_very_high_mag.jpg/800px-SDH-deficient_renal_cell_carcinoma_-2-_very_high_mag.jpg"
+      ],
+      "clinicalInfo": "35-year-old male with a renal mass"
+    },
+    {
+      "diagnosis": "Renal cell carcinoma - ALK translocation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorALKtranslocationrcc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorALKtranslocationrcctretiakova1.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorALKtranslocationrcctretiakova2.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorALKtranslocationrcctretiakova3.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorALKtranslocationrcctretiakova4.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with a renal mass"
+    },
+    {
+      "diagnosis": "SMARCB1 deficient renal medullary carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignantmedullarycar.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmedullarycaranderson04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmedullarycaranderson05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmedullarycaranderson06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantmedullarycaranderson07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorSMARCB1defrenalmedtumorcollins02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorSMARCB1defrenalmedtumorcollins03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorSMARCB1defrenalmedtumorcollins04.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with sickle cell trait and a renal mass"
+    },
+    {
+      "diagnosis": "Metanephric adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormetanephric.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricAntic01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricAntic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricAntic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricAntic04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricAntic05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricAntic06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricAntic07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricAntic08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephrickatcollmd001.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephrickatcollmd002.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephrickatcollmd003.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with a renal mass"
+    },
+    {
+      "diagnosis": "Metanephric adenofibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormetaadenofibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetaadenofibromaChami01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetaadenofibromaChami02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetaadenofibromaChami03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetaadenofibromaChami04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetaadenofibromaChami05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetaadenofibromaChami06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetaadenofibromaChami07.jpg"
+      ],
+      "clinicalInfo": "15-year-old male with a renal mass"
+    },
+    {
+      "diagnosis": "Metanephric stromal tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormetastromal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricvujanic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricvujanic04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricvujanic05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricvujanic06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricvujanic07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormetanephricvujanic08.jpg"
+      ],
+      "clinicalInfo": "10-year-old female with a renal mass"
+    },
+    {
+      "diagnosis": "Mixed epithelial and stromal tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormixedepithelial.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormixedepithelialchoy03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormixedepithelialchoy04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormixedepithelialchoy05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormixedepithelialchoy06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormixedepithelialchoy07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormixedepithelialchoy08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormixedepithelialkatcollmd01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormixedepithelialkatcollmd02.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with a renal mass"
+    },
+    {
+      "diagnosis": "Angiomyolipoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorangiomyolipoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorangiomyolipoma_Antic07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorangiomyolipoma_Antic09.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorangiomyolipoma_Antic10.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case359image2.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorangiomyolipoma_Antic08.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with a renal mass"
+    },
+    {
+      "diagnosis": "Epithelioid angiomyolipoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorepitheliodaml.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorepitheliodamlparwani01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorepitheliodamlparwani02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorepitheliodamlparwani03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorepitheliodamlparwani04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorepitheliodamlparwani05.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with a renal mass"
+    },
+    {
+      "diagnosis": "Hemangioblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignanthemangioblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanthemangioblastoma_Tretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanthemangioblastoma_Tretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanthemangioblastoma_Tretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanthemangioblastoma_Tretiakova05.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with a renal mass"
+    },
+    {
+      "diagnosis": "Juxtaglomerular cell tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorjgtumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case467image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case467image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case467image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case467image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case467image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case467image7.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorjgtumorGama01.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with hypertension and a renal mass"
+    },
+    {
+      "diagnosis": "Renomedullary interstitial cell tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorrenalmedfibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrenalmedfibroma_Eyzaguirre01.png",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrenalmedfibroma_Eyzaguirre02.png",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrenalmedfibroma_Eyzaguirre03.png"
+      ],
+      "clinicalInfo": "60-year-old male with an incidental renal mass"
+    },
+    {
+      "diagnosis": "Ossifying renal tumor of infancy",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorossifying.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorossifyingDhooghe1.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorossifyingDhooghe2.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorossifyingDhooghe3.jpg"
+      ],
+      "clinicalInfo": "1-year-old male with a renal mass"
+    },
+    {
+      "diagnosis": "Congenital mesoblastic nephroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormesoblastic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormesoblasticvujanic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormesoblasticvujanic04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormesoblasticvujanic05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormesoblasticvujanic6.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormesoblasticvujanic7.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormesoblasticvujanic08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormesoblasticvujanic09.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormesoblasticvujanic12.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormesoblasticvujanic13.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormesoblasticvujanic014.jpg"
+      ],
+      "clinicalInfo": "Newborn male with a renal mass"
+    },
+    {
+      "diagnosis": "Rhabdoid tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorrhabdoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrhabdoidDHoogheVujanic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrhabdoidDHoogheVujanic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrhabdoidDHoogheVujanic04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrhabdoidDHoogheVujanic06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrhabdoidDHoogheVujanic07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrhabdoidDHoogheVujanic08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrhabdoidDHoogheVujanic09.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrhabdoidDHoogheVujanic10.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrhabdoidDHoogheVujanic11.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrhabdoidDHoogheVujanic13.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorrhabdoidDHoogheVujanic12.jpg"
+      ],
+      "clinicalInfo": "2-year-old male with a renal mass and fever"
+    },
+    {
+      "diagnosis": "Clear cell sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorclearcellsarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorclearcellsarcomarollins2_01.jpeg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorclearcellsarcomarollins1_01.jpeg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorclearcellsarcomarollins3_01.jpeg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorclearcellsarcomarollins5_01.jpeg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorclearcellsarcomarollins6_01.jpeg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorclearcellsarcomarollins7_01.jpeg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/82bb/4504129/9eeb45e1f324/13000_2015_352_Fig3_HTML.jpg"
+      ],
+      "clinicalInfo": "3-year-old male with a renal mass"
+    },
+    {
+      "diagnosis": "Nephroblastomatosis / nephrogenic rests",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumornephroblastomatosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/1_059AFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_062BAFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_072AFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_061AFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_058TAFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_062TAFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_063AFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_067AFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_068AFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_065AFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_066AFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_070AFIP.jpg",
+        "https://www.pathologyoutlines.com/imgau/1_071AFIP.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case338image9_MesangialSclerosis.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case338image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case338image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case338image8.jpg"
+      ],
+      "clinicalInfo": "1-year-old female with bilateral renal lesions"
+    },
+    {
+      "diagnosis": "Cystic partially differentiated nephroblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorcysticnephroblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaBrilhante002.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaBrilhante03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaBrilhante04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaBrilhante05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaAthanazio003.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaAthanazio004.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaAthanazio05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaAthanazio006.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaAthanazio07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaAthanazio08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaAthanazio009.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaAthanazio010.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorcysticnephroblastomaAthanazio11.jpg"
+      ],
+      "clinicalInfo": "2-year-old male with a cystic renal mass"
+    },
+    {
+      "diagnosis": "Nephroblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumorwilmkids.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic09.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic10.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic11.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic12.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic13.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic14.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic15.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic16.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic17.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic18.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic19.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic20.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic21.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic22.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic23.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumorwilmkidsMICRO_DHoogheVujanic24.jpg"
+      ],
+      "clinicalInfo": "4-year-old male with a large renal mass"
+    },
+    {
+      "diagnosis": "Renal cell carcinoma - Clear cell",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignantrccclear.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclear_MacLennan08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclear_MacLennan21.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclear_MacLennan12.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclear_MacLennan11.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclear_MacLennan10.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclear_MacLennan13.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclearNezami07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclearNezami08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclear_MacLennan15.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclear_MacLennan17.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclear_MacLennan18.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclear_MacLennan19.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclearNezami10.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclearNezami11.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantclearcelleosinophilicAndeen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantclearcelleosinophilicAndeen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantclearcelleosinophilicAndeen04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantclearcelleosinophilicAndeen05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantclearcelleosinophilicAndeen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantclearcelleosinophilicAndeen07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclearNezami12.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantrccclearNezami05.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with a renal mass and hematuria"
+    },
+    {
+      "diagnosis": "Multilocular cystic renal neoplasm of low malignant potential",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormcrnlow.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormcrnlowtretiakova07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormcrnlowtretiakova08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormcrnlowtretiakova09.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormcrnlowtretiakova10.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormcrnlowtretiakova01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormcrnlowtretiakova02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormcrnlowtretiakova03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormcrnlowtretiakova04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormcrnlowahmsab_MD01.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with a cystic renal mass"
+    }
+  ]
+}

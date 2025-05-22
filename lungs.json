@@ -1,0 +1,660 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Bronchopulmonary dysplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorBPD.html",
+      "images": [
+        "https://www.meddean.luc.edu/lumen/bbs/p/pulpathi/pulpath15.jpeg",
+        "https://www.meddean.luc.edu/lumen/bbs/p/pulpathi/pulpath16.jpeg"
+      ],
+      "clinicalInfo": "Preterm infant with respiratory distress and oxygen dependency"
+    },
+    {
+      "diagnosis": "Congenital pulmonary airway malformation (CPAM)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorcysticadenomatoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson3.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson4.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson5.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson6.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson7.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson8.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson9.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson11.jpg"
+      ],
+      "clinicalInfo": "Newborn with respiratory distress and cystic lung lesions"
+    },
+    {
+      "diagnosis": "Sequestrations",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorsequestrations.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsequestrationspogoriler07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsequestrationspogoriler08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsequestrationspogoriler09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsequestrationspogoriler10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsequestrationspogoriler11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsequestrationspogoriler12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsequestrationspogoriler13.jpg"
+      ],
+      "clinicalInfo": "Infant with recurrent infections and abnormal lung mass"
+    },
+    {
+      "diagnosis": "Asbestosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorasbestosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorasbestosisMunkhdelgerBychkov01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorasbestosisMunkhdelgerBychkov02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorasbestosisMunkhdelgerBychkov03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorasbestosisMunkhdelgerBychkov04.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with history of asbestos exposure and dyspnea"
+    },
+    {
+      "diagnosis": "Coal workers' pneumoconiosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorcoalworker.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcoalworker_PathOutPicmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcoalworker_PathOutPicmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcoalworker_PathOutPicmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcoalworker_PathOutPicmicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcoalworker_PathOutPicmicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcoalworker_PathOutPicmicro07.jpg"
+      ],
+      "clinicalInfo": "55-year-old male coal miner with chronic cough and shortness of breath"
+    },
+    {
+      "diagnosis": "Silicosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorsilicosis.html",
+      "images": [
+        "https://webpath.med.utah.edu/jpeg1/LUNG084.jpg",
+        "https://webpath.med.utah.edu/jpeg1/LUNG086.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with silica exposure and progressive dyspnea"
+    },
+    {
+      "diagnosis": "Asthma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorasthma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorasthmapritt001.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorasthmapritt002.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorasthmapritt003.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorasthmapritt004.jpg",
+        "https://webpath.med.utah.edu/jpeg1/LUNG182.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Charcot-Leyden_crystals_in_airway-_Asthma.jpg/960px-Charcot-Leyden_crystals_in_airway-_Asthma.jpg?20090822084432"
+      ],
+      "clinicalInfo": "30-year-old female with wheezing and shortness of breath"
+    },
+    {
+      "diagnosis": "Emphysema",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumoremphysema.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumoremphysemayoshikawa01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoremphysemayoshikawa02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoremphysemayoshikawa03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoremphysemayoshikawa04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoremphysemayoshikawa05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoremphysemayoshikawa06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoremphysemayoshikawa07.jpg"
+      ],
+      "clinicalInfo": "65-year-old male smoker with chronic dyspnea and cough"
+    },
+    {
+      "diagnosis": "Acute pneumonia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorinfectionsgeneral.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralSathirareuangchai01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralSathirareuangchai02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralSathirareuangchai03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralSathirareuangchai04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralSathirareuangchai05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralSathirareuangchai06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralSathirareuangchai07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralSathirareuangchai08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralSathirareuangchai09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralSathirareuangchai10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneral_tachibana01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralAminiaCiobanoiu01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralAminiaCiobanoiu02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralAminiaCiobanoiu03.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with fever, cough, and chest pain"
+    },
+    {
+      "diagnosis": "Aspergillus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumoraspergillosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillosisSathirareuangchai01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillosisSathirareuangchai02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillosisSathirareuangchai03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillosisSathirareuangchai04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillosisSathirareuangchai05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillosisSathirareuangchai06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillosisSathirareuangchai07.jpg",
+        "https://www.pathologyoutlines.com/images/lungasper1.jpg",
+        "https://www.pathologyoutlines.com/images/lungasper2.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillusmendez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillusmendez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillusmendez03.jpg"
+      ],
+      "clinicalInfo": "50-year-old immunocompromised male with cough and hemoptysis"
+    },
+    {
+      "diagnosis": "Nocardia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumornocardiosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumornocardiarosen01.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with chronic cough and weight loss"
+    },
+    {
+      "diagnosis": "Coccidioides",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorcoccidio.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcoccidiomicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcoccidiomicro03.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with fever and pulmonary nodules in endemic area"
+    },
+    {
+      "diagnosis": "Histoplasma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorhistoplasma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/images/lunghisto1.jpg",
+        "https://www.pathologyoutlines.com/images/lunghisto2.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with fever and pulmonary infiltrates"
+    },
+    {
+      "diagnosis": "Pneumocystis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorPCP.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorPCPHusain01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorPCPHusain02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorPCPHusain03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorPCPHusain04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorPCPpleasingpathology01.jpg"
+      ],
+      "clinicalInfo": "35-year-old HIV-positive male with dyspnea and fever"
+    },
+    {
+      "diagnosis": "Adenovirus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumoradenovirus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumoradenovirusweisenberg01.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with fever and acute respiratory distress"
+    },
+    {
+      "diagnosis": "CMV",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorCMV.html",
+      "images": [
+        "https://www.pathologyoutlines.com/images/lungcmv5.jpg",
+        "https://www.pathologyoutlines.com/images/lungcmv4.jpg",
+        "https://www.pathologyoutlines.com/images/lungcmv3.jpg",
+        "https://www.pathologyoutlines.com/images/lungcmv2.jpg",
+        "https://www.pathologyoutlines.com/images/lungcmv1.jpg"
+      ],
+      "clinicalInfo": "40-year-old immunocompromised male with fever and cough"
+    },
+    {
+      "diagnosis": "COVID-19",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorcovid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi13.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi14.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi15.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi16.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi17.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi18.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi19.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi20.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with fever, cough, and severe dyspnea"
+    },
+    {
+      "diagnosis": "Influenza",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorinfluenza.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case459image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case459image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case459image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case459image7.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case459image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case459image5.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with fever, myalgia, and respiratory distress"
+    },
+    {
+      "diagnosis": "Granulomatosis with polyangiitis (GPA)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorgranulomatosiswithpolyangiitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorgranulomatosiswithpolyangiitisCima03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorgranulomatosiswithpolyangiitisCima04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorgranulomatosiswithpolyangiitisCima05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorgranulomatosiswithpolyangiitisCima06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorgranulomatosiswithpolyangiitisCima07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorgranulomatosiswithpolyangiitisCima08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorgranulomatosiswithpolyangiitisCima09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorgranulomatosiswithpolyangiitisCima010.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with hemoptysis and systemic vasculitis symptoms"
+    },
+    {
+      "diagnosis": "Hypersensitivity pneumonitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorextrinsicallergic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov001cap.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov002cap.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov003cap.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov004cap.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov005cap.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov006cap.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov007.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov008.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov009.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov010.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov011.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov012.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov013.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov014.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov015.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov016.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov017.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov018.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov019.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov020.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov021.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov022.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov023.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with chronic cough and exposure to organic antigens"
+    },
+    {
+      "diagnosis": "Sarcoidosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorsarcoidosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsarcoidosisMicroHusain1.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsarcoidosisMicroHusain2.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsarcoidosisMicroHusain3.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsarcoidosisMicroHusain4.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsarcoidosisMicroHusain5.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorsarcoidosisMicroHusain6.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungsarcoidosiskhanna03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungsarcoidosiskhanna04.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with cough and bilateral hilar lymphadenopathy"
+    },
+    {
+      "diagnosis": "Interstitial pneumonia with autoimmune features",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorIPAF.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa001.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa002.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa003.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa004.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa005.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa006.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa007.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa008.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa009.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa010.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa011.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa012.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa013.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa014.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa015.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa016.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with dyspnea and autoimmune symptoms"
+    },
+    {
+      "diagnosis": "Lipoid pneumonia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorlipoidpneumonia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case287image9.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case287image8.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case287image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case287image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case287image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case287image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case287image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case287image4.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with history of aspiration and cough"
+    },
+    {
+      "diagnosis": "Lymphoid interstitial pneumonia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorLIP.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPYoshikawa001n.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPYoshikawa003n.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPYoshikawa013n.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPYoshikawa005n.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPYoshikawa007n.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPYoshikawa006n.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPYoshikawa011n.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPYoshikawa004n.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPRosen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPRosen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPRosen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPRosen07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorLIPRosen08.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with autoimmune disease and dyspnea"
+    },
+    {
+      "diagnosis": "Nonspecific interstitial pneumonia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumornonspecificintpneumo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa13.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa14.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa15.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa16.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa18.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa19.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa22.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa21.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa20.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa24.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with progressive dyspnea and cough"
+    },
+    {
+      "diagnosis": "Rheumatoid lung disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorrheumatoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungrheumatoidtazelaar01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungrheumatoidtazelaar02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungrheumatoidtazelaar03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungrheumatoidtazelaar04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungrheumatoidtazelaar05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungrheumatoidtazelaar06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungrheumatoidtazelaar07.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with rheumatoid arthritis and dyspnea"
+    },
+    {
+      "diagnosis": "UIP / IPF",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorUIP.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa14.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa15.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa20.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa16.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa21.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa22.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa23.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa24.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa25.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa26.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa17.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa18.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa19.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with progressive dyspnea and dry cough"
+    },
+    {
+      "diagnosis": "Desquamative interstitial pneumonitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorDIP.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_01.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_02.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_03.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_04.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_05.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_06.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_07.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_08.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_09.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_10.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_11.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_12.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_13.jpeg"
+      ],
+      "clinicalInfo": "50-year-old male smoker with dyspnea and cough"
+    },
+    {
+      "diagnosis": "Acute fibrinous and organizing pneumonia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumordiffusealveolardamageafop.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageafopyoshikawa001.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageafopyoshikawa002.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageafopyoshikawa003.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageafopyoshikawa004.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageafopyoshikawa005.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageafopyoshikawa006.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageafopyoshikawa010.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageafopyoshikawa007.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageafopyoshikawa008.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageafopyoshikawa011.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageafopyoshikawa012.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorAFOProsen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorAFOProsen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorAFOProsen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorAFOProsen04.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with acute respiratory failure and fever"
+    },
+    {
+      "diagnosis": "Respiratory bronchiolitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorrespbronchiolitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorrespbronchiolitisKonopka01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorrespbronchiolitisKonopka02.jpg"
+      ],
+      "clinicalInfo": "45-year-old male smoker with mild dyspnea and cough"
+    },
+    {
+      "diagnosis": "Acute interstitial pneumonia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumoracuteinterstitialp.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialpyoshikawa_01.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialpyoshikawa_02.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialpyoshikawa_03.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialpyoshikawa_04.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialpyoshikawa_05.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialpyoshikawa_06.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialpyoshikawa_07.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialpyoshikawa_08.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialpyoshikawa_09.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialpyoshikawa_10.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialprosen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialprosen04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialprosen05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialprosen07.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with rapidly progressive respiratory failure"
+    },
+    {
+      "diagnosis": "ARDS / DAD",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumordiffusealveolardamage.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageYoshikawa01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageYoshikawa02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageYoshikawa03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageRosen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageRosen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageYoshikawa04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageYoshikawa05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageYoshikawa09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageRosen09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageRosen05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageRosen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageRosen07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageRosen08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageYoshikawa07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageYoshikawa08.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with acute respiratory distress and hypoxia"
+    },
+    {
+      "diagnosis": "Organizing pneumonia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorBOOP.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOP_yoshikawa03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOP_yoshikawa04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOP_yoshikawa05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOProsen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOProsen05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOProsen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOProsen08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOProsen09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOProsen14.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOP_yoshikawa06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOP_yoshikawa07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOP_yoshikawa09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOP_yoshikawa10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorBOOP_yoshikawa12.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with subacute cough and pulmonary infiltrates"
+    },
+    {
+      "diagnosis": "Eosinophilic pneumonia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumoreosinophilic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case2007105image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case2007105image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case2007105image3.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with cough and peripheral eosinophilia"
+    },
+    {
+      "diagnosis": "Alveolar proteinosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumoralveolarprotein.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumoralveolarproteinGhafoorBoland02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoralveolarproteinGhafoorBoland03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoralveolarproteinGhafoorBoland04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoralveolarproteinGhafoorBoland05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoralveolarproteinGhafoorBoland06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoralveolarproteinGhafoorBoland07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoralveolarproteinGhafoorBoland08.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with dyspnea and milky bronchoalveolar lavage"
+    },
+    {
+      "diagnosis": "Amyloidosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumoramyloid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumoramyloid_stewart01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoramyloid_stewart02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoramyloid_khoor05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoramyloid_khoor06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoramyloid_khoor08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoramyloid_khoor09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoramyloid_khoor10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoramyloid_khoor11.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with pulmonary nodules and systemic amyloidosis"
+    },
+    {
+      "diagnosis": "Nodular amyloid (amyloidoma)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumoramyloidnodular.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumoramyloidnodularkutty_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoramyloidnodularkutty_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumoramyloidnodularkutty_06.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case197image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case197image4.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with asymptomatic pulmonary nodule"
+    },
+    {
+      "diagnosis": "Bronchiectasis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorbronchiectasis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorbronchiectasisChenYost03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorbronchiectasisChenYost04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorbronchiectasisChenYost05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorbronchiectasisChenYost06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorbronchiectasisChenYost07.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with chronic cough and recurrent infections"
+    },
+    {
+      "diagnosis": "Infarct / pulmonary emboli",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorinfarct.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfarcthusain01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfarcthusain02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfarcthusain03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfarcthusain04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfarcthusain06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfarcthusain07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfarcthusain08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorinfarctmsnsayed1401.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with sudden chest pain and dyspnea"
+    },
+    {
+      "diagnosis": "Plexiform arteriopathy",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorpulmonaryhyperplexart.html",
+      "images": [
+        "https://webpath.med.utah.edu/jpeg1/LUNG153.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with pulmonary hypertension and dyspnea"
+    },
+    {
+      "diagnosis": "Pulmonary placental transmogrification",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorplacentaltrans.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorplacentaltransqiao_08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorplacentaltransqiao_09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorplacentaltransqiao_10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorplacentaltransqiao_11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorplacentaltransqiao_12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorplacentaltransqiao_13.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with cystic lung lesion and dyspnea"
+    },
+    {
+      "diagnosis": "Transplantation / rejection",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungnontumorlungtransp.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungnontumorlungtransp_montero04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorlungtransp_montero06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorlungtransp_montero07update.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorlungtransp_montero08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorlungtransp_montero09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorlungtransp_montero10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorlungtransp_montero11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungnontumorlungtransp_montero12.jpg"
+      ],
+      "clinicalInfo": "40-year-old male post-lung transplant with worsening lung function"
+    }
+  ]
+}

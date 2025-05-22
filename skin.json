@@ -857,7 +857,265 @@
         "https://www.pathologyoutlines.com/imgau/skinsebaceousadenomaPinczewski01.jpg"
       ],
       "clinicalInfo": "55-year-old female with a skin nodule on the face"
+    },
+    {
+      "diagnosis": "Congenital nevus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticmelanomacongenital.html",
+      "images": [
+        "https://pathologyoutlines.com/imgau/skintumormelanocyticmelanomacongenitalChughtai01.jpg",
+        "https://pathologyoutlines.com/imgau/skintumormelanocyticmelanomacongenitalChughtai02.jpg",
+        "https://pathologyoutlines.com/imgau/skintumormelanocyticmelanomacongenitalChughtai03.jpg",
+        "https://pathologyoutlines.com/imgau/skintumormelanocyticmelanomacongenitalChughtai04.jpg",
+        "https://pathologyoutlines.com/imgau/skintumormelanocyticmelanomacongenitalChughtai05.jpg",
+        "https://pathologyoutlines.com/imgau/skintumormelanocyticmelanomacongenitalChughtai06.jpg",
+        "https://pathologyoutlines.com/imgau/skintumormelanocyticmelanomacongenitalChughtai07.jpg",
+        "https://pathologyoutlines.com/imgau/skintumormelanocyticmelanomacongenitalChughtai08.jpg",
+        "https://pathologyoutlines.com/imgau/skintumormelanocyticmelanomacongenitalChughtai09.jpg",
+        "https://pathologyoutlines.com/imgau/skintumormelanocyticmelanomacongenitalChughtai10.jpg",
+        "https://pathologyoutlines.com/imgau/skintumormelanocyticmelanomacongenitalChughtai11.jpg"
+      ],
+      "clinicalInfo": "1-year-old male with a pigmented skin lesion present at birth"
+    },
+    {
+      "diagnosis": "Nodular melanoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticnodularmelanoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnodularmelanomaMicroRohr1.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnodularmelanomaMicroRohr2.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnodularmelanomaMicroRohr3.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnodularmelanomaMicroRohr6.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnodularmelanomaMicroRohr7.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with a rapidly growing pigmented skin nodule"
+    },
+    {
+      "diagnosis": "Nevoid melanoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticnevoidmelanoma.html",
+      "images": [
+        "https://pathorama.ch/storage/samples/006722.jpg",
+        "https://pathorama.ch/storage/samples/006724.jpg",
+        "https://pathorama.ch/storage/samples/006723.jpg",
+        "https://pathorama.ch/storage/samples/006726.jpg",
+        "https://pathorama.ch/storage/samples/006664.jpg",
+        "https://pathorama.ch/storage/samples/006670.jpg",
+        "https://pathorama.ch/storage/samples/006667.jpg",
+        "https://pathorama.ch/storage/samples/006668.jpg",
+        "https://pathorama.ch/storage/samples/006644.jpg",
+        "https://pathorama.ch/storage/samples/006643.jpg",
+        "https://pathorama.ch/storage/samples/006725.jpg",
+        "https://pathorama.ch/storage/samples/006666.jpg",
+        "https://pathorama.ch/storage/samples/006645.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with an irregular pigmented skin lesion"
+    },
+    {
+      "diagnosis": "Lentiginous nevus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticnevigeneral.html",
+      "images": [
+        "https://img.medscape.com/pi/emed/ckb/dermatology/1048885-1061990-2715.jpg",
+        "https://img.medscape.com/pi/emed/ckb/dermatology/1048885-1061990-2714.jpg"
+      ],
+      "clinicalInfo": "35-year-old male with a flat pigmented skin lesion"
+    },
+    {
+      "diagnosis": "Dysplastic nevus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticdysplasticnevus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticdysplasticnevusasadbeigi01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticdysplasticnevusasadbeigi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticdysplasticnevusasadbeigi03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticdysplasticnevusasadbeigi04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticdysplasticnevusasadbeigi05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticdysplasticnevusAndea01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticdysplasticnevusAndea02.jpg",
+        "https://www.pathologyoutlines.com/images/skin/clarknevus4.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with an asymmetrical pigmented skin lesion"
+    },
+    {
+      "diagnosis": "Nevus spilus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticnevusspilus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnevusspilusgradecki02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnevusspilusgradecki03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnevusspilusgradecki04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnevusspilusgradecki05.jpg"
+      ],
+      "clinicalInfo": "25-year-old male with a speckled pigmented skin lesion"
+    },
+    {
+      "diagnosis": "Halo nevus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocytichalonevus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocytichalonevussorinomura03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocytichalonevussorinomura04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocytichalonevussorinomura05.jpg"
+      ],
+      "clinicalInfo": "20-year-old female with a pigmented skin lesion with a white halo"
+    },
+    {
+      "diagnosis": "Recurrent nevus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticrecurrentnevus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticrecurrentnevusMicroDai1.jpeg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticrecurrentnevusMicroDai2.jpeg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticrecurrentnevusMicroDai4.jpeg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticrecurrentnevusMicroDai5.jpeg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticrecurrentnevusMicroDai6.jpeg"
+      ],
+      "clinicalInfo": "35-year-old male with a pigmented skin lesion after prior excision"
+    },
+    {
+      "diagnosis": "Deep penetrating nevus (DPN) / WNT activated deep penetrating / plexiform melanocytoma (nevus)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticdeeppennevus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticdeeppennevusVander01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticdeeppennevusVander02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticdeeppennevusVander03.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with a darkly pigmented skin lesion"
+    },
+    {
+      "diagnosis": "Pigmented epithelioid melanocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticpigmentedepithelioidmelanocytoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticPEMspeiser01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticPEMspeiser02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticPEMspeiser03.jpg"
+      ],
+      "clinicalInfo": "25-year-old male with a pigmented skin nodule"
+    },
+    {
+      "diagnosis": "BAP1 inactivated nevus / melanocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticbap1nevus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbap1nevusKuhar01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbap1nevusKuhar02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbap1nevusKuhar03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbap1nevusAlomari01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbap1nevusAlomari02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbap1nevusAlomari03.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with a pigmented skin lesion"
+    },
+    {
+      "diagnosis": "Lentigo maligna melanoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticlentigomaligna.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumorLMMGillamCrimminsMochel01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumorLMMGillamCrimminsMochel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumorLMMGillamCrimminsMochel03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumorLMMGillamCrimminsMochel05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumorLMMGillamCrimminsMochel06.jpg"
+      ],
+      "clinicalInfo": "70-year-old male with an irregular pigmented skin lesion on the face"
+    },
+    {
+      "diagnosis": "Desmoplastic melanoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticdesmoplasticmelanoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skinmelanocytictumordesmoplastichosler06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinmelanocytictumordesmoplastichosler01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinmelanocytictumordesmoplastichosler04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinmelanocytictumordesmoplastichosler02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinmelanocytictumordesmoplastichosler05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinmelanocytictumordesmoplastichosler03.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with a firm skin lesion"
+    },
+    {
+      "diagnosis": "Reed nevus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticpigmentedspindlecellnevus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticpigmentedspindlecellnevusshinohara03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticpigmentedspindlecellnevusshinohara04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticpigmentedspindlecellnevusshinohara05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticpigmentedspindlecellnevusshinohara06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticpigmentedspindlecellnevusshinohara07.jpg"
+      ],
+      "clinicalInfo": "20-year-old female with a darkly pigmented skin lesion"
+    },
+    {
+      "diagnosis": "Spitz nevus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticspitz.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticspitzWiedemeyer01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticspitzWiedemeyer02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticspitzWiedemeyer03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticspitzWiedemeyer04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticspitzWiedemeyer05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticspitzWiedemeyer06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticspitzWiedemeyer07.jpg"
+      ],
+      "clinicalInfo": "15-year-old male with a dome-shaped skin lesion"
+    },
+    {
+      "diagnosis": "Atypical Spitz tumor (Spitz melanocytoma)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticatypicalspitz.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticatypicalspitzAsadbeigi01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticatypicalspitzAsadbeigi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticatypicalspitzAsadbeigi03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticatypicalspitzAsadbeigi04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticatypicalspitzAsadbeigi05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticatypicalspitzAsadbeigi06.jpg"
+      ],
+      "clinicalInfo": "20-year-old female with an asymmetrical skin lesion"
+    },
+    {
+      "diagnosis": "Malignant Spitz tumor (Spitz melanoma)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticspitzoidmelanoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticspitzoidmelanomaRaghavan01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticspitzoidmelanomaRaghavan02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticspitzoidmelanomaRaghavan03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticspitzoidmelanomaRaghavan04.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with a rapidly growing skin nodule"
+    },
+    {
+      "diagnosis": "Acral nevus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticnevisitesacral.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnevisitesacralCazzato01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnevisitesacralCazzato02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticnevisitesacralCazzato03.jpg",
+        "https://www.pathologyoutlines.com/images/skintumorjuncnevus2.jpg",
+        "https://www.pathologyoutlines.com/images/skintumorjuncnevus1.jpg",
+        "https://www.pathologyoutlines.com/images/skintumorjuncnevus3.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with a pigmented skin lesion on the sole"
+    },
+    {
+      "diagnosis": "Acral melanoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticacrallentiginous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticacrallentiginousMicroTorres1.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticacrallentiginousMicroTorres2.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticacrallentiginousMicroTorres3.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticacrallentiginousMicroTorres4.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticacrallentiginousMicroTorres5.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticacrallentiginousMicroTorres6.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticacrallentiginousMicroTorres7.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticacrallentiginousMicroTorres10.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with an irregular pigmented skin lesion on the foot"
+    },
+    {
+      "diagnosis": "Blue nevus / cellular blue nevus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumormelanocyticbluenevus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbluenevustorrescabala01.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbluenevustorrescabala02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbluenevustorrescabala03.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbluenevustorrescabala04.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbluenevustorrescabala05.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbluenevustorrescabala06.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbluenevustorrescabala07.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbluenevustorrescabala08.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumormelanocyticbluenevustorrescabala09.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with a blue-black skin lesion"
     }
   ]
 }
-

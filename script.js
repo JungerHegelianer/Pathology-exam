@@ -40,7 +40,7 @@ function loadSection(section) {
         })
         .catch(error => {
             console.error('Error:', error);
-            resultElement.textContent = `Error loading ${section} data`;
+            resultElement.textContent = `Error loading ${section} data. Check if ${section}.json exists.`;
         });
 }
 
@@ -190,7 +190,7 @@ function showSelfAssessmentModal() {
         modal.className = 'modal';
         modal.innerHTML = `
             <div class="modal-content">
-                <span class="close">&times;</span>
+                <span class="close">×</span>
                 <p id="diagnosis">Correct diagnosis: ${currentTumor.diagnosis}</p>
                 <p id="articleLink">${linkHtml}</p>
                 <button id="selfCorrect">I was right</button>
@@ -298,4 +298,5 @@ sectionButtons.forEach(button => {
     });
 });
 
-loadSection('softTissue');
+// Загружаем раздел "Skin" по умолчанию
+loadSection('skin');
