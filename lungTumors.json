@@ -1,0 +1,525 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Fetal lung interstitial tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungfetalinterstitial.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungfetalinterstitialMicroAllagio1.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungfetalinterstitialMicroAllagio3.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungfetalinterstitialMicroAllagio4.jpg"
+      ],
+      "clinicalInfo": "Infant with respiratory distress and lung mass"
+    },
+    {
+      "diagnosis": "Adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumoradenomagen.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenomagenUaliyeva04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenomagenUaliyeva05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenomagenUaliyeva06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenomagenUaliyeva07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenomagenUaliyeva08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenomagenUaliyeva09.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with incidental lung nodule"
+    },
+    {
+      "diagnosis": "Sclerosing pneumocytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorsclerosingheman.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorsclerosinghemancecchini01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorsclerosinghemancecchini02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorsclerosinghemancecchini03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorsclerosinghemancecchini04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorsclerosinghemancecchini05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorsclerosinghemancecchini08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorsclerosinghemancecchini09.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with asymptomatic pulmonary nodule"
+    },
+    {
+      "diagnosis": "Squamous / glandular / mixed papilloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorsquamouspapilloma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungsquamouspapilloma1.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungsquamouspapilloma2.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8e3b/3049241/02b70ccfa313/CJ-8-6-g002.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with cough and endobronchial lesion"
+    },
+    {
+      "diagnosis": "Atypical adenomatous hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorbronchAAH.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorbronchAAHLinCecchini01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorbronchAAHLinCecchini02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorbronchAAHLinCecchini03.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with incidental subcentimeter lung nodule"
+    },
+    {
+      "diagnosis": "Adenocarcinoma in situ",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumoradenoinsitu.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenoinsituBasuZhou03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenoinsituBasuZhou04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenoinsituBasuZhou05.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with ground-glass opacity on CT"
+    },
+    {
+      "diagnosis": "Squamous cell carcinoma in situ",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungsquamouscellcarcinomainsitu.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungSCISolteanu02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungSCISmataic01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungSCISmataic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungSCISbrcic01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungSCISbrcic02.jpg"
+      ],
+      "clinicalInfo": "60-year-old male smoker with endobronchial lesion"
+    },
+    {
+      "diagnosis": "Adenocarcinoma overview",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumoradenocarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenocarcinomaUnderwoodmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenocarcinomaLonardomicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenocarcinomaUnderwoodmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenocarcinomaUnderwoodmicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenocarcinomaLonardomicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungpapillaryadenorassaei01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungpapillaryadenorassaei02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenocarcinomaUnderwoodmicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenocarcinomaUnderwoodmicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenocarcinomaUnderwoodmicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenocarcinomaUnderwoodmicro7.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with lung mass and weight loss"
+    },
+    {
+      "diagnosis": "Adenocarcinoma - Colloid",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorcolloidadeno.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorcolloidadenoOlteanu01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcolloidadenoOlteanu02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcolloidadenoMataic01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcolloidadenoMataic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcolloidadenoBrcic01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcolloidadenoBrcic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcolloidadenoBrcic04.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with mucinous lung mass"
+    },
+    {
+      "diagnosis": "Adenocarcinoma - Enteric",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumoradenoenteric.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenoentericOzmenmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenoentericOzmenmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenoentericOzmenmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenoentericOltulumicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenoentericOltulumicro02new.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with lung mass resembling gastrointestinal carcinoma"
+    },
+    {
+      "diagnosis": "Adenocarcinoma - Invasive mucinous",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorinvmucadenocarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinoma_Yoshikawa03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinoma_Yoshikawa04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinoma_Yoshikawa05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinoma_Yoshikawa06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinoma_Yoshikawa07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinoma_Yoshikawa08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinoma_Yoshikawa09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinoma_Yoshikawa10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinoma_Yoshikawa11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinoma_Yoshikawa12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinomazaalruwai8301.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinomazaalruwai8302.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with multifocal mucinous lung lesions"
+    },
+    {
+      "diagnosis": "Lepidic adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumoradenolepidic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenolepidicKeow01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenolepidicKeow02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenolepidicCecchini01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungminimallyinvasivekeow02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenolepidicCecchini02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenolepidicCecchini03.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with ground-glass lung nodule"
+    },
+    {
+      "diagnosis": "Lymphoepithelial carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lunglymphoepithelialcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lunglymphoepithelialcarcinomaChenYost01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lunglymphoepithelialcarcinomaChenYost02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lunglymphoepithelialcarcinomaChenYost03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lunglymphoepithelialcarcinomaChenYost04.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with lung mass and lymphadenopathy"
+    },
+    {
+      "diagnosis": "Squamous cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorSCC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough001.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCBychkovmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough002a.jpg"
+      ],
+      "clinicalInfo": "65-year-old male smoker with cough and hemoptysis"
+    },
+    {
+      "diagnosis": "Diffuse idiopathic pulmonary neuroendocrine hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumordipnech.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/difidiopathicpulmneuroendohyperGagne_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/difidiopathicpulmneuroendohyperGagne_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/difidiopathicpulmneuroendohyperGagne_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/difidiopathicpulmneuroendohyperGagne_06.jpg",
+        "https://www.pathologyoutlines.com/imgau/difidiopathicpulmneuroendohyperGagne_07.jpg",
+        "https://www.pathologyoutlines.com/imgau/difidiopathicpulmneuroendohyperGagne_08.jpg",
+        "https://www.pathologyoutlines.com/imgau/difidiopathicpulmneuroendohyperGagne_09.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with chronic cough and obstructive lung disease"
+    },
+    {
+      "diagnosis": "Carcinoid tumorlet",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumortumorlet.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumortumorletGagne02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumortumorletGagne03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumortumorletGagne04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumortumorletGagne05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumortumorletGagne06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumortumorletGagne07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumortumorletGagne08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumortumorletGagne09.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with incidental small lung nodules"
+    },
+    {
+      "diagnosis": "Typical carcinoid tumor / neuroendocrine tumor, grade 1",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorcarcinoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_13.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_14.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_15.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_17.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_18.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_19.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_37.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert_23.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidmunkhdelgerbychkov06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidmunkhdelgerbychkov07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidmunkhdelgerbychkov08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidmunkhdelgerbychkov09.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with endobronchial mass and cough"
+    },
+    {
+      "diagnosis": "Atypical carcinoid tumor / neuroendocrine tumor, grade 2",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumoratypicalcarcinoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidjoubert21a.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert13.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert14.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with lung mass and paraneoplastic symptoms"
+    },
+    {
+      "diagnosis": "Large cell neuroendocrine carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorlargecellNE.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorlargecellNENtekaCheva01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorlargecellNENtekaCheva02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lung-tumor/lungtumorlargecellNEwu05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorlargecellNEChatzopoulos01.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with rapidly growing lung mass"
+    },
+    {
+      "diagnosis": "Small cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorsmallcell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lung-tumor/lungtumorsmallcellglass_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lung-tumor/lungtumorsmallcellglass_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lung-tumor/lungtumorsmallcellglass_07.jpg"
+      ],
+      "clinicalInfo": "65-year-old male smoker with lung mass and weight loss"
+    },
+    {
+      "diagnosis": "Carcinosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorcarcinosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungcarcinosarcomarosen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungcarcinosarcomarosen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungcarcinosarcomaqiao01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungcarcinosarcomaqiao02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungcarcinosarcomaqiao03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungcarcinosarcomaqiao04.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/372f/4200607/1cbcd7c16ea1/atm-02-04-41-f2.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7add/4775788/f9edde3800c1/CRIPU2016-2020146.001.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7add/4775788/91ccce974959/CRIPU2016-2020146.002.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7add/4775788/05d11e5eff10/CRIPU2016-2020146.005.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with large lung mass and hemoptysis"
+    },
+    {
+      "diagnosis": "Pleomorphic carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorpleomorphic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorgiantcellcarcinomaWu01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorgiantcellcarcinomaWu02new.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with aggressive lung mass"
+    },
+    {
+      "diagnosis": "Pulmonary blastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorpulmonaryblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorpulmonaryblastomaGui01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpulmonaryblastomaGui02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpulmonaryblastomaGui03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpulmonaryblastomaGui04.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with biphasic lung tumor"
+    },
+    {
+      "diagnosis": "Adenoid cystic carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorACC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorAACrosen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorAACrosen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorAACrosen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorAACrosen04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorACCThatGlassTho01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorACCThatGlassTho02.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with endobronchial mass and cough"
+    },
+    {
+      "diagnosis": "Epithelial myoepithelial carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorepithelialmyo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorepithelialmyoWu01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorepithelialmyoWu02.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case357image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case357image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case357image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case357image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case357image5.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with salivary gland-type lung tumor"
+    },
+    {
+      "diagnosis": "Hyalinizing clear cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lunghyalinizingclearcellcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungHCCChusain01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungHCCChusain02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungHCCChusain03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungHCCChusain04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungHCCChusain05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungHCCChusain06.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with endobronchial clear cell tumor"
+    },
+    {
+      "diagnosis": "Mucoepidermoid carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumormucoepidermoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumormucoepidermoidWu_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumormucoepidermoidWu_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungmucoepidermoidcarcinomarosen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungmucoepidermoidcarcinomarosen03.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with endobronchial mucinous tumor"
+    },
+    {
+      "diagnosis": "Pleomorphic adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumoradenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorpleomorphicadenomawu1.png",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpleomorphicadenomawu2.png",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpleomorphicadenomawu3.png",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpleomorphicadenomawu4.png",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpleomorphicadenomawu5.png",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpleomorphicadenomawu6.png"
+      ],
+      "clinicalInfo": "50-year-old female with benign salivary gland-type lung tumor"
+    },
+    {
+      "diagnosis": "Adenosquamous carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumoradenosquamous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenosquamousWu01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenosquamousWu02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenosquamousWu_1.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenosquamousWu_2.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumoradenosquamousWu06.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with mixed histology lung mass"
+    },
+    {
+      "diagnosis": "Large cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorlargecell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorlargecellSymes01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorlargecellSymes03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorlargecellSymes04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorlargecellSymes05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorlargecellSymes06.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with poorly differentiated lung mass"
+    },
+    {
+      "diagnosis": "Lymphoepithelioma-like carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorLEL.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorLELwu_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorLELwu_02.jpg",
+        "https://www.ajronline.org/cms/10.2214/AJR.05.0244/asset/images/00_05_0244_03b_cmyk.jpeg",
+        "https://www.ajronline.org/cms/10.2214/AJR.05.0244/asset/images/00_05_0244_03c_cmyk.jpeg"
+      ],
+      "clinicalInfo": "50-year-old male with lung mass and EBV association"
+    },
+    {
+      "diagnosis": "NUT carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumornutcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumornutcarcinomaChatzopoulos01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumornutcarcinomaChatzopoulos02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumornutcarcinomaChatzopoulosnew2B.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with aggressive midline lung tumor"
+    },
+    {
+      "diagnosis": "Benign metastasizing leiomyoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorb9metastasizingleio.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorb9metastasizingleioWumicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorb9metastasizingleioWumicro2.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with uterine leiomyoma and lung nodules"
+    },
+    {
+      "diagnosis": "Inflammatory myofibroblastic tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorinflammatorypseudotumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorinflammatorypseudotumorwu01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorinflammatorypseudotumorwu02.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6ed1/3343246/090f1db12563/IJMPO-32-204-g003.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with inflammatory lung mass"
+    },
+    {
+      "diagnosis": "PEComa (clear cell tumor)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorclearcell.html",
+      "images": [
+        "https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2610653_jkms-23-1121-g003.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7a5a/2610653/6cbbdc183d83/jkms-23-1121-g003.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with clear cell lung tumor"
+    },
+    {
+      "diagnosis": "Pleuropulmonary blastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorPPB.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungPPBmicroHusain01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungPPBmicroHusain02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungPPBmicroHusain03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungPPBmicroHusain04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungPPBmicroHusain05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungPPBmicroHusain06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungPPBmicroHusain07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungPPBmicroHusain10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungPPBmicroHusain11.jpg"
+      ],
+      "clinicalInfo": "5-year-old child with cystic lung mass"
+    },
+    {
+      "diagnosis": "Pulmonary artery intimal sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorpais.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira1.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira2.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira3.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira4.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira5.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira6.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira7.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira8.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira9.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira13.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira14.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira18.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with pulmonary artery obstruction"
+    },
+    {
+      "diagnosis": "Pulmonary capillary hemangiomatosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorhemangiomatosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lunghemangiomatosisrosen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lunghemangiomatosisrosen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lunghemangiomatosisrosen03.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with pulmonary hypertension"
+    },
+    {
+      "diagnosis": "Pulmonary hamartoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lungtumorhamartoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lungtumorhamartomalischulte01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorhamartomalischulte02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorhamartomalischulte03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorhamartomalischulte04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorhamartomalischulte05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorhamartomalischulte06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorhamartomalischulte07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorhamartomalischulte08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorhamartomaAndrew_Fltv04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lungtumorhamartomaAndrew_Fltv05.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with incidental benign lung nodule"
+    }
+  ]
+}
