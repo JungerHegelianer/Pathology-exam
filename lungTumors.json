@@ -8,7 +8,7 @@
         "https://www.pathologyoutlines.com/imgau/lungfetalinterstitialMicroAllagio3.jpg",
         "https://www.pathologyoutlines.com/imgau/lungfetalinterstitialMicroAllagio4.jpg"
       ],
-      "clinicalInfo": "Infant with respiratory distress and lung mass"
+      "clinicalInfo": "2-year-old male with respiratory distress"
     },
     {
       "diagnosis": "Adenoma",
@@ -35,7 +35,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorsclerosinghemancecchini08.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorsclerosinghemancecchini09.jpg"
       ],
-      "clinicalInfo": "45-year-old female with asymptomatic pulmonary nodule"
+      "clinicalInfo": "45-year-old female with asymptomatic lung nodule"
     },
     {
       "diagnosis": "Squamous / glandular / mixed papilloma",
@@ -45,7 +45,7 @@
         "https://www.pathologyoutlines.com/imgau/lungsquamouspapilloma2.jpg",
         "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8e3b/3049241/02b70ccfa313/CJ-8-6-g002.jpg"
       ],
-      "clinicalInfo": "55-year-old male with cough and endobronchial lesion"
+      "clinicalInfo": "55-year-old male with chronic cough"
     },
     {
       "diagnosis": "Atypical adenomatous hyperplasia",
@@ -55,7 +55,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorbronchAAHLinCecchini02.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorbronchAAHLinCecchini03.jpg"
       ],
-      "clinicalInfo": "60-year-old female with incidental subcentimeter lung nodule"
+      "clinicalInfo": "60-year-old female with incidental lung nodule"
     },
     {
       "diagnosis": "Adenocarcinoma in situ",
@@ -65,7 +65,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumoradenoinsituBasuZhou04.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumoradenoinsituBasuZhou05.jpg"
       ],
-      "clinicalInfo": "55-year-old female with ground-glass opacity on CT"
+      "clinicalInfo": "55-year-old female with ground-glass opacity"
     },
     {
       "diagnosis": "Squamous cell carcinoma in situ",
@@ -77,7 +77,7 @@
         "https://www.pathologyoutlines.com/imgau/lungSCISbrcic01.jpg",
         "https://www.pathologyoutlines.com/imgau/lungSCISbrcic02.jpg"
       ],
-      "clinicalInfo": "60-year-old male smoker with endobronchial lesion"
+      "clinicalInfo": "60-year-old male smoker with persistent cough"
     },
     {
       "diagnosis": "Adenocarcinoma overview",
@@ -95,7 +95,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumoradenocarcinomaUnderwoodmicro6.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumoradenocarcinomaUnderwoodmicro7.jpg"
       ],
-      "clinicalInfo": "65-year-old male with lung mass and weight loss"
+      "clinicalInfo": "65-year-old male with cough and weight loss"
     },
     {
       "diagnosis": "Adenocarcinoma - Colloid",
@@ -109,7 +109,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorcolloidadenoBrcic02.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorcolloidadenoBrcic04.jpg"
       ],
-      "clinicalInfo": "60-year-old female with mucinous lung mass"
+      "clinicalInfo": "60-year-old female with dyspnea"
     },
     {
       "diagnosis": "Adenocarcinoma - Enteric",
@@ -121,7 +121,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumoradenoentericOltulumicro01.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumoradenoentericOltulumicro02new.jpg"
       ],
-      "clinicalInfo": "55-year-old male with lung mass resembling gastrointestinal carcinoma"
+      "clinicalInfo": "55-year-old male with chest pain"
     },
     {
       "diagnosis": "Adenocarcinoma - Invasive mucinous",
@@ -140,7 +140,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinomazaalruwai8301.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorinvmucadenocarcinomazaalruwai8302.jpg"
       ],
-      "clinicalInfo": "60-year-old female with multifocal mucinous lung lesions"
+      "clinicalInfo": "60-year-old female with persistent cough"
     },
     {
       "diagnosis": "Lepidic adenocarcinoma",
@@ -153,7 +153,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumoradenolepidicCecchini02.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumoradenolepidicCecchini03.jpg"
       ],
-      "clinicalInfo": "55-year-old female with ground-glass lung nodule"
+      "clinicalInfo": "55-year-old female with incidental lung nodule"
     },
     {
       "diagnosis": "Lymphoepithelial carcinoma",
@@ -164,7 +164,7 @@
         "https://www.pathologyoutlines.com/imgau/lunglymphoepithelialcarcinomaChenYost03.jpg",
         "https://www.pathologyoutlines.com/imgau/lunglymphoepithelialcarcinomaChenYost04.jpg"
       ],
-      "clinicalInfo": "50-year-old male with lung mass and lymphadenopathy"
+      "clinicalInfo": "50-year-old male with chest pain"
     },
     {
       "diagnosis": "Squamous cell carcinoma",
@@ -183,7 +183,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorSCCBychkovmicro1.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorSCCMcGeough002a.jpg"
       ],
-      "clinicalInfo": "65-year-old male smoker with cough and hemoptysis"
+      "clinicalInfo": "65-year-old male with hemoptysis"
     },
     {
       "diagnosis": "Diffuse idiopathic pulmonary neuroendocrine hyperplasia",
@@ -197,7 +197,7 @@
         "https://www.pathologyoutlines.com/imgau/difidiopathicpulmneuroendohyperGagne_08.jpg",
         "https://www.pathologyoutlines.com/imgau/difidiopathicpulmneuroendohyperGagne_09.jpg"
       ],
-      "clinicalInfo": "50-year-old female with chronic cough and obstructive lung disease"
+      "clinicalInfo": "50-year-old female with chronic cough"
     },
     {
       "diagnosis": "Carcinoid tumorlet",
@@ -212,7 +212,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumortumorletGagne08.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumortumorletGagne09.jpg"
       ],
-      "clinicalInfo": "55-year-old female with incidental small lung nodules"
+      "clinicalInfo": "55-year-old female with incidental lung nodules"
     },
     {
       "diagnosis": "Typical carcinoid tumor / neuroendocrine tumor, grade 1",
@@ -237,7 +237,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidmunkhdelgerbychkov08.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorcarcinoidmunkhdelgerbychkov09.jpg"
       ],
-      "clinicalInfo": "45-year-old male with endobronchial mass and cough"
+      "clinicalInfo": "45-year-old male with persistent cough"
     },
     {
       "diagnosis": "Atypical carcinoid tumor / neuroendocrine tumor, grade 2",
@@ -259,7 +259,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert13.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumoratypicalcarcinoidJoubert14.jpg"
       ],
-      "clinicalInfo": "50-year-old male with lung mass and paraneoplastic symptoms"
+      "clinicalInfo": "50-year-old male with weight loss"
     },
     {
       "diagnosis": "Large cell neuroendocrine carcinoma",
@@ -270,7 +270,7 @@
         "https://www.pathologyoutlines.com/imgau/lung-tumor/lungtumorlargecellNEwu05.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorlargecellNEChatzopoulos01.jpg"
       ],
-      "clinicalInfo": "60-year-old male with rapidly growing lung mass"
+      "clinicalInfo": "60-year-old male with chest pain"
     },
     {
       "diagnosis": "Small cell carcinoma",
@@ -280,7 +280,7 @@
         "https://www.pathologyoutlines.com/imgau/lung-tumor/lungtumorsmallcellglass_03.jpg",
         "https://www.pathologyoutlines.com/imgau/lung-tumor/lungtumorsmallcellglass_07.jpg"
       ],
-      "clinicalInfo": "65-year-old male smoker with lung mass and weight loss"
+      "clinicalInfo": "65-year-old male with weight loss"
     },
     {
       "diagnosis": "Carcinosarcoma",
@@ -297,7 +297,7 @@
         "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7add/4775788/91ccce974959/CRIPU2016-2020146.002.jpg",
         "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7add/4775788/05d11e5eff10/CRIPU2016-2020146.005.jpg"
       ],
-      "clinicalInfo": "60-year-old male with large lung mass and hemoptysis"
+      "clinicalInfo": "60-year-old male with hemoptysis"
     },
     {
       "diagnosis": "Pleomorphic carcinoma",
@@ -306,7 +306,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorgiantcellcarcinomaWu01new.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorgiantcellcarcinomaWu02new.jpg"
       ],
-      "clinicalInfo": "65-year-old male with aggressive lung mass"
+      "clinicalInfo": "65-year-old male with chest pain"
     },
     {
       "diagnosis": "Pulmonary blastoma",
@@ -317,7 +317,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorpulmonaryblastomaGui03.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorpulmonaryblastomaGui04.jpg"
       ],
-      "clinicalInfo": "40-year-old male with biphasic lung tumor"
+      "clinicalInfo": "40-year-old male with cough"
     },
     {
       "diagnosis": "Adenoid cystic carcinoma",
@@ -330,7 +330,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorACCThatGlassTho01.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorACCThatGlassTho02.jpg"
       ],
-      "clinicalInfo": "50-year-old male with endobronchial mass and cough"
+      "clinicalInfo": "50-year-old male with chronic cough"
     },
     {
       "diagnosis": "Epithelial myoepithelial carcinoma",
@@ -344,7 +344,7 @@
         "https://www.pathologyoutlines.com/caseofweek/case357image4.jpg",
         "https://www.pathologyoutlines.com/caseofweek/case357image5.jpg"
       ],
-      "clinicalInfo": "55-year-old female with salivary gland-type lung tumor"
+      "clinicalInfo": "55-year-old female with dyspnea"
     },
     {
       "diagnosis": "Hyalinizing clear cell carcinoma",
@@ -357,7 +357,7 @@
         "https://www.pathologyoutlines.com/imgau/lungHCCChusain05.jpg",
         "https://www.pathologyoutlines.com/imgau/lungHCCChusain06.jpg"
       ],
-      "clinicalInfo": "50-year-old male with endobronchial clear cell tumor"
+      "clinicalInfo": "50-year-old male with cough"
     },
     {
       "diagnosis": "Mucoepidermoid carcinoma",
@@ -368,7 +368,7 @@
         "https://www.pathologyoutlines.com/imgau/lungmucoepidermoidcarcinomarosen02.jpg",
         "https://www.pathologyoutlines.com/imgau/lungmucoepidermoidcarcinomarosen03.jpg"
       ],
-      "clinicalInfo": "45-year-old male with endobronchial mucinous tumor"
+      "clinicalInfo": "45-year-old male with wheezing"
     },
     {
       "diagnosis": "Pleomorphic adenoma",
@@ -381,7 +381,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorpleomorphicadenomawu5.png",
         "https://www.pathologyoutlines.com/imgau/lungtumorpleomorphicadenomawu6.png"
       ],
-      "clinicalInfo": "50-year-old female with benign salivary gland-type lung tumor"
+      "clinicalInfo": "50-year-old female with incidental lung nodule"
     },
     {
       "diagnosis": "Adenosquamous carcinoma",
@@ -393,7 +393,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumoradenosquamousWu_2.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumoradenosquamousWu06.jpg"
       ],
-      "clinicalInfo": "60-year-old male with mixed histology lung mass"
+      "clinicalInfo": "60-year-old male with hemoptysis"
     },
     {
       "diagnosis": "Large cell carcinoma",
@@ -405,7 +405,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorlargecellSymes05.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorlargecellSymes06.jpg"
       ],
-      "clinicalInfo": "65-year-old male with poorly differentiated lung mass"
+      "clinicalInfo": "65-year-old male with chest pain"
     },
     {
       "diagnosis": "Lymphoepithelioma-like carcinoma",
@@ -416,7 +416,7 @@
         "https://www.ajronline.org/cms/10.2214/AJR.05.0244/asset/images/00_05_0244_03b_cmyk.jpeg",
         "https://www.ajronline.org/cms/10.2214/AJR.05.0244/asset/images/00_05_0244_03c_cmyk.jpeg"
       ],
-      "clinicalInfo": "50-year-old male with lung mass and EBV association"
+      "clinicalInfo": "50-year-old male with cough"
     },
     {
       "diagnosis": "NUT carcinoma",
@@ -426,7 +426,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumornutcarcinomaChatzopoulos02.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumornutcarcinomaChatzopoulosnew2B.jpg"
       ],
-      "clinicalInfo": "30-year-old male with aggressive midline lung tumor"
+      "clinicalInfo": "30-year-old male with chest pain"
     },
     {
       "diagnosis": "Benign metastasizing leiomyoma",
@@ -435,7 +435,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorb9metastasizingleioWumicro1.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorb9metastasizingleioWumicro2.jpg"
       ],
-      "clinicalInfo": "45-year-old female with uterine leiomyoma and lung nodules"
+      "clinicalInfo": "45-year-old female with asymptomatic lung nodules"
     },
     {
       "diagnosis": "Inflammatory myofibroblastic tumor",
@@ -445,7 +445,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorinflammatorypseudotumorwu02.jpg",
         "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6ed1/3343246/090f1db12563/IJMPO-32-204-g003.jpg"
       ],
-      "clinicalInfo": "40-year-old male with inflammatory lung mass"
+      "clinicalInfo": "40-year-old male with cough"
     },
     {
       "diagnosis": "PEComa (clear cell tumor)",
@@ -454,7 +454,7 @@
         "https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2610653_jkms-23-1121-g003.jpg",
         "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7a5a/2610653/6cbbdc183d83/jkms-23-1121-g003.jpg"
       ],
-      "clinicalInfo": "50-year-old female with clear cell lung tumor"
+      "clinicalInfo": "50-year-old female with incidental lung nodule"
     },
     {
       "diagnosis": "Pleuropulmonary blastoma",
@@ -470,7 +470,7 @@
         "https://www.pathologyoutlines.com/imgau/lungPPBmicroHusain10.jpg",
         "https://www.pathologyoutlines.com/imgau/lungPPBmicroHusain11.jpg"
       ],
-      "clinicalInfo": "5-year-old child with cystic lung mass"
+      "clinicalInfo": "5-year-old child with respiratory distress"
     },
     {
       "diagnosis": "Pulmonary artery intimal sarcoma",
@@ -492,7 +492,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira14.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorpaisMicroMoreira18.jpg"
       ],
-      "clinicalInfo": "55-year-old male with pulmonary artery obstruction"
+      "clinicalInfo": "55-year-old male with dyspnea"
     },
     {
       "diagnosis": "Pulmonary capillary hemangiomatosis",
@@ -502,7 +502,7 @@
         "https://www.pathologyoutlines.com/imgau/lunghemangiomatosisrosen02.jpg",
         "https://www.pathologyoutlines.com/imgau/lunghemangiomatosisrosen03.jpg"
       ],
-      "clinicalInfo": "40-year-old female with pulmonary hypertension"
+      "clinicalInfo": "40-year-old female with dyspnea"
     },
     {
       "diagnosis": "Pulmonary hamartoma",
@@ -519,7 +519,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorhamartomaAndrew_Fltv04.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorhamartomaAndrew_Fltv05.jpg"
       ],
-      "clinicalInfo": "50-year-old male with incidental benign lung nodule"
+      "clinicalInfo": "50-year-old male with incidental lung nodule"
     }
   ]
 }
