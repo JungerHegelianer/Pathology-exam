@@ -7,7 +7,7 @@
         "https://www.meddean.luc.edu/lumen/bbs/p/pulpathi/pulpath15.jpeg",
         "https://www.meddean.luc.edu/lumen/bbs/p/pulpathi/pulpath16.jpeg"
       ],
-      "clinicalInfo": "Preterm infant with respiratory distress and oxygen dependency"
+      "clinicalInfo": "Newborn male with respiratory distress"
     },
     {
       "diagnosis": "Congenital pulmonary airway malformation (CPAM)",
@@ -24,7 +24,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson10.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorcysticadenomatoidMicroNelson11.jpg"
       ],
-      "clinicalInfo": "Newborn with respiratory distress and cystic lung lesions"
+      "clinicalInfo": "Infant male with respiratory distress"
     },
     {
       "diagnosis": "Sequestrations",
@@ -38,7 +38,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorsequestrationspogoriler12.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorsequestrationspogoriler13.jpg"
       ],
-      "clinicalInfo": "Infant with recurrent infections and abnormal lung mass"
+      "clinicalInfo": "Newborn male with recurrent infections"
     },
     {
       "diagnosis": "Asbestosis",
@@ -49,7 +49,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorasbestosisMunkhdelgerBychkov03.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorasbestosisMunkhdelgerBychkov04.jpg"
       ],
-      "clinicalInfo": "60-year-old male with history of asbestos exposure and dyspnea"
+      "clinicalInfo": "60-year-old male with dyspnea"
     },
     {
       "diagnosis": "Coal workers' pneumoconiosis",
@@ -62,7 +62,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorcoalworker_PathOutPicmicro05.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorcoalworker_PathOutPicmicro07.jpg"
       ],
-      "clinicalInfo": "55-year-old male coal miner with chronic cough and shortness of breath"
+      "clinicalInfo": "55-year-old male with chronic cough"
     },
     {
       "diagnosis": "Silicosis",
@@ -71,7 +71,7 @@
         "https://webpath.med.utah.edu/jpeg1/LUNG084.jpg",
         "https://webpath.med.utah.edu/jpeg1/LUNG086.jpg"
       ],
-      "clinicalInfo": "50-year-old male with silica exposure and progressive dyspnea"
+      "clinicalInfo": "50-year-old male with dyspnea"
     },
     {
       "diagnosis": "Asthma",
@@ -84,7 +84,7 @@
         "https://webpath.med.utah.edu/jpeg1/LUNG182.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Charcot-Leyden_crystals_in_airway-_Asthma.jpg/960px-Charcot-Leyden_crystals_in_airway-_Asthma.jpg?20090822084432"
       ],
-      "clinicalInfo": "30-year-old female with wheezing and shortness of breath"
+      "clinicalInfo": "30-year-old female with wheezing"
     },
     {
       "diagnosis": "Emphysema",
@@ -98,7 +98,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumoremphysemayoshikawa06.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumoremphysemayoshikawa07.jpg"
       ],
-      "clinicalInfo": "65-year-old male smoker with chronic dyspnea and cough"
+      "clinicalInfo": "65-year-old male with dyspnea"
     },
     {
       "diagnosis": "Acute pneumonia",
@@ -119,7 +119,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralAminiaCiobanoiu02.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorinfectionsgeneralAminiaCiobanoiu03.jpg"
       ],
-      "clinicalInfo": "45-year-old male with fever, cough, and chest pain"
+      "clinicalInfo": "45-year-old male with fever and cough"
     },
     {
       "diagnosis": "Aspergillus",
@@ -138,7 +138,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillusmendez02.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumoraspergillusmendez03.jpg"
       ],
-      "clinicalInfo": "50-year-old immunocompromised male with cough and hemoptysis"
+      "clinicalInfo": "50-year-old male with cough"
     },
     {
       "diagnosis": "Nocardia",
@@ -146,7 +146,7 @@
       "images": [
         "https://www.pathologyoutlines.com/imgau/lungnontumornocardiarosen01.jpg"
       ],
-      "clinicalInfo": "55-year-old male with chronic cough and weight loss"
+      "clinicalInfo": "55-year-old male with chronic cough"
     },
     {
       "diagnosis": "Coccidioides",
@@ -155,7 +155,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorcoccidiomicro01.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorcoccidiomicro03.jpg"
       ],
-      "clinicalInfo": "40-year-old male with fever and pulmonary nodules in endemic area"
+      "clinicalInfo": "40-year-old male with fever"
     },
     {
       "diagnosis": "Histoplasma",
@@ -164,7 +164,7 @@
         "https://www.pathologyoutlines.com/images/lunghisto1.jpg",
         "https://www.pathologyoutlines.com/images/lunghisto2.jpg"
       ],
-      "clinicalInfo": "45-year-old male with fever and pulmonary infiltrates"
+      "clinicalInfo": "45-year-old male with fever"
     },
     {
       "diagnosis": "Pneumocystis",
@@ -176,7 +176,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorPCPHusain04.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorPCPpleasingpathology01.jpg"
       ],
-      "clinicalInfo": "35-year-old HIV-positive male with dyspnea and fever"
+      "clinicalInfo": "35-year-old male with dyspnea"
     },
     {
       "diagnosis": "Adenovirus",
@@ -184,7 +184,7 @@
       "images": [
         "https://www.pathologyoutlines.com/imgau/lungnontumoradenovirusweisenberg01.jpg"
       ],
-      "clinicalInfo": "30-year-old male with fever and acute respiratory distress"
+      "clinicalInfo": "30-year-old male with fever"
     },
     {
       "diagnosis": "CMV",
@@ -196,7 +196,7 @@
         "https://www.pathologyoutlines.com/images/lungcmv2.jpg",
         "https://www.pathologyoutlines.com/images/lungcmv1.jpg"
       ],
-      "clinicalInfo": "40-year-old immunocompromised male with fever and cough"
+      "clinicalInfo": "40-year-old male with fever"
     },
     {
       "diagnosis": "COVID-19",
@@ -223,7 +223,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi19.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorcovidigaritakahashiizumi20.jpg"
       ],
-      "clinicalInfo": "50-year-old male with fever, cough, and severe dyspnea"
+      "clinicalInfo": "50-year-old male with dyspnea"
     },
     {
       "diagnosis": "Influenza",
@@ -236,7 +236,7 @@
         "https://www.pathologyoutlines.com/caseofweek/case459image2.jpg",
         "https://www.pathologyoutlines.com/caseofweek/case459image5.jpg"
       ],
-      "clinicalInfo": "40-year-old female with fever, myalgia, and respiratory distress"
+      "clinicalInfo": "40-year-old female with fever"
     },
     {
       "diagnosis": "Granulomatosis with polyangiitis (GPA)",
@@ -251,7 +251,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorgranulomatosiswithpolyangiitisCima09.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorgranulomatosiswithpolyangiitisCima010.jpg"
       ],
-      "clinicalInfo": "50-year-old male with hemoptysis and systemic vasculitis symptoms"
+      "clinicalInfo": "50-year-old male with hemoptysis"
     },
     {
       "diagnosis": "Hypersensitivity pneumonitis",
@@ -281,7 +281,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov022.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorextrinsicallergicBychkov023.jpg"
       ],
-      "clinicalInfo": "45-year-old male with chronic cough and exposure to organic antigens"
+      "clinicalInfo": "45-year-old male with chronic cough"
     },
     {
       "diagnosis": "Sarcoidosis",
@@ -296,7 +296,7 @@
         "https://www.pathologyoutlines.com/imgau/lungsarcoidosiskhanna03.jpg",
         "https://www.pathologyoutlines.com/imgau/lungsarcoidosiskhanna04.jpg"
       ],
-      "clinicalInfo": "40-year-old female with cough and bilateral hilar lymphadenopathy"
+      "clinicalInfo": "40-year-old female with cough"
     },
     {
       "diagnosis": "Interstitial pneumonia with autoimmune features",
@@ -319,7 +319,7 @@
         "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa015.jpg",
         "https://www.pathologyoutlines.com/imgau/lungtumorIPAFYoshikawa016.jpg"
       ],
-      "clinicalInfo": "50-year-old female with dyspnea and autoimmune symptoms"
+      "clinicalInfo": "50-year-old female with dyspnea"
     },
     {
       "diagnosis": "Lipoid pneumonia",
@@ -334,7 +334,7 @@
         "https://www.pathologyoutlines.com/caseofweek/case287image2.jpg",
         "https://www.pathologyoutlines.com/caseofweek/case287image4.jpg"
       ],
-      "clinicalInfo": "60-year-old male with history of aspiration and cough"
+      "clinicalInfo": "60-year-old male with cough"
     },
     {
       "diagnosis": "Lymphoid interstitial pneumonia",
@@ -354,7 +354,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorLIPRosen07.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorLIPRosen08.jpg"
       ],
-      "clinicalInfo": "55-year-old female with autoimmune disease and dyspnea"
+      "clinicalInfo": "55-year-old female with dyspnea"
     },
     {
       "diagnosis": "Nonspecific interstitial pneumonia",
@@ -379,7 +379,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa20.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumornsipyoshikawa24.jpg"
       ],
-      "clinicalInfo": "50-year-old female with progressive dyspnea and cough"
+      "clinicalInfo": "50-year-old female with dyspnea"
     },
     {
       "diagnosis": "Rheumatoid lung disease",
@@ -393,7 +393,7 @@
         "https://www.pathologyoutlines.com/imgau/lungrheumatoidtazelaar06.jpg",
         "https://www.pathologyoutlines.com/imgau/lungrheumatoidtazelaar07.jpg"
       ],
-      "clinicalInfo": "60-year-old female with rheumatoid arthritis and dyspnea"
+      "clinicalInfo": "60-year-old female with dyspnea"
     },
     {
       "diagnosis": "UIP / IPF",
@@ -425,7 +425,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa09.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorUIPYoshikawa19.jpg"
       ],
-      "clinicalInfo": "65-year-old male with progressive dyspnea and dry cough"
+      "clinicalInfo": "65-year-old male with dyspnea"
     },
     {
       "diagnosis": "Desquamative interstitial pneumonitis",
@@ -445,7 +445,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_12.jpeg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorDIPYoshikawa_13.jpeg"
       ],
-      "clinicalInfo": "50-year-old male smoker with dyspnea and cough"
+      "clinicalInfo": "50-year-old male with dyspnea"
     },
     {
       "diagnosis": "Acute fibrinous and organizing pneumonia",
@@ -467,7 +467,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorAFOProsen03.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorAFOProsen04.jpg"
       ],
-      "clinicalInfo": "55-year-old male with acute respiratory failure and fever"
+      "clinicalInfo": "55-year-old male with fever"
     },
     {
       "diagnosis": "Respiratory bronchiolitis",
@@ -476,7 +476,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorrespbronchiolitisKonopka01.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorrespbronchiolitisKonopka02.jpg"
       ],
-      "clinicalInfo": "45-year-old male smoker with mild dyspnea and cough"
+      "clinicalInfo": "45-year-old male with cough"
     },
     {
       "diagnosis": "Acute interstitial pneumonia",
@@ -497,7 +497,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialprosen05.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumoracuteinterstitialprosen07.jpg"
       ],
-      "clinicalInfo": "50-year-old male with rapidly progressive respiratory failure"
+      "clinicalInfo": "50-year-old male with dyspnea"
     },
     {
       "diagnosis": "ARDS / DAD",
@@ -519,7 +519,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageYoshikawa07.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumordiffusealveolardamageYoshikawa08.jpg"
       ],
-      "clinicalInfo": "55-year-old male with acute respiratory distress and hypoxia"
+      "clinicalInfo": "55-year-old male with dyspnea"
     },
     {
       "diagnosis": "Organizing pneumonia",
@@ -540,7 +540,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorBOOP_yoshikawa10.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorBOOP_yoshikawa12.jpg"
       ],
-      "clinicalInfo": "50-year-old male with subacute cough and pulmonary infiltrates"
+      "clinicalInfo": "50-year-old male with cough"
     },
     {
       "diagnosis": "Eosinophilic pneumonia",
@@ -550,7 +550,7 @@
         "https://www.pathologyoutlines.com/caseofweek/case2007105image2.jpg",
         "https://www.pathologyoutlines.com/caseofweek/case2007105image3.jpg"
       ],
-      "clinicalInfo": "45-year-old female with cough and peripheral eosinophilia"
+      "clinicalInfo": "45-year-old female with cough"
     },
     {
       "diagnosis": "Alveolar proteinosis",
@@ -564,7 +564,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumoralveolarproteinGhafoorBoland07.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumoralveolarproteinGhafoorBoland08.jpg"
       ],
-      "clinicalInfo": "40-year-old male with dyspnea and milky bronchoalveolar lavage"
+      "clinicalInfo": "40-year-old male with dyspnea"
     },
     {
       "diagnosis": "Amyloidosis",
@@ -579,7 +579,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumoramyloid_khoor10.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumoramyloid_khoor11.jpg"
       ],
-      "clinicalInfo": "60-year-old male with pulmonary nodules and systemic amyloidosis"
+      "clinicalInfo": "60-year-old male with dyspnea"
     },
     {
       "diagnosis": "Nodular amyloid (amyloidoma)",
@@ -591,7 +591,7 @@
         "https://www.pathologyoutlines.com/caseofweek/case197image3.jpg",
         "https://www.pathologyoutlines.com/caseofweek/case197image4.jpg"
       ],
-      "clinicalInfo": "55-year-old male with asymptomatic pulmonary nodule"
+      "clinicalInfo": "55-year-old male with incidental lung nodule"
     },
     {
       "diagnosis": "Bronchiectasis",
@@ -603,7 +603,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorbronchiectasisChenYost06.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorbronchiectasisChenYost07.jpg"
       ],
-      "clinicalInfo": "50-year-old female with chronic cough and recurrent infections"
+      "clinicalInfo": "50-year-old female with chronic cough"
     },
     {
       "diagnosis": "Infarct / pulmonary emboli",
@@ -618,7 +618,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorinfarcthusain08.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorinfarctmsnsayed1401.jpg"
       ],
-      "clinicalInfo": "60-year-old male with sudden chest pain and dyspnea"
+      "clinicalInfo": "60-year-old male with chest pain"
     },
     {
       "diagnosis": "Plexiform arteriopathy",
@@ -626,7 +626,7 @@
       "images": [
         "https://webpath.med.utah.edu/jpeg1/LUNG153.jpg"
       ],
-      "clinicalInfo": "45-year-old female with pulmonary hypertension and dyspnea"
+      "clinicalInfo": "45-year-old female with dyspnea"
     },
     {
       "diagnosis": "Pulmonary placental transmogrification",
@@ -639,7 +639,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorplacentaltransqiao_12.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorplacentaltransqiao_13.jpg"
       ],
-      "clinicalInfo": "50-year-old male with cystic lung lesion and dyspnea"
+      "clinicalInfo": "50-year-old male with dyspnea"
     },
     {
       "diagnosis": "Transplantation / rejection",
@@ -654,7 +654,7 @@
         "https://www.pathologyoutlines.com/imgau/lungnontumorlungtransp_montero11.jpg",
         "https://www.pathologyoutlines.com/imgau/lungnontumorlungtransp_montero12.jpg"
       ],
-      "clinicalInfo": "40-year-old male post-lung transplant with worsening lung function"
+      "clinicalInfo": "40-year-old male with dyspnea"
     }
   ]
 }
