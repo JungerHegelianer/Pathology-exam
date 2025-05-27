@@ -5,17 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pathology Quiz</title>
     <link rel="stylesheet" href="style.css">
-    <style>
-        #sectionMenu button { display: inline-block !important; margin: 5px; }
-    </style>
+    <script src="script.js" defer></script>
 </head>
 <body>
     <div class="container">
-        <h1>Pathology Quiz</h1>
         <div id="sectionMenu">
             <button data-section="softTissue">Soft Tissue</button>
-            <button data-section="boneAndJoints">Bone & joints</button>
-            <button data-section="headAndNeck">Head & Neck</button>
+            <button data-section="boneJoints">Bone & joints</button>
+            <button data-section="headNeck">Head & Neck</button>
             <button data-section="gi">GI</button>
             <button data-section="liver">Liver</button>
             <button data-section="pancreas">Pancreas</button>
@@ -24,16 +21,18 @@
             <button data-section="kidney">Kidney</button>
             <button data-section="lungs">Lungs</button>
             <button data-section="lungTumors">Lung Tumors</button>
+            <button data-section="mandibleMaxilla">Mandible & Maxilla</button>
         </div>
-        <p id="clinicalInfo"></p>
+        <div id="clinicalInfo"></div>
         <div id="tumorImages"></div>
-        <button id="checkButton" style="display:none;">Check</button>
-        <button id="nextImageButton" style="display:none;">Next Image</button>
-        <button id="showAllImagesButton" style="display:none;">Show All Images</button>
-        <p id="result"></p>
-        <p id="score">Correct answers: 0</p>
-        <button id="nextTumorButton" style="display:none;">Next Case</button>
+        <div id="result"></div>
+        <div>
+            <button id="checkButton">Check</button>
+            <button id="nextImageButton">Next Image</button>
+            <button id="showAllImagesButton">Show All Images</button>
+        </div>
+        <div id="score">Correct answers: 0</div>
+        <button id="nextTumorButton">Next Case</button>
     </div>
-    <script src="script.js"></script>
 </body>
 </html>

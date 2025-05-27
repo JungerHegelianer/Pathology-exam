@@ -1,0 +1,662 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Gingival cyst (adult)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillagingivalcystadult.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca24.jpg",
+        "https://4.bp.blogspot.com/_qcDszpsTE5c/TDz1VZWUMXI/AAAAAAAAAXQ/niv6OW23nIg/s1600/tyutyu.bmp"
+      ],
+      "clinicalInfo": "50-year-old female with gingival swelling"
+    },
+    {
+      "diagnosis": "Glandular odontogenic cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaglandularodontogenic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca25.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1ab9/2807522/2ba2350b4488/12105_2007_24_Fig3_HTML.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cad1/3732642/52884bfa92d2/CRIM.DENTISTRY2013-539234.007.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cad1/3732642/df590d633da6/CRIM.DENTISTRY2013-539234.008.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cad1/3732642/e084233fcf20/CRIM.DENTISTRY2013-539234.009.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cad1/3732642/cc28cb211959/CRIM.DENTISTRY2013-539234.010.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cad1/3732642/17ccce5c0778/CRIM.DENTISTRY2013-539234.011.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cf95/3261596/469ca1b0998f/JCIS-1-54-g007.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6f9a/3210226/efd42204da6b/12105_2011_298_Fig7_HTML.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6f9a/3210226/959626b8ea50/12105_2011_298_Fig8_HTML.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cad1/3732642/1d68890e14bd/CRIM.DENTISTRY2013-539234.004.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cad1/3732642/53343e27d51d/CRIM.DENTISTRY2013-539234.005.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cad1/3732642/c992a4788f26/CRIM.DENTISTRY2013-539234.006.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with jaw swelling"
+    },
+    {
+      "diagnosis": "Inflammatory collateral cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaparadental.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca20.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/2f5b/3098334/3e7467efdb99/12105_2010_233_Fig6_HTML.jpg",
+        "https://images.journals.lww.com/jped/Original.00005097-201230040-00014.F6-14.jpeg"
+      ],
+      "clinicalInfo": "30-year-old male with tooth pain"
+    },
+    {
+      "diagnosis": "Lateral periodontal cyst and botryoid odontogenic cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillalateralperiodontalcyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca23.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8a6d/3536462/595c7705ee55/jod-9-265f5.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with gingival mass"
+    },
+    {
+      "diagnosis": "Nasopalatine duct cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillanasopalatine.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillanasopalatinemagliocca04.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillanasopalatinemagliocca05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillanasopalatinemagliocca06.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillanasopalatinemagliocca07.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillanasopalatinemagliocca09.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillanasopalatinemagliocca10.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillanasopalatinemagliocca11.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with palatal swelling"
+    },
+    {
+      "diagnosis": "Odontogenic keratocyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillakeratocyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillakeratocystmagliocca16.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillakeratocystmagliocca17.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillakeratocystmagliocca18.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillakeratocystmagliocca19.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillakeratocystmagliocca20.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillakeratocystmagliocca21.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca22.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case503img1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case503img2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case503img3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case503img4.jpg"
+      ],
+      "clinicalInfo": "35-year-old male with jaw swelling"
+    },
+    {
+      "diagnosis": "Orthokeratinized odontogenic cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaorthokeratinized.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaorthokeratinizeduddin04.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaorthokeratinizeduddin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaorthokeratinizeduddin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaorthokeratinizeduddin08.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with jaw mass"
+    },
+    {
+      "diagnosis": "Radicular (periapical) cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaperiapicalcyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaperiapicalcystMagliocca09.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaperiapicalcystMagliocca10.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaperiapicalcystMagliocca11.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaperiapicalcystMagliocca12.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with tooth pain"
+    },
+    {
+      "diagnosis": "Residual cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaresidualcyst.html",
+      "images": [
+        "https://infactpublications.com/uploads/INF1000045-figure4.jpg",
+        "https://journals.plos.org/plosone/article/figure/image?size=medium&id=10.1371/journal.pone.0244250.g002",
+        "https://www.researchgate.net/profile/Neeta-Sharma-5/publication/224920138/figure/fig19/AS:325518764331015@1454621129354/Histopathological-section-shows-features-of-residual-cyst.png"
+      ],
+      "clinicalInfo": "50-year-old male with jaw swelling"
+    },
+    {
+      "diagnosis": "Surgical ciliated cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillasurgicalciliatedcyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasurgicalciliatedcystMagliocca02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasurgicalciliatedcystMagliocca03.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasurgicalciliatedcystMagliocca04.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasurgicalciliatedcystMagliocca05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasurgicalciliatedcystMagliocca06.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasurgicalciliatedcystMagliocca07.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasurgicalciliatedcystMagliocca08.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblesurgicalciliatedcystChi01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblesurgicalciliatedcystChi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblesurgicalciliatedcystChi03.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblesurgicalciliatedcystChi04.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblesurgicalciliatedcystChi05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblesurgicalciliatedcystChi06.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with maxillary swelling"
+    },
+    {
+      "diagnosis": "Aneurysmal bone cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneabc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri16.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri17.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri18.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri19.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri20.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri21.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri22.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri23.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneabcNasri24.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca40.jpg"
+      ],
+      "clinicalInfo": "25-year-old male with jaw pain"
+    },
+    {
+      "diagnosis": "Central giant cell granuloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillacentralgiantcellgranuloma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillacentralgiantcellgranulomaUdDin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillacentralgiantcellgranulomaUdDin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillacentralgiantcellgranulomaUdDin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillacentralgiantcellgranulomaUdDin08.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillacentralgiantcellgranulomaUdDin09.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillacentralgiantcellgranulomaUdDin10.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with jaw swelling"
+    },
+    {
+      "diagnosis": "Cherubism",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillacherubism.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca39.jpg"
+      ],
+      "clinicalInfo": "5-year-old male with facial swelling"
+    },
+    {
+      "diagnosis": "Peripheral giant cell granuloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaperipheralgiantcellgranuloma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca38.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with gingival mass"
+    },
+    {
+      "diagnosis": "Simple bone cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillasimplebonecyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca41a.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca41b.jpg"
+      ],
+      "clinicalInfo": "20-year-old male with jaw swelling"
+    },
+    {
+      "diagnosis": "Stafne defect",
+      "articleLink": "https://www.pathologyoutlines.com/topic/oralcavitystafnedefect.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/oralcavitystafnedefectgoldfaden_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/oralcavitystafnedefectgoldfaden_06.jpg",
+        "https://www.pathologyoutlines.com/imgau/oralcavitystafnedefectgoldfaden_07.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with asymptomatic jaw lesion"
+    },
+    {
+      "diagnosis": "Adenoid ameloblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaadenoidameloblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaadenoidameloblastomaBilodeau02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaadenoidameloblastomaBilodeau03.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaadenoidameloblastomaBilodeau04.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaadenoidameloblastomaBilodeau05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaadenoidameloblastomaBilodeau06.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Adenomatoid odontogenic tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaadenomatoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandibleAOTbilodeau01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleAOTbilodeau02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleAOTbilodeau04.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca11.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case490img1.jpg"
+      ],
+      "clinicalInfo": "20-year-old female with jaw swelling"
+    },
+    {
+      "diagnosis": "Ameloblastic fibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaameloblasticfibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca12.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblasticfibromamagliocca03.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblasticfibromamagliocca05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblasticfibromamagliocca06.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblasticfibromamagliocca01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblasticfibromamagliocca02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblasticfibromamagliocca04.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblasticfibromamagliocca07.jpg"
+      ],
+      "clinicalInfo": "15-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Ameloblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaameloblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca08.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca09.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamcleanholden01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamcleanholden02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamcleanholden03.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca10.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca11.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca12.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca13.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca14.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca15.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca16.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca17.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca18.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleameloblastomamagliocca19.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with jaw swelling"
+    },
+    {
+      "diagnosis": "Calcifying epithelial odontogenic tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillacalcifyingepithelial.html",
+      "images": [
+        "https://www.pathologyoutlines.com/images/mandiblemaxillacalcifyingepithelialicroSmith1.jpg",
+        "https://www.pathologyoutlines.com/images/mandiblemaxillacalcifyingepithelialicroSmith2.jpg",
+        "https://www.pathologyoutlines.com/images/mandiblemaxillacalcifyingepithelialicroSmith3.jpg",
+        "https://www.pathologyoutlines.com/images/mandiblemaxillacalcifyingepithelialicroSmith5.jpg",
+        "https://www.pathologyoutlines.com/images/mandiblemaxillacalcifyingepithelialicroSmith6.jpg",
+        "https://www.pathologyoutlines.com/images/mandiblemaxillacalcifyingepithelialicroSmith7.jpg",
+        "https://www.pathologyoutlines.com/images/mandiblemaxillacalcifyingepithelialicroSmith8.jpg",
+        "https://www.pathologyoutlines.com/images/mandiblemaxillacalcifyingepithelialicroSmith9.jpg",
+        "https://www.pathologyoutlines.com/images/mandiblemaxillacalcifyingepithelialicroSmith10.jpg",
+        "https://www.pathologyoutlines.com/images/mandiblemaxillacalcifyingepithelialicroSmith11.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Cementoblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillacementoblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca18.jpg"
+      ],
+      "clinicalInfo": "25-year-old male with tooth pain"
+    },
+    {
+      "diagnosis": "Cemento-ossifying fibroma / ossifying fibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaossifyingfibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaossifyingfibromaJaveed01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaossifyingfibromaJaveed02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaossifyingfibromaJaveed03.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca34.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaossifyingfibromaMagliocca01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaossifyingfibromaSmith06.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaossifyingfibromaSmith07.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaossifyingfibromaSmith08.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with jaw swelling"
+    },
+    {
+      "diagnosis": "Dentinogenic ghost cell tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxilladentinogenicghost.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca15.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleDGCTnelson01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleDGCTnelson02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleDGCTmclean01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleDGCTmclean02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleDGCTmclean03.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleDGCTmclean04.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Odontogenic fibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaodontogenicfibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca16.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleodontogenicfibromaMagliocca01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleodontogenicfibromaMagliocca02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleodontogenicfibromaMagliocca03.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleodontogenicfibromaMagliocca04.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleodontogenicfibromaMagliocca05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleodontogenicfibromaMagliocca06.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleodontogenicfibromaMagliocca07.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleodontogenicfibromaMagliocca08.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with jaw swelling"
+    },
+    {
+      "diagnosis": "Odontogenic myxoma / fibromyxoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillamyxoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillamyxomalimbach01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillamyxomalimbach02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca17.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleodontogenicmyxomaMagliocca01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleodontogenicmyxomaMagliocca02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandibleodontogenicmyxomaMagliocca03.jpg"
+      ],
+      "clinicalInfo": "35-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Odontoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaodontoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca14.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaodontomamagliocca06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaodontomamagliocca07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaodontomamagliocca08new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaodontomamagliocca01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaodontomamagliocca02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaodontomamagliocca03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaodontomamagliocca05new.jpg"
+      ],
+      "clinicalInfo": "20-year-old male with jaw swelling"
+    },
+    {
+      "diagnosis": "Squamous odontogenic tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillasquamousodon.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca9.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasquamousodonmagliocca01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasquamousodonmagliocca03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasquamousodonmagliocca04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasquamousodonmagliocca05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasquamousodonmagliocca06new.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Cemento-osseous dysplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillafloridcemento.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca36.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillafloridcementoislam08.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillafloridcementoislam09.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillafloridcementoislam10.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with asymptomatic jaw lesion"
+    },
+    {
+      "diagnosis": "Chondromyxoid fibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonechondromyxoidfibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin01.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin02.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin03.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin04.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin08.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin09.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneCMFuddin10.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with jaw pain"
+    },
+    {
+      "diagnosis": "Chondroblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonechondroblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonechondroblastomapatton01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondroblastomapatton02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondroblastomapatton03.jpg"
+      ],
+      "clinicalInfo": "20-year-old male with jaw pain"
+    },
+    {
+      "diagnosis": "Desmoplastic fibroma of bone",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonedesmoplasticfibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca33.jpg"
+      ],
+      "clinicalInfo": "25-year-old female with jaw mass"
+    },
+    {
+      "diagnosis": "Fibrous dysplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonefibrousdysplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonefibrousdysplasiaMantilla05update.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonefibrousdysplasiaMantilla06update.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonefibrousdysplasiaMantilla07update.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca35.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillafibrousdysplasiamagliocca01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillafibrousdysplasiamagliocca02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillafibrousdysplasiamagliocca03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillafibrousdysplasiamagliocca04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonefibrousdysplasiaJMGardnerMD01.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with facial deformity"
+    },
+    {
+      "diagnosis": "Juvenile trabecular ossifying fibroma and psammomatoid ossifying fibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillajuvossifyingfibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillajuvossifyingfibromamagliocca01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillajuvossifyingfibromamagliocca02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillajuvossifyingfibromamagliocca03new.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/26cf/5292216/00491448ec9f/MA-70-470-g004.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d75b/4947081/6b202009aa44/40064_2016_2758_Fig4_HTML.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d18/4542796/7da086023850/12105_2014_595_Fig3_HTML.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9d18/4542796/ea70c9ce1124/12105_2014_595_Fig4_HTML.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1512/4836097/aa1f886e2d62/IJDENT-7-44-g006.jpg"
+      ],
+      "clinicalInfo": "15-year-old male with jaw swelling"
+    },
+    {
+      "diagnosis": "Osteochondroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneosteochondroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneosteochondromaMantillamicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteochondromaMantillamicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteochondromaMantillamicro3.jpg"
+      ],
+      "clinicalInfo": "25-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Osteoblastoma, NOS",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneosteoblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomaalexiev04.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomaalexiev05.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomaalexiev06.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas10.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas11.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas12.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas13.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas15.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteoblastomalucas16.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with jaw pain"
+    },
+    {
+      "diagnosis": "Osteoma, NOS",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneosteoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneosteomaroza01.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteomaroza05.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteomaroza02.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneosteomaroza03.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Calcium pyrophosphate crystal deposition disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/jointspseudogout.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/jointspseudogoutUdDin04.jpg",
+        "https://www.pathologyoutlines.com/imgau/jointspseudogoutUdDin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/jointspseudogoutUdDin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/jointspseudogoutUdDin08.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with jaw pain"
+    },
+    {
+      "diagnosis": "Melanotic neuroectodermal tumor of infancy",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaPigNEtumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca32.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblePigNEtumorfritchie01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblePigNEtumorfritchie02.jpg"
+      ],
+      "clinicalInfo": "1-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Odontoameloblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaodontoameloblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case367image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case367image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case367image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case367image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case367image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case367image6.jpg"
+      ],
+      "clinicalInfo": "35-year-old male with jaw swelling"
+    },
+    {
+      "diagnosis": "Ameloblastic carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaameloblasticcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca1a.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca1b.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaameloblasticcarcinomamagliocca05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaameloblasticcarcinomamagliocca06.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillaameloblasticcarcinomamagliocca07.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Clear cell odontogenic carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaclearcellodontogenic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca4.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7cd2/4409194/2a98eca6fa66/JOMFP-18-442-g003.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e43a/4405972/cd7805871787/NJMS-5-221-g003.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a7e8/3687196/c66014bd8241/JOMFP-17-89-g003.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b0c9/4678559/d341c5ea1ccf/CCD-6-559-g004.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with jaw swelling"
+    },
+    {
+      "diagnosis": "Ghost cell odontogenic carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaghostcellodontogeniccarcinoma.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/36cd/4774292/6610fa135983/JOMFP-19-371-g001.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/36cd/4774292/8bc059af3841/JOMFP-19-371-g002.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/36cd/4774292/c22453bd7fcf/JOMFP-19-371-g005.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9fc/4600987/091c7728b03b/rt-2015-3-5813-g001.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6c92/4607801/0fa83f059ef5/PAMJ-21-260-g005.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6c92/4607801/465be7f552d4/PAMJ-21-260-g006.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Odontogenic sarcoma / ameloblastic fibrosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaameloblasticfibrosarcoma.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/36fd/4377457/e4bc01500672/CRIPA2015-245026.002.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8f07/4186476/15807c5c81b5/ETM-08-05-1463-g02.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4b8d/3927348/11402f7e7cba/JOMFP-17-424-g003.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5876/4550047/0e69289b86f0/amjcaserep-16-548-g001.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/5876/4550047/a78ab42908fc/amjcaserep-16-548-g007.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with jaw swelling"
+    },
+    {
+      "diagnosis": "Primary intraosseous carcinoma, NOS",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillaprimaryintraosseouscarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case200773image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case200773image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case200773image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case200773image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case200773image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case200773image7.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with jaw pain"
+    },
+    {
+      "diagnosis": "Sclerosing odontogenic carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillasclerosingodontogenic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasclerosingodontogenicmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasclerosingodontogenicmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasclerosingodontogenicmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasclerosingodontogenicmicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasclerosingodontogenicmicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillasclerosingodontogenicmicro06.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with jaw mass"
+    },
+    {
+      "diagnosis": "Calcifying odontogenic cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillacalcifyingodontogenic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillacalcifyingodontogenic_Hunter05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillacalcifyingodontogenic_Hunter06.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillacalcifyingodontogenic_Bilodeau07.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillacalcifyingodontogenic_Hunter08.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with jaw swelling"
+    },
+    {
+      "diagnosis": "Dentigerous cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxilladentigerous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxilladentigerousMagliocca05.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxilladentigerousMagliocca06.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxilladentigerousMagliocca07.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMagliocca21.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMaglioccanew01.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillawhoMaglioccanew02.jpg"
+      ],
+      "clinicalInfo": "25-year-old male with jaw swelling"
+    },
+    {
+      "diagnosis": "Chondrosarcoma (primary, secondary, periosteal)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonechondrosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bonechondrosarcomaQasemmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondrosarcomaQasemmicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondrosarcomaQasemmicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/bonechondrosarcomaQasemmicro5.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with jaw pain"
+    },
+    {
+      "diagnosis": "Mesenchymal chondrosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/softtissueeskchondrosarcomamesenchymal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger03.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger04.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger05.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger06.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger07.jpg",
+        "https://www.pathologyoutlines.com/imgau/softtissueeskchondrosarcomamesenchymalBrcicLiegl-Atzwanger08.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with jaw mass"
+    },
+    {
+      "diagnosis": "Rhabdomyosarcoma with TFCP2 rearrangement",
+      "articleLink": "https://www.pathologyoutlines.com/topic/mandiblemaxillarhabdomyosarcomaTFCP2.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillarhabdomyosarcomaTFCP2MicroFletcher1.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillarhabdomyosarcomaTFCP2MicroFletcher2.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillarhabdomyosarcomaTFCP2MicroFletcher3.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillarhabdomyosarcomaTFCP2MicroFletcher4.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillarhabdomyosarcomaTFCP2MicroFletcher5.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillarhabdomyosarcomaTFCP2MicroFletcher6.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillarhabdomyosarcomaTFCP2MicroFletcher14.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillarhabdomyosarcomaTFCP2MicroFletcher15.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillarhabdomyosarcomaTFCP2MicroFletcher16.jpg",
+        "https://www.pathologyoutlines.com/imgau/mandiblemaxillarhabdomyosarcomaTFCP2MicroFletcher17.jpg"
+      ],
+      "clinicalInfo": "25-year-old male with jaw swelling"
+    }
+  ]
+}
