@@ -1,0 +1,1247 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Acute mastitis / abscess",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastacutemastitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastacutemastitisMuller01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastacutemastitisMuller03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastacutemastitisMuller04.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case515img3.JPG",
+        "https://www.pathologyoutlines.com/caseofweek/Case515img4.JPG",
+        "https://www.pathologyoutlines.com/caseofweek/Case515img5.JPG"
+      ],
+      "clinicalInfo": "30-year-old female with breast pain and swelling"
+    },
+    {
+      "diagnosis": "Amyloid",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastamyloidtumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/wick/breast/amyloidosismicro.jpg",
+        "https://www.pathologyoutlines.com/wick/breast/amyloidtumorparenchymacongored.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Benign breast implant related changes",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastimplantchanges.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastimplantchangesMicroJorns1.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastimplantchangesMicroAi01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastimplantchangesMicroJorns2.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastimplantchangesMicroAi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastimplantchangesMicroAi08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastimplantchangesMicroAi07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastimplantchangesMicroAi09.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast swelling"
+    },
+    {
+      "diagnosis": "Cystic neutrophilic granulomatous mastitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastcysticgranulomatousmastitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastcysticgranulomatousmastitisWu01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcysticgranulomatousmastitisWu02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcysticgranulomatousmastitisWu03.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case462image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case462image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case462image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case462image4.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Duct ectasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastductectasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastductectasia_DiezFreire01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductectasia_DiezFreire02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductectasia_DiezFreire03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductectasia_DiezFreire04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductectasia_DiezFreire05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductectasia_DiezFreire06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductectasia_DiezFreire07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductectasia_DiezFreire08.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with nipple discharge"
+    },
+    {
+      "diagnosis": "Fat necrosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastfatnecrosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastfatnecrosismicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfatnecrosismicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfatnecrosismicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfatnecrosismicro07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfatnecrosismicro08.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Idiopathic granulomatous mastitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastgranulomatousmastitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastgranulomatousmastitis_Marotti01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgranulomatousmastitis_Marotti02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgranulomatousmastitis_Marotti03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgranulomatousmastitis_Marotti04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgranulomatousmastitis_Sanders03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgranulomatousmastitis_Sanders04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgranulomatousmastitis_Sanders05.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with breast swelling"
+    },
+    {
+      "diagnosis": "Lymphocytic / diabetic mastitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastlymphocyticmastitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastlymphocyticmastitismuller02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlymphocyticmastitismuller03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlymphocyticmastitismuller04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlymphocyticmastitismuller05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlymphocyticmastitismuller06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlymphocyticmastitismuller07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlymphocyticmastitismuller08.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast pain"
+    },
+    {
+      "diagnosis": "Silicone leak / lymphadenopathy",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastsiliconebreastimplants.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastsiliconebreastimplantsHoda02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsiliconebreastimplantsHoda3.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsiliconebreastimplantsJorns01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsiliconebreastimplantsJorns02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsiliconebreastimplantsJorns03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsiliconebreastimplantsJorns04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsiliconebreastimplantsJorns05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsiliconebreastimplantsJorns06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsiliconebreastimplantsJorns08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsiliconebreastimplantsJorns09.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast swelling"
+    },
+    {
+      "diagnosis": "SMOLD",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastsmold.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka14.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmoldhallbiernacka15.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmold_sanders01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsmold_sanders02.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Sparganosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastsparganosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastsparganosisPritt01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsparganosisPritt02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsparganosisPritt03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsparganosisPritt04.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Tuberculosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastTB.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastTBTomar04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastTBTomar05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastTBTomar06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastTBTomar07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastTBTomar08.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Adenosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastadenosisgeneral.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastadenosisgeneralJorns01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadenosisgeneralJorns03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadenosisgeneralJorns04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadenosisgeneralJorns02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadenosisgeneralJorns02a.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Columnar cell change / hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastcolumnarcelllesion.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastcolumnarcelllesionMarotti04.JPG",
+        "https://www.pathologyoutlines.com/imgau/breastcolumnarcelllesionMarotti05.JPG",
+        "https://www.pathologyoutlines.com/imgau/breastcolumnarcelllesionMarotti06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcolumnarcelllesionMarotti07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcolumnarcelllesionMarotti08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcolumnarcelllesionMarotti09.JPG"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Microcysts",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastcysts.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastcystsMuller5.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcystsMuller06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcystsMuller07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcystsMuller08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcystsMuller09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcystsMuller10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcystsMuller11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcystsMuller13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcystsMuller16.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Nonproliferative fibrocystic changes",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastfcc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastfccmicroAgarwal1.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfccmicroAgarwal2.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfccmicroAgarwal3.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfccmicroAgarwal4.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast pain"
+    },
+    {
+      "diagnosis": "Radial scar / complex sclerosing lesion",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastradialscar.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller12.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Sclerosing adenosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastsclerosingadenosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastsclerosingadenosisJorns03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsclerosingadenosisJorns05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsclerosingadenosisJorns07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsclerosingadenosisJorns08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsclerosingadenosisJorns09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsclerosingadenosisJorns11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsclerosingadenosisJorns13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastsclerosingadenosisJorns14.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Usual ductal hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastepithelialductalhyperplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastepithelialductalhyperplasiaLerwill01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastepithelialductalhyperplasiaLerwill02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastepithelialductalhyperplasiaLerwill03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastepithelialductalhyperplasiaLerwill04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastepithelialductalhyperplasiaLerwill05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastepithelialductalhyperplasiaLerwill06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastepithelialductalhyperplasiaLerwill07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastepithelialductalhyperplasiaLerwill08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductalhyperplasiaLerwill09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastepithelialductalhyperplasiaLerwill10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastepithelialductalhyperplasiaLerwill11.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Collagenous spherulosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastcollageneousspherulosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastcollageneousspherulosisGencoHajiyeva01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcollageneousspherulosisGencoHajiyeva02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcollageneousspherulosisGencoHajiyeva03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcollageneousspherulosisGencoHajiyeva04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcollageneousspherulosisGencoHajiyeva05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcollageneousspherulosisGencoHajiyeva06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcollageneousspherulosisGencoHajiyeva08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcollageneousspherulosisGencoHajiyeva09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcollageneousspherulosisGencoHajiyeva13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastcollageneousspherulosisGencoHajiyeva16.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Cystic hypersecretory hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastcystichypersecretoryhyperplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastCHHmuller01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastCHHmuller02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastCHHmuller04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastCHHmuller05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastCHHmuller06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastCHHmuller07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastCHHmuller08.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Galactocele",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastgalactocele.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastgalactoceleAnjum02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgalactoceleAnjum03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgalactoceleAnjum04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgalactoceleAnjum05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgalactoceleAnjum06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgalactoceleAnjum07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgalactoceleAnjum08new.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgalactoceleAnjum09new.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with breast mass during lactation"
+    },
+    {
+      "diagnosis": "Lactating adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastlactatingadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastlactatingadenoma_muller03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlactatingadenoma_muller05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlactatingadenoma_muller06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlactatingadenoma_muller07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlactatingadenoma_muller08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlactatingadenoma_muller09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastlactatingadenoma_muller10.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with breast mass during pregnancy"
+    },
+    {
+      "diagnosis": "Pseudoangiomatous stromal hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastpash.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastpashAgarwal01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpashAgarwal02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpashAgarwal03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpashAgarwal07.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Secretory change",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastpseudolactionalhyperplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastpseudolactionalhyperplasiabachert01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpseudolactionalhyperplasiabachert02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpseudolactionalhyperplasiabachert03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpseudolactionalhyperplasiabachert04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpseudolactionalhyperplasiabachert05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpseudolactionalhyperplasiabachert06.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Fibroadenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastfibroadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian14.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian16.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian15.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian17.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian18.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Tozbikian19.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenoma_Zynger01.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Fibroadenomatoid change",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastfibroadenomatoidchange.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenomatoidchangealexander01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenomatoidchangealexander02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenomatoidchangealexander03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenomatoidchangealexander04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenomatoidchangealexander05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenomatoidchangealexander06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenomatoidchangealexander08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenomatoidchangealexander09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenomatoidchangealexander10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenomatoidchangealexander11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibroadenomatoidchangealexander12.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Hamartoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breasthamartoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breasthamartomaagarwal01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breasthamartomaagarwal02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breasthamartomaagarwal03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breasthamartomaagarwal04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breasthamartomaagarwal05.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Phyllodes tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastphyllodesgeneral.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse14.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse15.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastphyllodesgenerallitse16.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Tubular adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breasttubularadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breasttubularadenomaLiTse01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breasttubularadenomaLiTse02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breasttubularadenomaLiTse05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breasttubularadenomaLiTse06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breasttubularadenomaMunkhdelgerBychkov01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breasttubularadenomaMunkhdelgerBychkov02.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Adenomyoepithelioma & malignant adenomyoepithelioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastadenomyo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/adenomyomicro01.jpeg",
+        "https://www.pathologyoutlines.com/imgau/adenomyomicro02.jpeg",
+        "https://www.pathologyoutlines.com/imgau/adenomyomicro03.jpeg",
+        "https://www.pathologyoutlines.com/imgau/adenomyomicro04.jpeg",
+        "https://www.pathologyoutlines.com/imgau/breastadenomyomicro01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadenomyomicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadenomyomicro04.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Pleomorphic adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmixedtumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmixedtumorjaffer03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmixedtumorjaffer04.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Atypical vascular proliferation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastatypicalvascular.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastatypicalvascularAgarwal01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastatypicalvascularAgarwal02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastatypicalvascularAgarwal03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastatypicalvascularJornsmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastatypicalvascularJornsmicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastatypicalvascularJornsmicro02.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with skin changes"
+    },
+    {
+      "diagnosis": "Ductal adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastductaladenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastductaladenomaCrespoRamosBiernacka01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductaladenomaCrespoRamosBiernacka02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductaladenomaCrespoRamosBiernacka03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductaladenomaCrespoRamosBiernacka04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductaladenomaCrespoRamosBiernacka05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductaladenomaCrespoRamosBiernacka06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductaladenomaCrespoRamosBiernacka07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductaladenomaCrespoRamosBiernacka008.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductaladenomaCrespoRamosBiernacka009.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastductaladenomaCrespoRamosBiernacka010.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Fibromatosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastfibromatosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastfibromatosisLaBoy05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibromatosisLaBoy06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibromatosisLaBoy07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibromatosisLaBoy08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastfibromatosisLaBoy09.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Granular cell tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastgct.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastgctLucenoBiernacka03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgctLucenoBiernacka04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgctLucenoBiernacka05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgctLucenoBiernacka06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastgctLucenoBiernacka07.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Intraductal papilloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastpapilloma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastpapillomali01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpapillomali02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpapillomali03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpapillomali04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpapillomali07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpapillomali09.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with nipple discharge"
+    },
+    {
+      "diagnosis": "Leiomyoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastleiomyoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastleiomyomaMicroTomar02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastleiomyomaMicroTomar03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastleiomyomaMicroTomar04.jpg",
+        "https://www.pathologyoutlines.com/wick/breast/leiomyomaskinmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastleiomyomaMicroJorns01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastleiomyomaMicroJorns04.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Microglandular adenosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmicroglandularadenosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmicroglandularadenosisJorns03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmicroglandularadenosisJorns04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmicroglandularadenosisJorns06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmicroglandularadenosisJorns08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmicroglandularadenosisJorns09.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Myofibroblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmyofibroblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro14.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro15.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro16.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro17.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro18.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro19.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case536img1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case536img2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case536img3.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Nipple adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastnipplead.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastnippleadBerman01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadBerman02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadBerman03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadBerman05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadBerman06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadBerman07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadBerman08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadBerman09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadMrkonjic01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadMrkonjic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadMrkonjic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadMrkonjic04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadMrkonjic08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadMrkonjic09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnipplead_Sanders01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnipplead_Sanders02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnipplead_Sanders03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnipplead_Sanders04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnipplead_Sanders05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnipplead_Sanders06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastnippleadMrkonjic05.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with nipple mass"
+    },
+    {
+      "diagnosis": "Syringomatous tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastsyringomatousadenomanipple.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breast/breastsyringomatousadenomanippleReisenbichler01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breast/breastsyringomatousadenomanippleReisenbichler02.jpg",
+        "https://www.pathologyoutlines.com/wick/breast/syringomatousadenomanipplemicro1.jpg",
+        "https://www.pathologyoutlines.com/wick/breast/syringomatousadenomanippleperineurialinvamicro.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/926a/2803915/831d94e8998b/1757-1626-2-9118-1.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/926a/2803915/3ff4fedf65fd/1757-1626-2-9118-2.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/926a/2803915/8e3752c89da8/1757-1626-2-9118-3.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/926a/2803915/f3c1968eeb3c/1757-1626-2-9118-4.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/926a/2803915/7d0fda78875f/1757-1626-2-9118-5.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with nipple mass"
+    },
+    {
+      "diagnosis": "Atypical lobular hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastalh.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastalhStatz01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastalhStatz02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastalhStatz03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastalhStatz04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastalhStatz05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastalhStatz06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastalhStatz07.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Lobular carcinoma in situ (LCIS) classic",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantlcis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpleolcisBiernacka01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpleolcisBiernacka02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpleolcisBiernacka05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpleolcisBiernacka06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpleolcisBiernacka07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpleolcisBiernacka08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpleolcisBiernacka10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpleolcisBiernacka11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpleolcisBiernacka12.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Atypical ductal hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastadh.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastadh_jorns28.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadhmicroJorns01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadhmicroJorns04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadh_jorns24.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadh_jorns25.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadh_jorns27.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadh_jorns26.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadhmicroJorns05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadh_jorns02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastadhmicroJorns03.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Flat epithelial atypia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastflatepithelialatypia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastflatepithelialatypiajorns01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastflatepithelialatypiajorns02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastflatepithelialatypiajorns03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastflatepithelialatypiajorns04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastflatepithelialatypiajorns05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastflatepithelialatypiajorns06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastflatepithelialatypiajorns07.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "DCIS",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantDCIS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian14.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian15.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian16.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian17.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian18.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantDCISTozbikian19.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case533img2.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Paget disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantpaget.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastpagetbiernacka_11.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with nipple erythema"
+    },
+    {
+      "diagnosis": "Encapsulated papillary carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantencapsulatedpapillary.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantencapsulatedpapillaryMuller01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantencapsulatedpapillaryMuller02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantencapsulatedpapillaryMuller05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantencapsulatedpapillaryMuller07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantencapsulatedpapillaryMuller08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantencapsulatedpapillaryMuller09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantencapsulatedpapillaryMuller12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantencapsulatedpapillaryMuller13.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case518img03.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case518img05.jpg"
+      ],
+      "clinicalInfo": "65-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Solid papillary carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantsolidpapillarycarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantsolidpapillarycarcinomaLerwill04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantsolidpapillarycarcinomaLerwill05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantsolidpapillarycarcinomaLerwill06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantsolidpapillarycarcinomaLerwill07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantsolidpapillarycarcinomaLerwill08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantsolidpapillarycarcinomaLerwill12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantsolidpapillarycarcinomaLerwill13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantsolidpapillarycarcinomaLerwill14.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantsolidpapillarycarcinomaLerwill15.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantsolidpapillarycarcinomaLerwill16.jpg"
+      ],
+      "clinicalInfo": "70-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Inflammatory carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantinflamcar.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarManjeemicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarManjeemicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarManjeemicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarManjeemicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarManjeemicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarManjeemicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarManjeemicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarManjeemicro11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarManjeemicro12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarLi01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarLi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarLi03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarLi04.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast swelling and skin changes"
+    },
+    {
+      "diagnosis": "Invasive breast cancer of no special type (NST)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantductalNOS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantductalNOSJorns01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantductalNOSJorns02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantductalNOSJorns03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantductalNOSJorns04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantductalNOSJorns06.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Medullary carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantmedullary.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullaryWelter01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullaryWelter02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullaryWelter03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullaryWelter04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullaryWelter05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullaryWelter06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullaryWelter07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullaryjorns02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullaryjorns03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullaryjorns04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullarySeoparjooAzmel01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullarySeoparjooAzmel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmedullarySeoparjooAzmel03.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Glycogen rich",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastglycogenrich.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/31e1/3214681/92e953862135/cro0004-0452-f02.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/31e1/3214681/a6b64ce1b979/cro0004-0452-f04.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4e91/2386120/2f0e28d6ee96/1477-7819-6-44-2.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Osteoclast carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastosteoclast.html",
+      "images": [
+        "https://pathorama.ch/storage/samples/007936.jpg",
+        "https://pathorama.ch/storage/samples/007937.jpg",
+        "https://pathorama.ch/storage/samples/007935.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Invasive lobular carcinoma classic",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantlobularclassic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularclassicLi1.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularclassicLi2.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularclassicLi3.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularclassicLi4.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularclassicLi6.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularclassicLi7.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularclassicMuller1.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularclassicMuller2.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularclassicMuller3.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Pleomorphic invasive lobular carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantlobularpleomorphic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphic_Podoll06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphic_Podoll05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphic_Podoll03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphic_Podoll01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphic_Podoll04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka14.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka15.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka16.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka17.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlobularpleomorphicCrespoRamosBiernacka18.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Metaplastic carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantmetaplastic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticzhang01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticzhang02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticzhang07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticzhang08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticzhang09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticjorns01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticjorns02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticjorns03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticjorns04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticjorns06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticjorns07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticjorns08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmetaplasticjorns10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantwhoclassification_Agarwal05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantwhoclassification_Agarwal06.jpg",
+        "https://www.pathologyoutlines.com/dw/breastmalignantmetaplasticvranic01.jpg",
+        "https://www.pathologyoutlines.com/dw/breastmalignantmetaplasticvranic02.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Low grade adenosquamous",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantadenosquamous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantadenosquamous_Ginter03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantadenosquamous_Ginter04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantadenosquamous_Ginter05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantadenosquamous_Ginter06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantadenosquamous_Ginter07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantadenosquamous_Ginter08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantadenosquamous_Ginter10.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Squamous cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantscc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastSCCrana03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastSCCrana04.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Neuroendocrine carcinoma (NEC)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastNEC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastNECLi_Tse01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastNECLi_Tse02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastNECLi_Tse03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastNECMuller02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastNECMuller03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastNECLiTse05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastNECLiTse07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastNECLiTse08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastNECLiTse09.jpg"
+      ],
+      "clinicalInfo": "65-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Neuroendocrine tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantneuroendocrine.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantneuroendocrineLiTse03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantneuroendocrineLiTse06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantneuroendocrineLiTse09.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Acinic cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantaciniccellcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantaciniccellcarcinomaMrkonjic01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantaciniccellcarcinomaMrkonjic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantaciniccellcarcinomaMrkonjic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantaciniccellcarcinomaMrkonjic04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantaciniccellcarcinomaMrkonjic05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantaciniccellcarcinomaMrkonjic12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantaciniccellcarcinomaMrkonjic13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantaciniccellcarcinomaMrkonjic14.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Adenoid cystic",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantadenoidcystic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantadenoidcystic_tozbikian04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantadenoidcystic_tozbikian05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantadenoidcystic_tozbikian07.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Apocrine carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantapocrine.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantapocrineMarotti03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantapocrineMarotti07.jpg"
+      ],
+      "clinicalInfo": "65-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Cribriform carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantcribriform.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcribriformShankaralingappa02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcribriformShankaralingappa03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcribriformShankaralingappa04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcribriformShankaralingappa06.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Microinvasive carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantmicroinvasion.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmicroinvasionharmon01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmicroinvasionharmon03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmicroinvasionharmon04.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Micropapillary carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantmicropapillary.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmicropapillarysingh08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmicropapillarysingh09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmicropapillarysingh05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmicropapillarysingh13.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Mucinous carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantmucinous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmucinousLaBoy05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmucinousLaBoy09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmucinousLaBoy10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmucinousLaBoy11.jpg"
+      ],
+      "clinicalInfo": "65-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Mucoepidermoid",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantmucoepidermoid.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/73/Mucoepidermoid_carcinoma_%282%29_HE_stain.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/17/Mucoepidermoid_carcinoma_%283%29_HE_stain.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Papillary carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantpapillary.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpapillaryrosa01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpapillaryrosa02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpapillaryrosa03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpapillaryrosa04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpapillaryrosa05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpapillaryrosa06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpapillaryrosa07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpapillaryrosa08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpapillaryrosa09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantpapillaryrosa10.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Secretory carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantjuvenile.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantjuvenileTozbikian001.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantjuvenileTozbikian002.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantjuvenileTozbikian005.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantjuvenileTozbikian006.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantjuvenileTozbikian007.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantjuvenileTozbikian008.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantjuvenileTozbikian009.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantjuvenileTozbikian010.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case20058image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case20058image2.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Tall cell carcinoma with reverse polarity",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantspcrp.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantspcrp_Nam08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantspcrp_Nam04n.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantspcrp_Nam05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantspcrp_Nam06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantspcrp_Nam12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantspcrp_Nam07.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Tubular carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignanttubular.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubularJornsmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubularJornsmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubularJornsmicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubularJornsmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubularJornsmicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubularJornsmicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubularJornsmicro07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubularJornsmicro08.jpg",
+        "https://www.pathologyoutlines.com/wick/breast/tubularcarcinomamicro1.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Myoepithelioma and myoepithelial carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmyoepithelioma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmyoepitheliomaMicroJorns3.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyoepitheliomaMicroJorns4.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyoepitheliomaMicroJorns5.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyoepitheliomaMicroJorns6.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Tubulolobular carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignanttubulolobular.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubulolobularBachert01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubulolobularBachert02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubulolobularBachert03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubulolobularBachert04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignanttubulolobularBachert05.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Cystic hypersecretory carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantcystichypersecretoryinvasive.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcystichypersecretoryinvasiveSciallis02n.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcystichypersecretoryinvasiveSciallis03n.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcystichypersecretoryinvasiveSciallis04n.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcystichypersecretoryinvasiveSciallis05n.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcystichypersecretoryinvasiveSciallis06n.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcystichypersecretoryinvasiveSciallis07n.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcystichypersecretoryinvasiveMuller01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantcystichypersecretoryinvasiveMuller02.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Angiosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantangiosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantangiosarcomaLerwill04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantangiosarcomaLerwill06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantangiosarcomaLerwill07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantangiosarcomaLerwill08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantangiosarcomaLerwill09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantangiosarcomaLerwill10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantangiosarcomaLerwill11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantangiosarcomaLerwill12.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Leiomyosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantRMS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantLMSreisenbichler1.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantLMSreisenbichler2.jpg",
+        "https://www.pathologyoutlines.com/wick/breast/leiomyosarcomainvolvidermismicro.jpg",
+        "https://www.pathologyoutlines.com/wick/breast/leiomyosarcomaparenchymamicro.jpg",
+        "https://www.pathologyoutlines.com/wick/breast/leiomyosarcomaparenchymamicro2.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Low grade myofibroblastic sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantRMS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/wick/breast/sarcomamamstromalmyofibroblastic.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Osteosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantRMS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/BreastmalignantOSReisenbichler1.jpg",
+        "https://www.pathologyoutlines.com/imgau/BreastmalignantOSReisenbichler2.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastosteosarcoma_2x.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastosteosarcoma_chondroblasticdiff.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastosteosarcoma_giantcells.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastosteosarcoma_maligosteoid2.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Stromal sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantRMS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/topic/breastmalignantstromalsarcomaReisenbichler02.jpg",
+        "https://www.pathologyoutlines.com/topic/breastmalignantstromalsarcomaReisenbichler01.jpg",
+        "https://www.pathologyoutlines.com/wick/breast/sarcomamammarystromamicro.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Undifferentiated pleomorphic sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantRMS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmfh_Reisenbichler01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantmfh_Reisenbichler02.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Breast implant associated anaplastic large cell lymphoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantimplantalcl.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantimplantalclabdellatif_12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantimplantalclabdellatif_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantimplantalclabdellatif_05.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case512img2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case512img3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case512img4.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with breast swelling"
+    },
+    {
+      "diagnosis": "Lymphoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmalignantlymphoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlymphoma_tozbikian12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlymphoma_tozbikian02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlymphoma_tozbikian03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlymphoma_tozbikian04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlymphoma_tozbikian13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlymphoma_tozbikian17.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlymphoma_tozbikian14.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlymphoma_tozbikian18.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlymphoma_tozbikian15.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlymphoma_tozbikian16.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmalignantlymphoma_tozbikian19.jpg",
+        "https://www.pathologyoutlines.com/images/breastcll1.jpg",
+        "https://www.pathologyoutlines.com/images/breastcll2.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with breast mass"
+    }
+  ]
+}
