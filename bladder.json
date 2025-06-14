@@ -1,0 +1,711 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Arteriovenous malformation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderAVM.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderAVMAndrew_Fltv01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderAVMAndrew_Fltv02.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Urachus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderurachus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderurachuszoshchuk03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurachuszoshchuk04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurachuszoshchuk05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurachusmorisetti01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurachusmorisetti02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurachusmorisetti03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurachusmorisetti05.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with lower abdominal mass"
+    },
+    {
+      "diagnosis": "Cystitis cystica and cystitis glandularis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdercystitiscystica.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdercystitiscysticadurowoju02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercystitiscysticadurowoju03.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with urinary frequency"
+    },
+    {
+      "diagnosis": "Eosinophilic cystitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdereosinophilic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/eosinophiliccystitisqiao01.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with dysuria"
+    },
+    {
+      "diagnosis": "Follicular cystitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderfollicular.html",
+      "images": [
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2490-2-5/MediaObjects/12894_2001_Article_8_Fig2_HTML.jpg?as=webp",
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2490-2-5/MediaObjects/12894_2001_Article_8_Fig3_HTML.jpg?as=webp",
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2490-2-5/MediaObjects/12894_2001_Article_8_Fig4_HTML.jpg?as=webp",
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1471-2490-2-5/MediaObjects/12894_2001_Article_8_Fig5_HTML.jpg?as=webp"
+      ],
+      "clinicalInfo": "50-year-old female with hematuria"
+    },
+    {
+      "diagnosis": "Granulomatous cystitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdergranulomatouscystitis.html",
+      "images": [
+        "https://img.medscape.com/pi/emed/ckb/pathology/1603817-1607642-1611959-1869735.jpg",
+        "https://img.medscape.com/pi/emed/ckb/pathology/1603817-1607642-1611959-1869736.jpg",
+        "https://img.medscape.com/pi/emed/ckb/pathology/1603817-1607642-1611959-1868174.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with urinary tract infection"
+    },
+    {
+      "diagnosis": "Interstitial cystitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderinterstitial.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderinterstitialDownes02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinterstitialDownes03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinterstitialDownes04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinterstitialDownes05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinterstitialDownes06.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with chronic pelvic pain"
+    },
+    {
+      "diagnosis": "Polypoid / papillary cystitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderpolypoidcystitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh1.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh2.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh3.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh4.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh5.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladd6erpolypoidcystitisBeeterYeh6.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh7.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh8.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh9.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh10.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh11.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh12.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh13.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh14.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpolypoidcystitisBeeterYeh15.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Radiation cystitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderradiationcystitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh1.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh2.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh3.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh4.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh5.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh6.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh7.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh8.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh9.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh10.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh11.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh12.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderradiationcystitisLeeYeh13.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with history of pelvic radiation"
+    },
+    {
+      "diagnosis": "Schistosomiasis (bilharziasis)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderschistosomiasis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderschistosomiasisyeh01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschistosomiasisyeh02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschistosomiasisyeh03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschistosomiasisyeh04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschistosomiasisyeh05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschistosomiasisyeh06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschistosomiasisyeh09new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschistosomiasisyeh10new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschistosomiasisyeh11new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousPrendeville13.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschist1new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschist2new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschist3new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschist4new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschist5new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderschistosomiasisThatGlassTho02.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with chronic hematuria"
+    },
+    {
+      "diagnosis": "Fibroepithelial polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderfibroepithelialpolyp.html",
+      "images": [
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1752-1947-2-280/MediaObjects/13256_2008_Article_467_Fig3_HTML.jpg?as=webp",
+        "https://img.medscape.com/fullsize/migrated/440/194/iiu440194.fig5.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Intestinal metaplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderintestinalmetaplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderintestinalmetaplasiatretiakova05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderintestinalmetaplasiatretiakova03.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with urinary irritation"
+    },
+    {
+      "diagnosis": "Malakoplakia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdermalakoplakia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdermalakoplakiagoksel_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdermalakoplakiagoksel03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdermalakoplakiagoksel04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdermalakoplakiagoksel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdermalakoplakiagoksel05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdermalakoplakiagoksel07.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with recurrent urinary infections"
+    },
+    {
+      "diagnosis": "Müllerian lesions",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderendocervicosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/images/ovary/03_23.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/459d/2491395/e2a6e5aa095e/ijcep0001-0091-f2.jpg",
+        "https://www.ajronline.org/cms/10.2214/AJR.05.1734/asset/images/02_05_1734_01c_cmyk.jpeg",
+        "https://www.ajronline.org/cms/10.2214/AJR.05.1734/asset/images/02_05_1734_01d_cmyk.jpeg"
+      ],
+      "clinicalInfo": "45-year-old female with bladder mass"
+    },
+    {
+      "diagnosis": "Nephrogenic metaplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdernephroadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdernephroadenomaGandhi01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernephroadenoma_Gandhi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernephroadenomaGandhi03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernephroadenomaMirunaPopescu1301.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernephroadenomaMirunaPopescu1302.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernephroadenomaMirunaPopescu1303.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernephroadenomakatcollmd01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernephroadenomakatcollmd02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernephroadenomakatcollmd04.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Prostatic type polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderprostatepolyp.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderprostatepolypchoy01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderprostatepolypchoy02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderprostatepolypchoy03.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with bladder obstruction"
+    },
+    {
+      "diagnosis": "Squamous metaplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdersquamousmetaplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousmetaplasiaTretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousmetaplasiaTretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousmetaplasiaTretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousmetaplasiaTretiakova04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousmetaplasiaTretiakova05.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with chronic cystitis"
+    },
+    {
+      "diagnosis": "Urethral carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderurethralcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderurethralcarcinomaZynger03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurethralcarcinomaZynger04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurethralcarcinomaZynger05.jpg",
+        "https://www.pathologyoutlines.com/imgau/urethracarcinomachavezzynger_10.jpg",
+        "https://www.pathologyoutlines.com/imgau/urethracarcinomachavezzynger_11.jpg",
+        "https://www.pathologyoutlines.com/imgau/urethracarcinomachavezzynger_12.jpg",
+        "https://www.pathologyoutlines.com/imgau/urethracarcinomachavezzynger_13.jpg",
+        "https://www.pathologyoutlines.com/imgau/urethracarcinomachavezzynger_14.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with urethral obstruction"
+    },
+    {
+      "diagnosis": "Carcinoma in situ",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdercis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes09.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes10.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes11.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes12.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes13.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes14.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes15.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercisDownes21.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderCISwilliamson01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderCISwilliamson02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderCISwilliamson03.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Dysplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderdysplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderdysplasiaThuzar1.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderdysplasiaThuzar2.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderdysplasiaThuzar3.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderdysplasiaThuzar4.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderdysplasiaThuzar05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderdysplasiaThuzar06.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with urinary frequency"
+    },
+    {
+      "diagnosis": "Inverted urothelial papilloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderinvertedpapilloma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaYeh01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaYeh02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaYeh04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaYeh05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaYeh06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaYeh07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaYeh08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaYeh09.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio9.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio10.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio11.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio12.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio13.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio14.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaZynger01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaZynger02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaZynger03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaZynger04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomaZynger05.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Noninvasive papillary urothelial carcinoma low grade",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderLGpap.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderLGpapdownes02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderLGpapdownes03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderLGpapdownes04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderLGpapdownes05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomaTretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomaTretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomaTretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomaTretiakova13.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Noninvasive papillary urothelial carcinoma high grade",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderHGpap.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderHGpapdownes01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderHGpapdownes02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderHGpapdownes03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderHGpapdownes04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderHGpapdownes05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomaTretiakova04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomaTretiakova05.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Papillary urothelial neoplasm of low malignant potential",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderPUNLMP.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPAthanaziomicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPAthanaziomicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPAthanaziomicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPAthanaziomicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPAthanaziomicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPAthanaziomicro07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPAthanaziomicro08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPAthanaziomicro09.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPAthanaziomicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPAthanaziomicro11.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio1.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio2.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio3.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio4.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio5.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio6.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroAthanazio8.JPG",
+        "https://www.pathologyoutlines.com/imgau/bladderPUNLMPMicroSchultz1.JPG"
+      ],
+      "clinicalInfo": "50-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Urothelial papilloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderpapilloma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderpapillomaSarungbam01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpapillomaSarungbam02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpapillomaSarungbam03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderpapillomaSarungbam04.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Invasive urothelial carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderurothelialinvasivegen.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderIUCtretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderIUCtretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderIUCtretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderIUCtretiakova04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderIUCtretiakova05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderIUCtretiakova06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderIUCtretiakova07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderIUCbychkov01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomaTretiakova08new.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomaTretiakova06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomaTretiakova10new.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomaTretiakova12new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurothelialinvasivegenkatcollmd01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurothelialinvasivegenkatcollmd02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurothelialinvasivegenkatcollmd03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderurothelialinvasivegenkatcollmd04.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Urothelial carcinoma - invasive Lipid-rich",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderlipidcell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case466image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case466image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case466image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case466image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case466image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case466image6.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Urothelial carcinoma - invasive Lymphoepithelioma-like",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderlymphoepithel.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderlymphoepithel_Tretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderlymphoepithel_Tretiakova04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderlymphoepithel_Tretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderlymphoepithel_Tretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderlymphoepithel_Tretiakova05.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Urothelial carcinoma - invasive Microcystic",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdermicrocystic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdermicrocysticBrown01.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Urothelial carcinoma - invasive Micropapillary",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignanturothelialcarcinomasubtypesmicropap.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesmicropapMiller01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesmicropapMiller04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesmicropapMiller05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesmicropapMiller06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesmicropapkatcollmd01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesmicropapkatcollmd02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesmicropapkatcollmd03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesmicropapkatcollmd04.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Urothelial carcinoma - invasive Nested",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdernested.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdernestedBrownTretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernestedBrownTretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernestedBrownTretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernestedBrownTretiakova04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernestedSueEPig01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernestedSueEPig02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernestedSueEPig03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdernestedSueEPig04.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Urothelial carcinoma - invasive Plasmacytoid",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignanturothelialcarcinomasubtypesplasma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesplasmaTretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesplasmaTretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesplasmaTretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesplasmaTretiakova04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesplasmaTretiakova05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesplasmaTretiakova06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesplasmaTretiakova07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesplasmaTretiakova08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesplasmaTretiakova09.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesplasmaTretiakova10.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignanturothelialcarcinomasubtypesplasmaTretiakova11.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case510img1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case510img3.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Urothelial carcinoma - invasive Poorly differentiated variant (including osteoclast rich giant cells)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderundifferentiatedosteoclast.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case339image1_10x.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case339image2_20x.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case339image3_20x.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case339image4_40x.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderundifferentiatedosteoclastdr_kupers01.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7414/2955341/e4d6136fbaa3/CJ-7-18-g004.jpg",
+        "https://ee_ce_img.s3.amazonaws.com/cache/ce_img/media/remote/ce_img/https_ee_channel_images.s3.amazonaws.com/article-figures/12712/article-g01_400_237.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Urothelial carcinoma - invasive Sarcomatoid variant",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdersarcomatoidvariant.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdersarcomatoidBrownTretiakova01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersarcomatoidBrownTretiakova02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersarcomatoidBrownTretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignanturothelialcarcinomasubtypessarcomatoidandeen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignanturothelialcarcinomasubtypessarcomatoidandeen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersarcomatoidvariantIczkowski01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersarcomatoidvariantIczkowski02.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Urothelial carcinoma - invasive With trophoblastic differentiation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdertrophoblasticdiff.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdertrophoblasticdiffGopalanReuter_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdertrophoblasticdiffGopalanReuter_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdertrophoblasticdiffBRQA.jpeg"
+      ],
+      "clinicalInfo": "55-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Urothelial carcinoma - invasive With squamous differentiation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdersquamousdiff.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousdiffMicroYe2.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousdiffMicroYe3.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousdiffMicroYe4.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousdiffMicroYe5.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousdiffMicroYe7.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Urothelial carcinoma - invasive With glandular differentiation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignanturothelialcarcinomasubtypesglandulardiff.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignanturothelialcarcinomasubtypesglandulardiffandeen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignanturothelialcarcinomasubtypesglandulardiffandeen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignanturothelialcarcinomasubtypesglandulardiffandeen03.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Condyloma acuminatum",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdercondyloma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdercondylomaEpsteinupdated1.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercondylomaEpsteinupdated2.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdercondylomaEpsteinupdated3.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with bladder lesion"
+    },
+    {
+      "diagnosis": "Squamous cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdersquamous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousPrendeville04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousPrendeville05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousPrendeville06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousPrendeville07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousPrendeville08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousPrendeville09.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousPrendeville10.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousPrendeville11.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousPrendeville12.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamousPrendeville13.jpg",
+        "https://www.pathologyoutlines.com/thumb/kidneytumormalignantsquamousAndeen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantsquamousAndeen04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantsquamousAndeen05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantsquamousAndeen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidney/kidneytumormalignantsquamousAndeen07.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Squamous cell papilloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdersquamouspapilloma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdersquamouspapillomabatra01a.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamouspapillomabatra01b.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdersquamouspapillomabatra02.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with bladder mass"
+    },
+    {
+      "diagnosis": "Adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderadeno.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderadenoZuo02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderadenoZuo05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderadenoZuo06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderadenoZuo07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderadenoZuo08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderadenoZuo09.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderadenoZuo10.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderadenoZuo11.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Clear cell (adeno)carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderclearcell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellValencia01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellValencia02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellGordetskyValencia10.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellGordetskyValencia07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellGordetskyValencia08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellGordetskyValencia09.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellValencia05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellValencia06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellGordetskyValencia11.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellGordetskyValencia12.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellPathOutPic01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellPathOutPic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellPathOutPic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellPathOutPic04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderclearcellGordetskyValencia13.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with bladder mass"
+    },
+    {
+      "diagnosis": "Urachal adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderadenourachal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderadenourachalTretiakova03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderadenourachalTretiakova04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderadenourachalTretiakova05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderadenourachalTretiakova06.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with lower abdominal mass"
+    },
+    {
+      "diagnosis": "Villous adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdervillousadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladdervillousadenomamanucha01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdervillousadenomamanucha02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdervillousadenomamanucha03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladdervillousadenomamanucha04new.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Large cell neuroendocrine carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytumormalignantlargecell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantlargecellanderson01n.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantlargecellanderson02n.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytumormalignantlargecellanderson03n.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Paraganglioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderparaganglioma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomaKwast01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomaKwast02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomaKwast03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomaDownes01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomaDownes02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomaDownes03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomaDownes04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomaDownes05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomazynger1n.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomazynger2n.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomazynger3n.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomazynger4n.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomazynger5n.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderinvertedpapillomazynger6n.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomacohen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomacohen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomacohen04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderparagangliomacohen05.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Small cell neuroendocrine carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladdersmallcell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/microkidneytumormalignantsmallcell01.jpg",
+        "https://www.pathologyoutlines.com/imgau/microkidneytumormalignantsmallcell02.jpg",
+        "https://www.pathologyoutlines.com/imgau/microkidneytumormalignantsmallcell03.jpg",
+        "https://www.pathologyoutlines.com/imgau/microkidneytumormalignantsmallcell04.jpg",
+        "https://www.pathologyoutlines.com/imgau/microkidneytumormalignantsmallcell05.jpg",
+        "https://www.pathologyoutlines.com/imgau/microkidneytumormalignantsmallcell06.jpg",
+        "https://www.pathologyoutlines.com/imgau/microkidneytumormalignantsmallcell07.jpg",
+        "https://www.pathologyoutlines.com/imgau/microkidneytumormalignantsmallcell08.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with hematuria"
+    },
+    {
+      "diagnosis": "Inflammatory myofibroblastic tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderIMT.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/02f3/2943686/d11c6a7041fe/UA-2-78-g002.jpg",
+        "https://www.ajronline.org/na101/home/literatum/publisher/arrs/journals/content/ajr/2008/ajr.2008.191.issue-4/ajr.07.3663/production/images/medium/07_3663_07i_cmyk.jpeg",
+        "https://www.ajronline.org/na101/home/literatum/publisher/arrs/journals/content/ajr/2008/ajr.2008.191.issue-4/ajr.07.3663/production/images/medium/07_3663_07j_cmyk.jpeg",
+        "https://www.ajronline.org/na101/home/literatum/publisher/arrs/journals/content/ajr/2008/ajr.2008.191.issue-4/ajr.07.3663/production/images/large/07_3663_07h_cmyk.jpeg"
+      ],
+      "clinicalInfo": "45-year-old male with bladder mass"
+    },
+    {
+      "diagnosis": "Encrusted cystitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bladderencrustedcystitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/bladderencrustedcystitiszoshchuk01.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderencrustedcystitiszoshchuk02.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderencrustedcystitiszoshchuk03.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderencrustedcystitiszoshchuk04.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderencrustedcystitiszoshchuk05.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderencrustedcystitiszoshchuk06.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderencrustedcystitiszoshchuk07.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderencrustedcystitisyeh08.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderencrustedcystitisyeh09.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderencrustedcystitisyeh10.jpg",
+        "https://www.pathologyoutlines.com/imgau/bladderencrustedcystitisyeh11.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with urinary tract infection"
+    }
+  ]
+}
