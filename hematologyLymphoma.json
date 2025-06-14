@@ -1,0 +1,581 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "T prolymphocytic leukemia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomanonBTcellpro.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBTcellproJevremovic_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBTcellproJevremovic_13.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBTcellproJevremovic_07.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with splenomegaly and fatigue"
+    },
+    {
+      "diagnosis": "MALT-marginal zone",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomaMALT.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomaMALTmiranda01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMALTmiranda04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMALTmiranda05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMALTmiranda06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMALTmiranda10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMALTmiranda11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMALTmiranda12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMALTmiranda13.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMALTmiranda17.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with gastric mass"
+    },
+    {
+      "diagnosis": "Marginal zone-nodal",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomanodalMZL.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomaNMZLperry03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaNMZLperry04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaNMZLperry02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaNMZLperry05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaNMZLperry10.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with cervical lymphadenopathy"
+    },
+    {
+      "diagnosis": "CLL / SLL",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomaCLL.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomaCLLkajtar02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaCLLkajtar03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaCLLkajtar04.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with generalized lymphadenopathy"
+    },
+    {
+      "diagnosis": "Follicular-usual",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomafollicularnodalusual.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomafollicularnodalusualchapman01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomafollicularnodalusualchapman03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomafollicularnodalusualchapman04.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with axillary lymph node enlargement"
+    },
+    {
+      "diagnosis": "MCL-classic",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomaMCL.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLclassicOk_A.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLclassicOk_B.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLclassicOk_C.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLclassicOk_D.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLclassicOk_F.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLclassicOk_G.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLclassicOk_H.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLclassicOk_L.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLclassicOk_M.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with abdominal lymphadenopathy"
+    },
+    {
+      "diagnosis": "MCL-leukemic nonnodal",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomanonnodalmantlecell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomanonnodalmantlecellnowacki_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonnodalmantlecellnowacki_06.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with leukocytosis"
+    },
+    {
+      "diagnosis": "MCL-aggressive variants",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomaMCLaggressive.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLaggressiveOK_0A.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLaggressiveOK_0B.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLaggressiveOK_0G.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLaggressiveOK_0H.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaMCLaggressiveOK_0K.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case499image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case499image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case499image3.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with rapidly enlarging lymph nodes"
+    },
+    {
+      "diagnosis": "DLBCL",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomadiffuse.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomadiffuseklairmont01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomadiffuseklairmont02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomadiffuseklairmont03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomadiffuseklairmont05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomadiffuseklairmont06.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with rapidly growing mass"
+    },
+    {
+      "diagnosis": "Burkitt lymphoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomaburkitt.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomaburkittasakrah02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaburkittahmsab_MD01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaburkittahmsab_MD02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomaburkittahmsab_MD03.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with abdominal mass"
+    },
+    {
+      "diagnosis": "Nodular lymphocyte predominant B cell lymphoma / nodular lymphocyte predominant Hodgkin lymphoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomanonBNLPHL.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBNLPHLBalakrishna_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBNLPHLBalakrishna_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBNLPHLBalakrishna_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBNLPHLBalakrishna_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBNLPHLsmith_2n.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBNLPHLsmith_1n.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with cervical lymphadenopathy"
+    },
+    {
+      "diagnosis": "Hairy cell leukemia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomahcl.html",
+      "images": [],
+      "clinicalInfo": "50-year-old male with splenomegaly and pancytopenia"
+    },
+    {
+      "diagnosis": "Castleman disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodescastleman.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanbalakrishna_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanduffield_20.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanbalakrishna_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanbalakrishna_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanbalakrishna_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanbalakrishna_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanmurgazamalloa_44.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanmurgazamalloa_45.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanmurgazamalloa_46.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanmurgazamalloa_47.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanmurgazamalloa_48.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanbalakrishna_07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanduffield_21.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanbalakrishna_08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanbalakrishna_12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanbalakrishna_13.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescastlemanbalakrishna_14.jpg",
+        "https://www.pathologyoutlines.com/images/castlemanonion1.jpg",
+        "https://www.pathologyoutlines.com/images/castlemanonion2.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with mediastinal mass"
+    },
+    {
+      "diagnosis": "CHL lymphocyte rich",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomanonBLRHL.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomachllymphocyterichdeleval03.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with axillary lymphadenopathy"
+    },
+    {
+      "diagnosis": "CHL lymphocyte depleted",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomanonBlymphocytedepleted.html",
+      "images": [
+        "https://www.pathologyoutlines.com/images/lymph/14_18.jpg",
+        "https://www.pathologyoutlines.com/images/lymph/14_19.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with generalized lymphadenopathy"
+    },
+    {
+      "diagnosis": "CHL mixed cellularity",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomanonBmixed.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomamixedcellularitydeleval01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomamixedcellularitydeleval02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomamixedcellularitydeleval03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomamixedcellularitydeleval04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomamixedcellularitydeleval05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomamixedcellularitydeleval06.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with cervical lymphadenopathy"
+    },
+    {
+      "diagnosis": "Sézary syndrome",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphomanonBsezary.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBsezaryMirandamicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBsezaryMirandamicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBsezaryMirandamicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBsezaryMirandamicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBsezaryMirandamicro9.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBsezaryMirandamicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBsezaryMirandamicro11.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with erythroderma and lymphadenopathy"
+    },
+    {
+      "diagnosis": "Acute lymphoblastic leukemia / lymphoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodesALL.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodesALLTsang01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesALLTsang02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesALLTsang03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesALLTsang07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesALLTsang08.jpg"
+      ],
+      "clinicalInfo": "25-year-old male with bone marrow failure"
+    },
+    {
+      "diagnosis": "Silicone",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodessiliconeimplant.html",
+      "images": [
+        "https://www.pathologyoutlines.com/wick/silicone%20deposits%20lymph%20node%20axillary%20micro.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b348/3010785/25509f10f1e4/IJPS-43-206-g004.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b348/3010785/fbebaa40c8f6/IJPS-43-206-g005.jpg",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S1755001711000029-gr4.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fe37/2726483/1cad04b64df5/1752-1947-0003-0000006442-4.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fe37/2726483/c06e5539099a/1752-1947-0003-0000006442-5.jpg",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S1930043315302120-gr4.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with axillary lymphadenopathy"
+    },
+    {
+      "diagnosis": "Cat scratch disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodescatscratch.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodescatscratch_Courville01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescatscratch_Courville02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescatscratch_Courville06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodescatscratch_Courville03.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with regional lymphadenopathy"
+    },
+    {
+      "diagnosis": "Toxoplasmosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodestoxoplasma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodestoxoplasmosisakker01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodestoxoplasmosisakker02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodestoxoplasmosisakker03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodestoxoplasmosisakker04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodestoxoplasmosisakker05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodestoxoplasmosisAFIP01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodestoxoplasmosisAFIP02.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with cervical lymphadenopathy"
+    },
+    {
+      "diagnosis": "Kikuchi disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodeskikuchi.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiCourville01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiCourville02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiCourville03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiCourville04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiBeckman01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiBeckman02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiBeckman03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiBeckman04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiBeckman05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiAFIPmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiAFIPmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiAFIPmicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskikuchiAFIPmicro4.jpg"
+      ],
+      "clinicalInfo": "25-year-old female with cervical lymphadenopathy and fever"
+    },
+    {
+      "diagnosis": "Kimura disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodeskimurasdisease.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskimurasdiseaseravindranteruyafeldstein01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskimurasdiseaseravindranteruyafeldstein02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskimurasdiseaseravindranteruyafeldstein03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskimurasdiseaseravindranteruyafeldstein04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskimurasdiseaseravindranteruyafeldstein05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskimurasdiseaseravindranteruyafeldstein06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskimurasdiseaseravindranteruyafeldstein07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskimurasdiseaseravindranteruyafeldstein08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskimurasdiseaseravindranteruyafeldstein11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeskimurasdiseaseravindranteruyafeldstein12.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with subcutaneous mass and lymphadenopathy"
+    },
+    {
+      "diagnosis": "Progressive transformation of germinal centers",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodesPTGC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodesPTGCaljuaid01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesPTGCaljuaid02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesPTGCaljuaid03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesPTGCaljuaid04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesPTGCaljuaid05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesPTGCaljuaid07.jpg"
+      ],
+      "clinicalInfo": "35-year-old male with localized lymphadenopathy"
+    },
+    {
+      "diagnosis": "Rosai-Dorfman disease (RDD)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodessinushistiocytosiswithmassivelymph.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodesRDDRavindranRech02.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with cervical lymphadenopathy"
+    },
+    {
+      "diagnosis": "Systemic lupus erythematosus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodessle.html",
+      "images": [
+        "https://pathorama.ch/storage/samples/003751.jpg",
+        "https://pathorama.ch/storage/samples/003752.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with generalized lymphadenopathy"
+    },
+    {
+      "diagnosis": "Follicular hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodesfollicularhyperplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodesfollicularhyperplasiareidrezk01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesfollicularhyperplasiareidrezk02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesfollicularhyperplasiareidrezk03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesfollicularhyperplasiareidrezk04.jpg"
+      ],
+      "clinicalInfo": "25-year-old male with reactive lymphadenopathy"
+    },
+    {
+      "diagnosis": "Granulomatous inflammation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodesgranulomatous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodesgraninflammationbacker01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesgraninflammationbacker05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesgraninflammationbacker06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesgraninflammationbacker02.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with chronic lymphadenopathy"
+    },
+    {
+      "diagnosis": "Hemophagocytic lymphohistiocytosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/bonemarrowhemophagocyticlymphohistiocytosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodeshemophagocyticlymphohistiocytosis01.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip18_68a.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip18_68b.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with fever and pancytopenia"
+    },
+    {
+      "diagnosis": "Reactive lymphadenopathy",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodesreactivegeneral.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna005.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna10.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna11.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna12.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna13.jpeg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesreactivegeneralBalakrishna26.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with localized lymphadenopathy"
+    },
+    {
+      "diagnosis": "Hemangioma-lymph nodes",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodeshemangioma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/afip21_032.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip21_031.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip21_035.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip21_033.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip21_034.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with incidental lymph node finding"
+    },
+    {
+      "diagnosis": "Vascular transformation of sinuses",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodesvasculartransformationofsinuses.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case405image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case405image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case405image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case405image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case405image5.jpg",
+        "https://www.pathologyoutlines.com/imgau/21_048.jpg",
+        "https://www.pathologyoutlines.com/imgau/21_047.jpg",
+        "https://www.pathologyoutlines.com/imgau/21_049.jpg",
+        "https://www.pathologyoutlines.com/imgau/21_050.jpg",
+        "https://www.pathologyoutlines.com/imgau/21_051.jpg",
+        "https://www.pathologyoutlines.com/imgau/21_052.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with abdominal lymphadenopathy"
+    },
+    {
+      "diagnosis": "Lymphangiomyomatosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodeslymphangiomyomatosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/Case522img1.png",
+        "https://www.pathologyoutlines.com/caseofweek/Case522img2.png",
+        "https://www.pathologyoutlines.com/caseofweek/Case522img3.png",
+        "https://www.pathologyoutlines.com/caseofweek/Case522img4.png",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeslymphangiomyomatosisPathOutPic01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeslymphangiomyomatosisPathOutPic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeslymphangiomyomatosisPathOutPic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeslymphangiomyomatosisPathOutPic04.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip21_004.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip21_005.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with pulmonary symptoms and lymphadenopathy"
+    },
+    {
+      "diagnosis": "Amyloid",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodesamyloidosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/afip16_13.jpg",
+        "https://www.pathologyoutlines.com/wick/amyloidosis%20lymph%20node%20micro.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with systemic symptoms and lymphadenopathy"
+    },
+    {
+      "diagnosis": "Erdheim-Chester disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/boneerdheim.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/boneerdheimRavindran01.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneerdheimRavindran02.jpg",
+        "https://www.pathologyoutlines.com/imgau/boneerdheimRavindran05.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with bone pain and lymphadenopathy"
+    },
+    {
+      "diagnosis": "Follicular dendritic cell sarcoma (FDCS)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodesFDCsarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodesFDCsarcomaRavindran_07nn.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesFDCsarcomaRavindran_08nn.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with abdominal mass"
+    },
+    {
+      "diagnosis": "Histiocytic sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodeshistiocyticsarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodeshistiocyticsarcomapan01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodeshistiocyticsarcomapan02.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with rapidly growing mass"
+    },
+    {
+      "diagnosis": "Myofibroblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/breastmyofibroblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro07.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro08.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro09.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro11.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro12.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro13.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro14.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro15.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro16.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro17.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro18.jpg",
+        "https://www.pathologyoutlines.com/imgau/breastmyofibroblastomamullermicro19.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case536img1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case536img2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case536img3.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with breast mass"
+    },
+    {
+      "diagnosis": "Langerhans cell histiocytic neoplasms",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodesLCH.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/lymphnodesLCHshanmugam04.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesLCHshanmugam05.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesLCHshanmugam06.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesLCHshanmugam07.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesLCHshanmugam08.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesLCHshanmugam09.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesLCH_hagen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphnodesLCH_hagen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/18_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/18_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/18_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/18_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/18_07.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case314image10.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case314image11.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case314image12.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case314image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case314image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case314image7.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case314image8.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with bone lesions and lymphadenopathy"
+    },
+    {
+      "diagnosis": "Plasmacytoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/lymphnodesplasmacytoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/afip16_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip16_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip16_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip16_06.jpg",
+        "https://www.pathologyoutlines.com/imgau/16_07.jpg",
+        "https://www.pathologyoutlines.com/imgau/16_08.jpg",
+        "https://www.pathologyoutlines.com/imgau/16_09.jpg",
+        "https://www.pathologyoutlines.com/imgau/16_10.jpg",
+        "https://www.pathologyoutlines.com/imgau/16_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/afip16_04.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with bone pain and mass"
+    },
+    {
+      "diagnosis": "Gaucher disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/livergauchers.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/livergauchersTsang01.jpg",
+        "https://www.pathologyoutlines.com/imgau/livergauchersTsang02.jpg",
+        "https://www.pathologyoutlines.com/imgau/livergauchersTsang03.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case164image3.jpg",
+        "https://www.pathologyoutlines.com/imgau/livergauchersTsang04.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with hepatosplenomegaly"
+    },
+    {
+      "diagnosis": "Niemann-Pick disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/liverniemannpick.html",
+      "images": [
+        "https://www.pathologyoutlines.com/images/niemannpick.jpg"
+      ],
+      "clinicalInfo": "35-year-old male with hepatosplenomegaly"
+    },
+    {
+      "diagnosis": "Immune thrombocytopenia (ITP)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/spleenITP.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/spleenITP_Geyer01.png",
+        "https://www.pathologyoutlines.com/imgau/spleenITP_Geyer02.png",
+        "https://www.pathologyoutlines.com/imgau/spleenITP_Geyer03.png",
+        "https://www.pathologyoutlines.com/imgau/spleenITP_Geyer04.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with purpura and thrombocytopenia"
+    },
+    {
+      "diagnosis": "Hamartoma spleen",
+      "articleLink": "https://www.pathologyoutlines.com/topic/spleenhamartoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/spleenhamartomaAguilera03.jpg",
+        "https://www.pathologyoutlines.com/imgau/spleenhamartomaAguilera04.jpg",
+        "https://www.pathologyoutlines.com/imgau/spleenhamartomaAguilera05.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with incidental splenic mass"
+    }
+  ]
+}
