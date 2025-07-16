@@ -1,0 +1,437 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Squamous papilloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagussquamouspapilloma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagussquamouspapillomaNakanish03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussquamouspapillomaNakanish04.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with dysphagia"
+    },
+    {
+      "diagnosis": "Barrett related dysplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusdysplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusdysplasiamicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmicro07.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmicro08.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmicro09.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmicro10.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with chronic reflux and dysplasia on biopsy"
+    },
+    {
+      "diagnosis": "Squamous dysplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagussquamousdysplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagussquamousdysplasianazlihagen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussquamousdysplasianazlihagen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussquamousdysplasianazlihagen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussquamousdysplasianazlihagen04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussquamousdysplasianazlihagen05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussquamousdysplasianazlihagen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussquamousdysplasianazlihagen07.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussquamousdysplasianazlihagen08.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussquamousdysplasianazlihagen09.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with smoking history and esophageal dysplasia"
+    },
+    {
+      "diagnosis": "Adenocarcinoma of the esophagus and GE junction",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusadenocarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusadenocarcinomaPendse07.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenocarcinomaPendse08.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenocarcinomaPendse09.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenocarcinomaPendse10.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenocarcinomaPendse11.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenocarcinomaPendse12.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenocarcinomaPendse13.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with dysphagia and weight loss"
+    },
+    {
+      "diagnosis": "Adenoid cystic carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusadenoidcystic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/wick/esophagus%20adenoid%20cystic%20carcinoma%20micro.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenoidcysticgonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenoidcysticgonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenoidcysticgonzalez03.jpg"
+      ],
+      "clinicalInfo": "70-year-old male with odynophagia"
+    },
+    {
+      "diagnosis": "Adenosquamous carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusadenosquamous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusadenosquamousMicroGonzalez1.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenosquamousMicroGonzalez4.jpeg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenosquamousMicroGonzalez5.jpeg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenosquamousMicroGonzalez6.jpeg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenosquamousMicroGonzalez7.jpeg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenosquamousMicroAFIP001.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusadenosquamousMicroAFIP002.jpeg"
+      ],
+      "clinicalInfo": "55-year-old female with dysphagia and a mass at GE junction"
+    },
+    {
+      "diagnosis": "Squamous cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusscc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagussccliuhuber1.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussccliuhuber02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussccliuhuber03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussccliuhuber04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussccliuhuber05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussccliuhuber06.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussccliuhuber07.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussccliuhuber08.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussccliuhuber11.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussccliuhuber10.jpg"
+      ],
+      "clinicalInfo": "60-year-old male smoker with progressive dysphagia"
+    },
+    {
+      "diagnosis": "Verrucous squamous cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusverrucousscc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusverrucoussccMicroAFIP01.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with long-standing dysphagia"
+    },
+    {
+      "diagnosis": "Sarcomatoid carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagussarcomatoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/wick/esophagus%20sarcomatoid%20carcinoma%20with%20rhabdomyosarcomatous%20_1.jpg",
+        "https://www.pathologyoutlines.com/wick/esophagus%20sarcomatoid%20carcinoma%20with%20rhabdomyosarcomatous%20_2.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussarcomatoidAFIP1.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussarcomatoidAFIP2.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussarcomatoidAFIP3.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussarcomatoidAFIP4.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagussarcomatoidAFIP5.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with a rapidly growing esophageal mass"
+    },
+    {
+      "diagnosis": "Basaloid squamous cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusbasaloidSCC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusbasaloidSCCLai05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusbasaloidSCCLai07.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusbasaloidSCCLai08.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusbasaloidSCCLai09.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusbasaloidSCCLai10.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusbasaloidSCCLai17.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusbasaloidSCCAFIP01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusbasaloidSCCAFIP02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusbasaloidSCCAFIP03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusbasaloidSCCAFIP04.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with dysphagia and weight loss"
+    },
+    {
+      "diagnosis": "Neuroendocrine carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusneuroendocrine.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusneuroendocrineHale01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusneuroendocrineHale02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skin-nontumor/esophagussmallcellMicroAFIP01A.jpg",
+        "https://www.pathologyoutlines.com/imgau/skin-nontumor/esophagussmallcellMicroAFIP01B.jpg",
+        "https://www.pathologyoutlines.com/wick/esophagus%20neuroendocrine%20carcinoma%20in%20muscularis.jpg",
+        "https://www.pathologyoutlines.com/imgau/skin-nontumor/esophagussmallcellMicroAFIP02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skin-nontumor/esophagussmallcellMicroAFIP03.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with a high-grade esophageal tumor"
+    },
+    {
+      "diagnosis": "Candida",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophaguscandidaesophagitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophaguscandidaesophagitisSharma01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguscandidaesophagitisSharma02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguscandidaesophagitisSharma03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguscandidaesophagitisSharma04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguscandidaesophagitisSharma05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguscandidaesophagitisSharma06.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguscandidaesophagitisMicroBychkov01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguscandidaesophagitisMicroBychkov03.jpg"
+      ],
+      "clinicalInfo": "45-year-old immunocompromised male with odynophagia"
+    },
+    {
+      "diagnosis": "CMV",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusCMVesophagitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusCMVesophagitisHale01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusCMVesophagitisHale02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusCMVesophagitisHale03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusCMVesophagitisHale04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusCMVesophagitisHale05.jpg"
+      ],
+      "clinicalInfo": "40-year-old HIV-positive patient with esophageal ulcers"
+    },
+    {
+      "diagnosis": "Crohn's disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophaguscrohn.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophaguscrohnTateishi002.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguscrohnTateishi03.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with known Crohn's disease and esophageal involvement"
+    },
+    {
+      "diagnosis": "Eosinophilic esophagitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophaguseosinophilic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophaguseosinophilic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguseosinophilic04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguseosinophilic05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguseosinophilic06.jpg"
+      ],
+      "clinicalInfo": "25-year-old male with food impaction and dysphagia"
+    },
+    {
+      "diagnosis": "Graft versus host disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusGVHD.html",
+      "images": [
+        "https://pathorama.ch/storage/samples/007901.jpg",
+        "https://pathorama.ch/storage/samples/007902.jpg"
+      ],
+      "clinicalInfo": "35-year-old post-transplant patient with dysphagia"
+    },
+    {
+      "diagnosis": "HSV esophagitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusHSV.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusHSVMueller01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusHSVMueller02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusHSVMueller03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusHSVMueller04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusHSVMueller05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusHSVMueller06.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusHSVMueller07.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusHSVMueller08.jpg"
+      ],
+      "clinicalInfo": "50-year-old immunocompromised patient with painful swallowing"
+    },
+    {
+      "diagnosis": "Lichenoid esophagitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophaguslichenplanus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophaguslichenplanusMicroSaulino01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguslichenplanusMicroSaulino02.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with dysphagia and skin lesions"
+    },
+    {
+      "diagnosis": "Lymphocytic esophagitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophaguslymphocyticesophagitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophaguslymphocyticesophagitisGarciaBuitrago01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguslymphocyticesophagitisGarciaBuitrago02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguslymphocyticesophagitisGarciaBuitrago03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguslymphocyticesophagitisRaulSGonzalezMD01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguslymphocyticesophagitisRaulSGonzalezMD02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguslymphocyticesophagitisRaulSGonzalezMD03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophaguslymphocyticesophagitisRaulSGonzalezMD04.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with chronic dysphagia"
+    },
+    {
+      "diagnosis": "Pill induced esophagitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophaguspillinduced.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case460image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case460image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case460image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case460image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case460image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case460image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case460image7.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case460image8.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case460image9.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with acute odynophagia after pill ingestion"
+    },
+    {
+      "diagnosis": "Radiation esophagitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusirradiation.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusirradiationMicroAFIP01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusirradiationMicroAFIP02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusirradiationMicroAFIP03.jpg"
+      ],
+      "clinicalInfo": "55-year-old cancer patient with dysphagia post-radiation"
+    },
+    {
+      "diagnosis": "Reflux esophagitis / gastroesophageal reflux disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusreflux.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusrefluxHuber01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusrefluxHuber02.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with chronic heartburn"
+    },
+    {
+      "diagnosis": "Epidermoid metaplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusepidermization.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusepidermizationMicroNakanishi01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusepidermizationMicroNakanishi02.jpg"
+      ],
+      "clinicalInfo": "60-year-old smoker with esophageal metaplasia on biopsy"
+    },
+    {
+      "diagnosis": "Esophageal manifestations of collagen vascular disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusscleroderma.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1560/1856462/4822c6747586/gt86074.f2.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1560/1856462/d40930fe79c3/gt86074.f3.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1560/1856462/e5aa68daf92d/gt86074.f4.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1560/1856462/076d27de8f84/gt86074.f5.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with scleroderma and dysphagia"
+    },
+    {
+      "diagnosis": "Esophagitis dissecans superficialis / sloughing esophagitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophaguseds.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusedssharma02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusedssharma03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusedssharma04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusedssharma05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusedssharma06.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusedssharma07.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusedsRasamh01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusedsRasamh02.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with sloughing esophagus on endoscopy"
+    },
+    {
+      "diagnosis": "Glycogenic acanthosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusglycogenic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusglycogenicMicroHuber01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusglycogenicMicroHuber02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusglycogenicMicroHuber05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusglycogenicMicroHuber03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusglycogenicMicroHuber04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusglycogenicRaulSGonzalezMD01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusglycogenicRaulSGonzalezMD02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusglycogenicRaulSGonzalezMD03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusglycogenicRaulSGonzalezMD04.jpg"
+      ],
+      "clinicalInfo": "55-year-old asymptomatic male with esophageal nodules"
+    },
+    {
+      "diagnosis": "Leiomyoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusleiomyoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusleiomyomaMicroAFIP01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusleiomyomaMicroAFIP02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusleiomyomaMicroAFIP03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusleiomyomaMicroAFIP04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusleiomyomaMicroAFIP06.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusleiomyomaMicroAFIP07.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with a submucosal esophageal mass"
+    },
+    {
+      "diagnosis": "Barrett esophagus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusBarrettsgeneral.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusBarrettsgeneral_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusBarrettsgeneral_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusBarrettsgeneral_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusBarrettsgeneral_06.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusBarrettsgeneral_07.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusBarrettsgeneral_08.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusBarrettsgeneral_09.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusBarrettsgeneral_10.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with chronic GERD and Barrett's esophagus on endoscopy"
+    },
+    {
+      "diagnosis": "Undifferentiated carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusundiffcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusundiffcarcinoma_Graham01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusundiffcarcinoma_Graham02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusundiffcarcinoma_Graham03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusundiffcarcinoma_Graham04.jpg"
+      ],
+      "clinicalInfo": "65-year-old female with an aggressive esophageal tumor"
+    },
+    {
+      "diagnosis": "Well differentiated neuroendocrine tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophaguscarcinoid.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Small_intestine_neuroendocrine_tumour_high_mag.jpg/500px-Small_intestine_neuroendocrine_tumour_high_mag.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with an incidental esophageal neuroendocrine tumor"
+    },
+    {
+      "diagnosis": "Esophageal sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagussarcomagen.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/SynovialSarc1.jpg",
+        "https://www.pathologyoutlines.com/imgau/SynovialSarc2.jpg",
+        "https://www.pathologyoutlines.com/imgau/SynovialSarc3.jpg",
+        "https://www.pathologyoutlines.com/imgau/SynovialSarc4.jpg",
+        "https://www.pathologyoutlines.com/imgau/SynovialSarc5.jpg",
+        "https://www.pathologyoutlines.com/imgau/SynovialSarc6.jpg",
+        "https://www.pathologyoutlines.com/imgau/SynovialSarc7.jpg",
+        "https://www.pathologyoutlines.com/imgau/SynovialSarc8.jpg",
+        "https://www.pathologyoutlines.com/imgau/SynovialSarc9.jpg",
+        "https://www.primehealthchannel.com/wp-content/uploads/2013/02/Leiomyosarcoma-Picture.jpg",
+        "https://origin-ars.els-cdn.com/content/image/1-s2.0-S0003497512010983-gr2.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with a rare esophageal sarcoma"
+    },
+    {
+      "diagnosis": "Gastrointestinal stromal tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusGIST.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusGISTakhtar01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusGISTakhtar02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusGISTakhtar03.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusGISTakhtar04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusGISTakhtar05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusGISTakhtar06.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusGISTakhtar16.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusGISTakhtar17.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusGISTakhtar18.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with a submucosal esophageal mass"
+    },
+    {
+      "diagnosis": "Giant fibrovascular polyp / well differentiated liposarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusfibrovascularpolyp.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusfibrovascularpolypHornick01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusfibrovascularpolypHornick02.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with a large esophageal polyp causing dysphagia"
+    },
+    {
+      "diagnosis": "Melanoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/esophagusmelanoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/esophagusmelanomanakanishi04.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmelanomanakanishi05.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmelanomaRaulSGonzalezMD01.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmelanomaRaulSGonzalezMD02.jpg",
+        "https://www.pathologyoutlines.com/imgau/esophagusmelanomaRaulSGonzalezMD03.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with a pigmented esophageal lesion"
+    }
+  ]
+}

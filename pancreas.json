@@ -21,8 +21,12 @@
       "diagnosis": "Intraductal papillary mucinous neoplasm (IPMN)",
       "articleLink": "https://www.pathologyoutlines.com/topic/pancreasipmn.html",
       "images": [
-        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/23f5/2999199/a25ab0ac9deb/WJGS-2-352-g002.jpg",
-        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/23f5/2999199/a0f87d84cc92/WJGS-2-352-g003.jpg"
+        "https://www.pathologyoutlines.com/imgau/pancreasipmn_Agostini06.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasipmn_Agostini07.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasipmn_Agostini01.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasipmn_Agostini02.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasipmn_Agostini08.jpg",
+        "https://www.pathologyoutlines.com/imgau/pancreasipmn_Agostini09.jpg"
       ],
       "clinicalInfo": "65 year old man with an incidental cystic lesion in the pancreas"
     },
@@ -226,7 +230,7 @@
         "https://www.pathologyoutlines.com/imgau/pancreasclearcellendocrineSinghi02new.jpg",
         "https://www.pathologyoutlines.com/imgau/pancreasclearcellendocrineSinghi03new.jpg"
       ],
-      "clinicalInfo": "45 year old woman with a pancreatic mass and hypoglycemia"
+      "clinicalInfo": "45 year old woman with a pancreatic mass"
     },
     {
       "diagnosis": "Mixed neuroendocrine nonneuroendocrine neoplasms (MiNENs)",

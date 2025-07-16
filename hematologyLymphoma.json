@@ -39,6 +39,26 @@
       "clinicalInfo": "50-year-old male with cervical lymphadenopathy"
     },
     {
+      "diagnosis": "Littoral cell angioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/spleenlittoralcellangioma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/spleenlittoralcellangioma_tsang02.jpg",
+        "https://www.pathologyoutlines.com/imgau/spleenlittoralcellangioma_tsang03.jpg",
+        "https://www.pathologyoutlines.com/imgau/spleenlittoralcellangioma_tsang04.jpg"
+      ],
+      "clinicalInfo": "30 year old man presented with abdominal pain, fever and multiple splenic masses"
+    },
+
+    {  "diagnosis": "Sclerosing angiomatoid nodular transformation",
+      "articleLink": "https://www.pathologyoutlines.com/topic/spleensclerosingangiomatoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/spleensclerosingangiomatoidSangiorgio01.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case364image6_40xnew.jpg",
+        "https://www.pathologyoutlines.com/imgau/spleensclerosingangiomatoidSangiorgio02.jpg"
+      ],
+      "clinicalInfo": "21 year old woman with mild thrombocytopenia and a hypervascular splenic mass"
+    },
+    {
       "diagnosis": "CLL / SLL",
       "articleLink": "https://www.pathologyoutlines.com/topic/lymphomaCLL.html",
       "images": [

@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pathology Training</title>
+    <title>Pathology Trainer</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
+        <h1>Pathology Trainer</h1>
         <div id="sectionMenu">
             <button data-section="softTissue">Soft Tissue</button>
             <button data-section="boneAndJoints">Bone & joints</button>
@@ -18,22 +19,29 @@
             <button data-section="cns">CNS</button>
             <button data-section="skin">Skin</button>
             <button data-section="kidney">Kidney</button>
-            <button data-section="lungs">Lungs</button>
+            <button data-section="lung">Lungs</button>
             <button data-section="lungTumors">Lung Tumors</button>
             <button data-section="mandibleMaxilla">Mandible & Maxilla</button>
             <button data-section="breast">Breast</button>
-            <button data-section="hematologyLymphoma">Hematology & Lymphoma</button>
+            <button data-section="hematologyandlymphoma">Hematology & Lymphoma</button>
             <button data-section="bladder">Bladder</button>
+            <button data-section="esophagus">Esophagus</button>
+            <button data-section="stomachandsmallbowel">Stomach & Small Bowel</button>
+            <button data-section="colorectal">Colo-Rectal</button>
         </div>
-        <div id="clinicalInfo"></div>
-        <div id="tumorImages"></div>
-        <div id="result"></div>
-        <button id="checkButton">Check</button>
-        <button id="nextImageButton">Next Image</button>
-        <button id="showAllImagesButton">Show All Images</button>
-        <div id="score">Correct answers: 0</div>
-        <button id="nextTumorButton">Next Case</button>
+
+        <div id="content">
+            <p id="clinicalInfo"></p>
+            <div id="tumorImages"></div>
+            <button id="checkButton">Check</button>
+            <button id="nextImageButton">Next Image</button>
+            <button id="showAllImagesButton">Show All Images</button>
+            <p id="result"></p>
+            <p id="score">Correct answers: 0</p>
+            <button id="nextTumorButton">Next Case</button>
+        </div>
     </div>
+
     <script src="script.js"></script>
 </body>
 </html>
