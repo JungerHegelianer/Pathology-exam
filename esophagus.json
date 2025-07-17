@@ -40,7 +40,7 @@
         "https://www.pathologyoutlines.com/imgau/esophagussquamousdysplasianazlihagen08.jpg",
         "https://www.pathologyoutlines.com/imgau/esophagussquamousdysplasianazlihagen09.jpg"
       ],
-      "clinicalInfo": "60-year-old female with smoking history and esophageal dysplasia"
+      "clinicalInfo": "60-year-old female with smoking history"
     },
     {
       "diagnosis": "Adenocarcinoma of the esophagus and GE junction",
@@ -149,7 +149,7 @@
         "https://www.pathologyoutlines.com/imgau/skin-nontumor/esophagussmallcellMicroAFIP02.jpg",
         "https://www.pathologyoutlines.com/imgau/skin-nontumor/esophagussmallcellMicroAFIP03.jpg"
       ],
-      "clinicalInfo": "60-year-old female with a high-grade esophageal tumor"
+      "clinicalInfo": "60-year-old female with esophageal tumor"
     },
     {
       "diagnosis": "Candida",
@@ -185,7 +185,7 @@
         "https://www.pathologyoutlines.com/imgau/esophaguscrohnTateishi002.jpg",
         "https://www.pathologyoutlines.com/imgau/esophaguscrohnTateishi03.jpg"
       ],
-      "clinicalInfo": "30-year-old male with known Crohn's disease and esophageal involvement"
+      "clinicalInfo": "30-year-old male with chronic esophagitis"
     },
     {
       "diagnosis": "Eosinophilic esophagitis",
@@ -205,7 +205,7 @@
         "https://pathorama.ch/storage/samples/007901.jpg",
         "https://pathorama.ch/storage/samples/007902.jpg"
       ],
-      "clinicalInfo": "35-year-old post-transplant patient with dysphagia"
+      "clinicalInfo": "35-year-old patient with dysphagia"
     },
     {
       "diagnosis": "HSV esophagitis",
@@ -357,7 +357,7 @@
         "https://www.pathologyoutlines.com/imgau/esophagusBarrettsgeneral_09.jpg",
         "https://www.pathologyoutlines.com/imgau/esophagusBarrettsgeneral_10.jpg"
       ],
-      "clinicalInfo": "60-year-old male with chronic GERD and Barrett's esophagus on endoscopy"
+      "clinicalInfo": "60-year-old male with chronic GERD"
     },
     {
       "diagnosis": "Undifferentiated carcinoma",
@@ -376,7 +376,7 @@
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Small_intestine_neuroendocrine_tumour_high_mag.jpg/500px-Small_intestine_neuroendocrine_tumour_high_mag.jpg"
       ],
-      "clinicalInfo": "50-year-old male with an incidental esophageal neuroendocrine tumor"
+      "clinicalInfo": "50-year-old male with an incidental esophageal tumor"
     },
     {
       "diagnosis": "Esophageal sarcoma",
@@ -394,7 +394,7 @@
         "https://www.primehealthchannel.com/wp-content/uploads/2013/02/Leiomyosarcoma-Picture.jpg",
         "https://origin-ars.els-cdn.com/content/image/1-s2.0-S0003497512010983-gr2.jpg"
       ],
-      "clinicalInfo": "55-year-old female with a rare esophageal sarcoma"
+      "clinicalInfo": "55-year-old female with esophageal lesion"
     },
     {
       "diagnosis": "Gastrointestinal stromal tumor",
