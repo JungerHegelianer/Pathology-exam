@@ -91,6 +91,21 @@ button:disabled {
     margin: 10px;
 }
 
+#articleLink {
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+#articleLink a {
+    color: #0066cc;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#articleLink a:hover {
+    color: #0033cc;
+}
+
 .overlay {
     display: none;
     position: fixed;
@@ -120,7 +135,7 @@ button:disabled {
     background-color: transparent;
     color: #ffffff;
     font-size: 20px;
-    font-weight: 300; /* Тонкая стрелка */
+    font-weight: 300;
     border: none;
     cursor: pointer;
     position: absolute;
@@ -207,4 +222,45 @@ button:disabled {
 
 .modal-content p {
     margin: 10px 0;
+}
+
+#progressTracker {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.progress-box {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #333;
+    background-color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.progress-box.correct {
+    background-color: #4CAF50;
+}
+
+.progress-box.incorrect {
+    background-color: #f44336;
+}
+
+.progress-box.unsure {
+    background-color: #ffeb3b;
+}
+
+.progress-box:hover {
+    opacity: 0.8;
+}
+
+.progress-box span {
+    font-size: 12px;
+    color: #333;
 }

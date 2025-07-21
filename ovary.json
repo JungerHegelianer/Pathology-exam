@@ -1,0 +1,902 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Seromucinous cystadenoma and adenofibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovaryseromucinouscystadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinouscystadenomaTurashvili1.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinouscystadenomaTurashvili2.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinouscystadenomaTurashvili3.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinouscystadenomaTurashvili4.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinouscystadenomaTurashvili5.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinouscystadenomaTurashvili6.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Seromucinous borderline tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovaryseromucinousborderline.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinousborderlineWelter01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinousborderlineWelter02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinousborderlineWelter03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinousborderlineWelter04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinousborderlineWelter05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinousborderlineWelter07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinousborderlineWelter08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinousborderlineWelter09.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryseromucinousborderlineWelter10.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with abdominal pain"
+    },
+    {
+      "diagnosis": "Benign Brenner tumors",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorb9brenner.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarybrennertumorhuvila03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarybrennertumorhuvila05.jpg",
+        "https://www.webpathology.com/_next/image?url=https%3A%2F%2Fd3cyex60hhnlth.cloudfront.net%2Ffit-in%2F650x650%2Ffilters%3Aformat(webp)%2Fcase%2Fdetail_images%2Fc6337_detail.jpg&w=750&q=75",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Brenner_tumour_intermed_mag.jpg/1920px-Brenner_tumour_intermed_mag.jpg",
+        "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1007%2Fs40944-019-0264-7/MediaObjects/40944_2019_264_Fig4_HTML.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with incidental ovarian lesion"
+    },
+    {
+      "diagnosis": "Borderline Brenner tumors",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorb9brenner.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarybrennertumorhuvila10.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarybrennertumorhuvilanew07.jpg",
+        "https://www.webpathology.com/_next/image?url=https%3A%2F%2Fd3cyex60hhnlth.cloudfront.net%2Ffit-in%2F650x650%2Ffilters%3Aformat(webp)%2Fcase%2Fdetail_images%2Fc6352_detail.jpg&w=1920&q=75",
+        "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1245%2Fs10434-021-09879-y/MediaObjects/10434_2021_9879_Fig1_HTML.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with pelvic pain"
+    },
+    {
+      "diagnosis": "Malignant Brenner tumors",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorb9brenner.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarybrennertumorhuvila08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarybrennertumorhuvila09.jpg",
+        "https://www.webpathology.com/_next/image?url=https%3A%2F%2Fd3cyex60hhnlth.cloudfront.net%2Ffit-in%2F650x650%2Ffilters%3Aformat(webp)%2Fcase%2Fdetail_images%2Fc6368_detail.jpg&w=1920&q=75",
+        "https://www.researchgate.net/profile/Jimmy-Billod/publication/348731374/figure/fig2/AS:1004860052885533@1616588714986/Histopathology-of-the-ovaries-Malignant-Brenner-tumors-show-cytologically-malignant.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with abdominal swelling"
+    },
+    {
+      "diagnosis": "Mesonephric-like adenocarcinoma (uterus / ovary)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarymesonephriclikeadenocarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi1.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi2.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi3.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi4.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi5.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi6.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi15.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi16.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi17.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi19.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi20.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi21.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaMa01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaMa02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaMa03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaMa04.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with abnormal vaginal bleeding"
+    },
+    {
+      "diagnosis": "Undifferentiated / dedifferentiated carcinoma (endometrium / ovary)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusundifferentiated.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorundifferentiated_Tessier-Cloutier01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorundifferentiated_Tessier-Cloutier03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorundifferentiated_Tessier-Cloutier04.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with abdominal mass"
+    },
+    {
+      "diagnosis": "Carcinosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumormmt.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumormmtkaseb01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormmtkaseb02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormmtkaseb05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormmtkaseb06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormmtkaseb07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormmtkaseb03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormmtkaseb04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormmtkaseb08.jpg",
+        "https://www.pathologyoutlines.com/images/ovarymmmtmicro6.jpg",
+        "https://www.pathologyoutlines.com/images/ovarymmmtmicro9.jpg",
+        "https://www.pathologyoutlines.com/images/ovarymmmtmicro4.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with pelvic pain"
+    },
+    {
+      "diagnosis": "Endometrial stromal sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumoress.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumor5_53.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor5_54.jpg",
+        "https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=604373&s=23&r=2&c=2",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/EndometrialStromalSarcomaLowGrade.JPG/1920px-EndometrialStromalSarcomaLowGrade.JPG",
+        "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-981-97-4822-8_63/MediaObjects/538012_2_En_63_Fig8_HTML.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with abnormal bleeding"
+    },
+    {
+      "diagnosis": "Leiomyoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorleiomyoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumor17_02.jpg",
+        "https://webpath.med.utah.edu/jpeg4/FEM030.jpg",
+        "https://www.researchgate.net/profile/Myungsu-Lee/publication/230850674/figure/fig3/AS:203339397636121@1425491298777/Hematoxylin-and-eosin-staining-of-expelled-leiomyoma-demonstrates-extensive-necrosis.png"
+      ],
+      "clinicalInfo": "40-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Leiomyosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorleiomyosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumor17_05.jpg",
+        "https://www.ojhas.org/issue31/2009-3-17-1.jpg",
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fmodpathol.2013.178/MediaObjects/41379_2014_Article_BFmodpathol2013178_Fig8_HTML.jpg?as=webp",
+        "https://www.mypathologyreport.ca/wp-content/uploads/2024/08/leiomyosarcoma.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlOf3bfXe4mdfrU5kkCE9MtPOzgoSgEJxLIKYGI1wnzRHDw_sB_wfLzQsTspJALjxJBY&usqp=CAU"
+      ],
+      "clinicalInfo": "50-year-old female with abdominal pain"
+    },
+    {
+      "diagnosis": "Müllerian adenosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumormullerianadeno.html",
+      "images": [
+        "https://www.webpathology.com/_next/image?url=https%3A%2F%2Fd3cyex60hhnlth.cloudfront.net%2Ffit-in%2F650x650%2Ffilters%3Aformat(webp)%2Fcase%2Fdetail_images%2Fc5953_detail.jpg&w=750&q=75",
+        "https://www.webpathology.com/_next/image?url=https%3A%2F%2Fd3cyex60hhnlth.cloudfront.net%2Ffit-in%2F650x650%2Ffilters%3Aformat(webp)%2Fcase%2Fdetail_images%2Fc5950_detail.jpg&w=1920&q=75",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan008.jpg",
+        "https://www.webpathology.com/_next/image?url=https%3A%2F%2Fd3cyex60hhnlth.cloudfront.net%2Ffit-in%2F650x650%2Ffilters%3Aformat(webp)%2Fcase%2Fdetail_images%2Fc5946_detail.jpg&w=1920&q=75",
+        "https://symbiosisonlinepublishing.com/cancerscience-research/images/cancerscience-research28-g004.gif",
+        "https://d3cyex60hhnlth.cloudfront.net/fit-in/650x650/filters:format(webp)/case/detail_images/c5945_detail.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Fibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorfibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorfibromaTurashvili01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorfibromaTurashvili02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorfibromaTurashvili03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorfibromaTurashvili04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorfibromaTurashvili05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorfibromaTurashvili09.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorfibromaStrickland01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorfibromaStrickland03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorfibromaStrickland04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorfibromaBentley01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorfibromaBentley02.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with abdominal swelling"
+    },
+    {
+      "diagnosis": "Thecoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorthecoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorthecoma_Collins04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorthecoma_Collins05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorthecomaCollins06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorthecomaCollins08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorthecomaCollins09.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorthecomaCollins10.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorthecomaSeoparjooAzmel01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorthecomaSeoparjooAzmel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorthecomaSeoparjooAzmel03.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with virilization symptoms"
+    },
+    {
+      "diagnosis": "Sclerosing stromal tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorsclerosingstroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsclerosingstromamicroBennett1.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsclerosingstromamicroBennett2.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsclerosingstromamicroBennett3.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsclerosingstromamicroBennett4.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsclerosingstromamicroBennett5.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsclerosingstromaMirunaPopescu1301.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsclerosingstromaMirunaPopescu1302.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsclerosingstromaMirunaPopescu1303.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsclerosingstromaMirunaPopescu1304.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Microcystic stromal tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumormicrocysticstromal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumormicrocysticstromalSkala01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormicrocysticstromalSkala02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormicrocysticstromalSkala03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormicrocysticstromalSkala04.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with abdominal pain"
+    },
+    {
+      "diagnosis": "Signet ring stromal tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorsignetringstromal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsignetringstromalmccluggage01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsignetringstromalmccluggage02.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with ovarian mass"
+    },
+    {
+      "diagnosis": "Leydig cell tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorleydig.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorleydiglengyel01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorleydiglengyel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorleydiglengyel03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorleydiglengyel_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorleydiglengyel05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorleydiglengyel06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor12_08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorleydigma01.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with hirsutism"
+    },
+    {
+      "diagnosis": "Steroid cell tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorsteroidcelltumorNOS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarysteroidcelltumorkalir03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysteroidcelltumorkalir04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysteroidcelltumorkalir05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysteroidcelltumorkalir06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysteroidcelltumorkalir07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysteroidcelltumorkalir08new.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysteroidcelltumorkalir09new.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with virilization"
+    },
+    {
+      "diagnosis": "Fibrosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorfibrosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumor10_21.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Granulosa cell tumor-adult",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorgctadult.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarygctzarei02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarygctzarei03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarygctzarei04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarygctzarei05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarygctzarei06.jpg",
+        "https://www.pathologyoutlines.com/images/ovaryadultGCTlow.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor9_5.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor9_7.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor9_9.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor9_10.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor9_11.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor9_17.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor9_18.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with abnormal bleeding"
+    },
+    {
+      "diagnosis": "Granulosa cell tumor-juvenile",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorgctjuv.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovaryJGCThuvila01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryJGCThuvila02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryJGCThuvila03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryJGCThuvila04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryJGCTafip04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryJGCTafip05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryJGCTafip06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryJGCTafip10.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryJGCTafip11.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryJGCTafip12.jpg"
+      ],
+      "clinicalInfo": "15-year-old female with precocious puberty"
+    },
+    {
+      "diagnosis": "Sertoli cell tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorsertoli.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarysertoliwelter01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysertoliwelter02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysertoliwelter03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysertoliwelter04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysertoliwelter05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysertoliwelter06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarysertoliwelter07.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Sex cord tumor with annular tubules",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorsexcordannular.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsexcordannularLengyel01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsexcordannularLengyel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsexcordannularLengyel03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsexcordannularLengyel04.jpg",
+        "https://www.pathologyoutlines.com/images/ovaryannular1.jpg",
+        "https://www.pathologyoutlines.com/images/ovaryannular2.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with ovarian mass"
+    },
+    {
+      "diagnosis": "Sertoli-Leydig cell tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorsertolileydig.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsertolileydigBuza6.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsertolileydigBuza5.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsertolileydigBuza010.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsertolileydigBuza9.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with virilization"
+    },
+    {
+      "diagnosis": "Teratoma-mature",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorteratomamature.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovaryteratomamaturewelter03NEW.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryteratomamaturewelter04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryteratomamaturewelter05NEW.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryteratomamaturewelter06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryteratomamaturewelter07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryteratomamaturewelter08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryteratomamaturewelter09NEW.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryteratomamaturewelter10.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryteratomamaturewelter11.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorteratomamatureAndrew_Fltv02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorteratomamatureAndrew_Fltv03.jpg"
+      ],
+      "clinicalInfo": "25-year-old female with ovarian cyst"
+    },
+    {
+      "diagnosis": "Teratoma-immature",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorteratomaimmature.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorteratomaimmatureBusca01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorteratomaimmatureBusca06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorteratomaimmatureBusca02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorteratomaimmatureBusca03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorteratomaimmatureBusca04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorteratomaimmatureBusca05.jpg"
+      ],
+      "clinicalInfo": "20-year-old female with abdominal mass"
+    },
+    {
+      "diagnosis": "Dysgerminoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumordysgerminoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroSong1.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroSong2.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroSong3.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroSong4.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroSong5.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroSong6.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroSong7.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroSong8.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroAFIP1.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroAFIP2.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroAFIP3.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumordysgerminomaMicroAFIP4.jpg"
+      ],
+      "clinicalInfo": "20-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Yolk sac tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumoryolksac.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumoryolksac_song01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumoryolksac_Turashvili01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor13_24.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumoryolksac_song07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumoryolksac_song08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumoryolksac_song06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumoryolksac_song04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumoryolksac_Turashvili02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumoryolksac_song03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor13_20.jpg"
+      ],
+      "clinicalInfo": "25-year-old female with abdominal pain"
+    },
+    {
+      "diagnosis": "Embryonal carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorembryonal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovaryembryonalcarcinomabentz04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryembryonalcarcinomabentz05.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Choriocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorchorio.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/bc/Choriocarcinoma_-2-_very_high_mag.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Choriocarcinoma_-_high_mag.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with elevated hCG"
+    },
+    {
+      "diagnosis": "Struma ovarii",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorstruma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorstrumasong004.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorstrumasong005.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorstrumakorchagina001.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor15_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor15_06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor15_07.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with thyroid-like symptoms"
+    },
+    {
+      "diagnosis": "Carcinoid tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorcarcinoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidHanley01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidHanley02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidHanley03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidHanley05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidHanley06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidHanley07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidHanley08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidHanley04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidShen004.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidShen005.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidShen006.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidShen007.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidAFIP02a.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorcarcinoidAFIP02b.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor15_15.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with carcinoid syndrome"
+    },
+    {
+      "diagnosis": "Gonadoblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorgonadoblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorgonadoblastomabyrd02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorgonadoblastomabyrd03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorgonadoblastomabyrd04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorgonadoblastomabyrd05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorgonadoblastomabyrd06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorgonadoblastomabyrd07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorgonadoblastomakontosisbarroeta08.jpg"
+      ],
+      "clinicalInfo": "20-year-old female with ambiguous genitalia"
+    },
+    {
+      "diagnosis": "Rete cystadenoma, adenoma and adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovaryreteovarii.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumor17_29.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor17_30.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with ovarian cyst"
+    },
+    {
+      "diagnosis": "Wolffian tumor / Female adnexal tumor of probable Wolffian origin",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorfatwo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/fallopianFATPWOlucaszheng01.jpg",
+        "https://www.pathologyoutlines.com/imgau/fallopianFATPWOlucaszheng02.jpg",
+        "https://www.pathologyoutlines.com/imgau/fallopianFATPWOlucaszheng03.jpg",
+        "https://www.pathologyoutlines.com/imgau/fallopianFATPWOlucaszheng04.jpg",
+        "https://www.pathologyoutlines.com/imgau/fallopianFATPWOlucaszheng05.jpg",
+        "https://www.pathologyoutlines.com/imgau/fallopianFATPWOlucaszheng07.jpg",
+        "https://www.pathologyoutlines.com/imgau/fallopianFATPWOlucaszheng08.jpg",
+        "https://www.pathologyoutlines.com/imgau/fallopianFATPWOlucaszheng09.jpg",
+        "https://www.pathologyoutlines.com/imgau/fallopianFATPWOlucaszheng10.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with adnexal mass"
+    },
+    {
+      "diagnosis": "Solid pseudopapillary tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorspn.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorspnsingh018.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorspnsingh004.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorspnsingh005.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorspnsingh006.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with abdominal mass"
+    },
+    {
+      "diagnosis": "Small cell carcinoma of ovary, hypercalcemic type",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorsmallcellhyper.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsmallcellhypertessiercloutier01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsmallcellhypertessiercloutier02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsmallcellhypertessiercloutier03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsmallcellhyperafip01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsmallcellhyperafip02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsmallcellhyperafip03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsmallcellhyperafip04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsmallcellhyperafip05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsmallcellhyperafip06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsmallcellhyperafip07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorsmallcellhyperafip08.jpg"
+      ],
+      "clinicalInfo": "25-year-old female with hypercalcemia and ovarian mass"
+    },
+    {
+      "diagnosis": "Wilms tumor (nephroblastoma)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumornephroblastoma.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/Adult_Wilms%27_tumour_1.JPEG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/17/Adult_Wilms%27_tumour_2.JPEG",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f3/Wilms_tumour_-_low_mag.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fa/Wilms_tumour_-_intermed_mag.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wilms_tumour_-_high_mag.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Wilms_tumour_-_very_high_mag.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with abdominal mass"
+    },
+    {
+      "diagnosis": "Serous cystadenoma, adenofibroma and surface papilloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorserousbenign.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousbenignHanleyRoe03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousbenignHanleyRoe04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousbenignHanleyRoe12.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousbenignHanleyRoe05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousbenignHanleyRoe13.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousbenignHanleyRoe06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousbenignHanleyRoe07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousbenignHanleyRoe08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousbenignHanleyRoe09.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousbenignHanleyRoe10.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousbenignHanleyRoe11.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with ovarian cyst"
+    },
+    {
+      "diagnosis": "Serous borderline tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorserousborderline.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro14.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro11.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro12.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro13.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro8.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserousborderlinemicro9.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormicroinvasiveherran03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormicroinvasiveherran04.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Low grade serous carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorserouscarcinomalg.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomalgForgo05.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomalgForgo06.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomalgForgo07.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomalgForgo08.jpeg"
+      ],
+      "clinicalInfo": "50-year-old female with abdominal pain"
+    },
+    {
+      "diagnosis": "High grade serous carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorserouscarcinomahg.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr001.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr002.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr003.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr04.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr006.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr007.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr008.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr09.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr10.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr011.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr023.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorserouscarcinomahgmicr024.jpeg",
+        "https://www.pathologyoutlines.com/caseofweek/Case538image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case538image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case538image3.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with abdominal swelling"
+    },
+    {
+      "diagnosis": "Mucinous cystadenoma and adenofibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumormucinousbenign.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumormucinousbenignturashvili01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormucinousbenignturashvili02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormucinousbenignturashvili03.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Mucinous borderline tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorborderlinemucinous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorborderlinemucinousVang02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorborderlinemucinousVang03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorborderlinemucinousVang04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorborderlinemucinousVang05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorborderlinemucinousVang06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorborderlinemucinousVang07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorborderlinemucinousVang08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorborderlinemucinousAminiaCiobanoiu01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorborderlinemucinousAminiaCiobanoiu02.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with abdominal pain"
+    },
+    {
+      "diagnosis": "Mucinous carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumormucinouscarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumormucinouscarcinomaDevins02.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormucinouscarcinomaHsuLin01.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormucinouscarcinomaZanfagnin06.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormucinouscarcinomaZanfagnin07.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormucinouscarcinomaZanfagnin08.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormucinouscarcinomaZanfagnin09.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormucinouscarcinomaZanfagnin10.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumormucinouscarcinomaOliva03.jpeg"
+      ],
+      "clinicalInfo": "55-year-old female with abdominal mass"
+    },
+    {
+      "diagnosis": "Endometrioid cystadenoma and adenofibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorendometadenofibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorendometadenofibromaSkala1.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorendometadenofibromaSkala2.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorendometadenofibromaSkala3.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorendometadenofibromaSkala4.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with pelvic pain"
+    },
+    {
+      "diagnosis": "Endometrioid borderline tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorendoborderline.html",
+      "images": [
+        "https://www.webpathology.com/_next/image?url=https%3A%2F%2Fd3cyex60hhnlth.cloudfront.net%2Ffit-in%2F650x650%2Ffilters%3Aformat(webp)%2Fcase%2Fdetail_images%2Fc6239_detail.jpg&w=750&q=75",
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1245%2Fs10434-022-11893-7/MediaObjects/10434_2022_11893_Fig3_HTML.jpg",
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1245%2Fs10434-022-11893-7/MediaObjects/10434_2022_11893_Fig4_HTML.jpg",
+        "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1186%2Fs13048-018-0440-x/MediaObjects/13048_2018_440_Fig1_HTML.png"
+      ],
+      "clinicalInfo": "50-year-old female with abnormalbleeding"
+    },
+    {
+      "diagnosis": "Endometrioid carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorendometrioidcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomaozlen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomasaglam22.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomaozlen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomaozlen04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomaozlen05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomaozlen06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomaozlen07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomaozlen08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomaozlen09.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomaozlen10.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomaozlen11.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryendometrioidcarcinomaozlen12.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case500image01.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case500image02.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case500image03.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case500image04.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case500image05.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Clear cell borderline tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovaryclearcellborderlinetumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovaryCCBTma01crop.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryCCBTma02crop.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryCCBTma03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryCCBTma04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryCCBTma05.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with ovarian cyst"
+    },
+    {
+      "diagnosis": "Clear cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarytumorclearcell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorclearcellTurashvilimicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorclearcellTurashvilimicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorclearcellTurashvilimicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorclearcellTurashvilimicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorclearcellVranic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorclearcellTurashvilimicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorclearcellTurashvilimicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorclearcellTurashvilimicro07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorclearcellVranic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorclearcellLanjewar001.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor6_8.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor6_18.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumor6_16.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Tubo-ovarian abscess",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarynontumortuboovarianabscess.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorabscessabdelzaher01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorabscessabdelzaher02.jpg",
+        "https://www.pathologyoutlines.com/images/ovary/22_63.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with pelvic pain and fever"
+    },
+    {
+      "diagnosis": "Xanthogranulomatous oophoritis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarynontumorxanthogranoophoritis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorxanthogranoophoritis_qiao03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorxanthogranoophoritis_qiao04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorxanthogranoophoritis_qiao05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorxanthogranoophoritis_qiao06.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorxanthogranoophoritis_qiao07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorxanthogranoophoritis_qiao08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorxanthogranoophoritis_qiao09.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorxanthogranoophoritis_qiao10.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with chronic pelvic pain"
+    },
+    {
+      "diagnosis": "Endosalpingiosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarynontumorendosalpingiosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorendosalpingiosisMicroBusca1.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorendosalpingiosisMicroBusca2.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorendosalpingiosisMicroBusca3.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorendosalpingiosisMicroBusca4.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorendosalpingiosisMicroBusca5.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorendosalpingiosisMicroBusca6.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with incidental finding"
+    },
+    {
+      "diagnosis": "Cortical inclusion cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarynontumorinclusioncyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovaryEICbusca_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryEICbusca_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryEICbusca_03.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with ovarian cyst"
+    },
+    {
+      "diagnosis": "Polycystic ovary disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovaryPCO.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovaryPCOMicroLengyel02.png",
+        "https://www.pathologyoutlines.com/imgau/ovaryPCOMicroLengyel001.PNG",
+        "https://www.pathologyoutlines.com/imgau/ovaryPCOMicroLengyel03.png",
+        "https://www.pathologyoutlines.com/images/ovary/22_07.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with irregular periods"
+    },
+    {
+      "diagnosis": "Corpus luteum cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarynontumorcorpuslutcyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorcorpuslutcystbusca5.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorcorpuslutcystbusca6.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorcorpuslutcystbusca7.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorcorpuslutcystbusca8.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with pelvic pain"
+    },
+    {
+      "diagnosis": "Fibromatosis and massive edema",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarymassiveedema.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovary/ovarymassiveedemacastillo1.JPG",
+        "https://www.pathologyoutlines.com/imgau/ovary/ovarymassiveedemacastillo2.JPG",
+        "https://www.pathologyoutlines.com/imgau/ovary/ovarymassiveedemacastillo3.JPG",
+        "https://www.pathologyoutlines.com/imgau/ovary/ovarymassiveedemacastillo4.JPG",
+        "https://www.pathologyoutlines.com/imgau/ovary/ovarymassiveedemacastillo5.JPG",
+        "https://www.pathologyoutlines.com/imgau/ovary/ovarymassiveedemacastillo6.JPG",
+        "https://www.pathologyoutlines.com/images/ovary/22_21.jpg",
+        "https://pathorama.ch/storage/samples/002979.jpg",
+        "https://pathorama.ch/storage/samples/002978.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with ovarian enlargement"
+    },
+    {
+      "diagnosis": "Follicle cyst",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarynontumorfollicularcysts.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorfollicularcystsTurashvili01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorfollicularcystsTurashvili02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorfollicularcystsTurashvili03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorfollicularcystsTurashvili04.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with ovarian cyst"
+    },
+    {
+      "diagnosis": "Hyperreactio luteinalis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarynontumorhyperreactio.html",
+      "images": [
+        "https://www.pathologyoutlines.com/images/ovary/22_37.jpg",
+        "https://www.pathologyoutlines.com/images/ovary/22_38.jpg",
+        "https://www.pathologyoutlines.com/images/ovary/22_39.jpg"
+      ],
+      "clinicalInfo": "35-year-old pregnant female with ovarian enlargement"
+    },
+    {
+      "diagnosis": "Large solitary luteinized follicular cyst of pregnancy and puerperium",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovaryLSLFC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/OvaryLSLFCIslam01.jpg",
+        "https://www.pathologyoutlines.com/imgau/OvaryLSLFCIslam02.jpg",
+        "https://www.pathologyoutlines.com/imgau/OvaryLSLFCIslam03.jpg",
+        "https://www.pathologyoutlines.com/imgau/OvaryLSLFCIslam04.jpg",
+        "https://www.pathologyoutlines.com/imgau/OvaryLSLFCIslam05.jpg"
+      ],
+      "clinicalInfo": "30-year-old pregnant female with ovarian cyst"
+    },
+    {
+      "diagnosis": "Leydig cell hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovaryleydigcellhyperplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovaryleydigcellhyperplasiaRastegar01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryleydigcellhyperplasiaRastegar02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryleydigcellhyperplasiaRastegar03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryleydigcellhyperplasiaRastegar04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovaryleydigcellhyperplasiaRastegar05.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with virilization"
+    },
+    {
+      "diagnosis": "Pregnancy luteoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarypregnancyluteoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarypregnancyluteomaBhardwajKalir03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarypregnancyluteomaBhardwajKalir04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarypregnancyluteomaBhardwajKalir05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarypregnancyluteomaBhardwajKalir07.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarypregnancyluteomaBhardwajKalir08.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarypregnancyluteomaBhardwajKalir09.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarypregnancyluteomaBhardwajKalir10.jpg"
+      ],
+      "clinicalInfo": "35-year-old pregnant female with ovarian mass"
+    },
+    {
+      "diagnosis": "Stromal hyperplasia and hyperthecosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarynontumorhyperthecosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorhyperthecosisAdnan01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorhyperthecosisAdnan02.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorhyperthecosisAdnan03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynon tumorhyperthecosisAdnan04.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorhyperthecosisAdnan05.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarynontumorhyperthecosisAdnan06.jpg",
+        "https://www.pathologyoutlines.com/images/ovary/22_11.jpg",
+        "https://www.pathologyoutlines.com/images/ovary/22_15.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with hirsutism"
+    }
+  ]
+}

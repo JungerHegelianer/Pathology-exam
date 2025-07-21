@@ -1,0 +1,644 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Atrophic gastritis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachchronicatrophic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachchronicatrophicrytych03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachchronicatrophicrytych04.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachchronicatrophicrytych05.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachchronicatrophicrytych07.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachchronicatrophicrytych09.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with dyspepsia and weight loss"
+    },
+    {
+      "diagnosis": "Collagenous gastritis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachcollagenous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachcollagenousMorrow_03.jpeg",
+        "https://www.pathologyoutlines.com/imgau/stomachcollagenousMorrow_04.jpeg",
+        "https://www.pathologyoutlines.com/imgau/stomachcollagenousMorrow_05.jpeg",
+        "https://www.pathologyoutlines.com/imgau/stomachcollagenousMorrow_07.jpeg",
+        "https://www.pathologyoutlines.com/imgau/stomachcollagenousMorrow_08.jpeg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7db7/5074812/b29e360dad4e/gr-06-139-g004.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7db7/5074812/6b21e9d0fedc/gr-06-139-g002.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with abdominal pain and nausea"
+    },
+    {
+      "diagnosis": "Eosinophilic gastroenterocolitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/coloneosinophilic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/coloneosinophilicparkzhang01.jpg",
+        "https://www.pathologyoutlines.com/imgau/coloneosinophilicparkzhang02.jpg",
+        "https://www.pathologyoutlines.com/imgau/coloneosinophilicparkzhang03.jpg",
+        "https://www.pathologyoutlines.com/imgau/coloneosinophilicparkzhang04.jpg",
+        "https://www.pathologyoutlines.com/imgau/coloneosinophilicparkzhang05.jpg",
+        "https://www.pathologyoutlines.com/imgau/coloneosinophilicparkzhang06.jpg",
+        "https://www.pathologyoutlines.com/imgau/coloneosinophilicparkzhang07.jpg",
+        "https://www.pathologyoutlines.com/imgau/coloneosinophilicparkzhang08.jpg",
+        "https://www.pathologyoutlines.com/imgau/coloneosinophilicparkzhang09.jpg",
+        "https://www.pathologyoutlines.com/imgau/coloneosinophilicparkzhang10.jpg",
+        "https://www.pathologyoutlines.com/imgau/coloneosinophilicparkzhang11.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with diarrhea and abdominal discomfort"
+    },
+    {
+      "diagnosis": "Erosive gastritis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomacherosive.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomacherosiveMicroVithanage01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomacherosiveMicroVithanage02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomacherosiveMicroVithanage03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomacherosiveMicroVithanage04.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomacherosiveMicroLiao1.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomacherosiveMicroLiao2.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with epigastric pain and nausea"
+    },
+    {
+      "diagnosis": "Graft versus host disease (stomach)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachGVHD.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachGVHDLehrke1.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGVHDLehrke2.jpg",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S0046817715002105-gr1.jpg",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S0046817715002105-gr2.jpg",
+        "https://www.astctjournal.org/cms/10.1016/j.bbmt.2005.10.023/asset/35b95bcf-ecd5-4072-a22f-d62de6c286dc/main.assets/gr3.jpg",
+        "https://www.astctjournal.org/cms/10.1016/j.bbmt.2005.10.023/asset/352e1f17-3ed5-4d2d-8900-cd31a6079caa/main.assets/gr4.jpg",
+        "https://www.astctjournal.org/cms/10.1016/j.bbmt.2005.10.023/asset/19908b30-a2d6-4697-858b-e025aec04ec9/main.assets/gr5.jpg"
+      ],
+      "clinicalInfo": "45-year-old male post-transplant with nausea and vomiting"
+    },
+    {
+      "diagnosis": "Lymphocytic gastritis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachlymphocyticgastritis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachlymphocyticgastritisMorrow_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachlymphocyticgastritisMorrow_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachlymphocyticgastritisMorrow_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachlymphocyticgastritisMorrow_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachlymphocyticgastritisMorrow_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachlymphocyticgastritisMorrow_06.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachlymphocyticgastritisRaulSGonzalezMD01.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with chronic abdominal pain"
+    },
+    {
+      "diagnosis": "Russell body gastritis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachrussellbody.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case410image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case410image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case410image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case410image4.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with dyspepsia and gastric inflammation"
+    },
+    {
+      "diagnosis": "CMV",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachCMV.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachCMVBychkov_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachCMVBychkov_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachCMVBychkov_04.jpg"
+      ],
+      "clinicalInfo": "40-year-old immunocompromised male with epigastric pain"
+    },
+    {
+      "diagnosis": "Helicobacter heilmannii",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachhh.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachhhliverwei01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachhhliverwei02.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with upper abdominal discomfort"
+    },
+    {
+      "diagnosis": "Acute gastric ulcer",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachacutegastriculcer.html",
+      "images": [
+        "https://webpath.med.utah.edu/jpeg4/GI022.jpg",
+        "https://webpath.med.utah.edu/jpeg4/GI020.jpg",
+        "https://webpath.med.utah.edu/jpeg4/GI021.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with sudden upper abdominal pain"
+    },
+    {
+      "diagnosis": "Gastric antral vascular ectasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachantralvascularect.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachantralvascularectLee01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachantralvascularectLee02.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with anemia and epigastric discomfort"
+    },
+    {
+      "diagnosis": "Iron pill gastritis / pill gastritis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachiron.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachironMicroGarcia1.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachironMicroGarcia2.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachironMicroGarcia3.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachironMicroGarcia6.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachironMicroGarcia8.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with gastritis symptoms on iron supplements"
+    },
+    {
+      "diagnosis": "Proton pump inhibitors",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachPPI.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachPPINazliHagenMoreira01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachPPINazliHagenMoreira02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachPPINazliHagenMoreira03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachPPINazliHagenMoreira04.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachPPINazliHagenMoreira05a.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachPPINazliHagenMoreira05b.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachPPINazliHagenMoreira06.jpg"
+      ],
+      "clinicalInfo": "65-year-old female with chronic dyspepsia"
+    },
+    {
+      "diagnosis": "Reactive (chemical) gastropathy",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachchemical.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachchemicalHuber001.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachchemicalHuber002.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with epigastric pain and NSAID use"
+    },
+    {
+      "diagnosis": "Xanthoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachxanthoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachxanthomaHuber01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachxanthomaHuber02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachxanthomaHuber03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachxanthomaHuber04.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with incidental gastric lesion"
+    },
+    {
+      "diagnosis": "Polyps - Adenomas",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachadenomas.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachadenomaswang01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachadenomaswang02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachadenomaswang03.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with polyp on gastric endoscopy"
+    },
+    {
+      "diagnosis": "Cowden",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachcowdens.html",
+      "images": [
+        "https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=327154&s=29&r=1&c=2",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/391a/3286151/9dadd97c8f7d/WJG-18-861-g002.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with multiple gastric polyps"
+    },
+    {
+      "diagnosis": "Graft versus host disease (stomach, duplicate)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachGVHD.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachGVHDLehrke1.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGVHDLehrke2.jpg",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S0046817715002105-gr1.jpg",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S0046817715002105-gr2.jpg",
+        "https://www.astctjournal.org/cms/10.1016/j.bbmt.2005.10.023/asset/35b95bcf-ecd5-4072-a22f-d62de6c286dc/main.assets/gr3.jpg",
+        "https://www.astctjournal.org/cms/10.1016/j.bbmt.2005.10.023/asset/352e1f17-3ed5-4d2d-8900-cd31a6079caa/main.assets/gr4.jpg",
+        "https://www.astctjournal.org/cms/10.1016/j.bbmt.2005.10.023/asset/19908b30-a2d6-4697-858b-e025aec04ec9/main.assets/gr5.jpg"
+      ],
+      "clinicalInfo": "45-year-old male post-transplant with nausea and vomiting"
+    },
+    {
+      "diagnosis": "Fundic gland polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachfundicgland.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachfundicglandAssarzadegan_01.jpeg",
+        "https://www.pathologyoutlines.com/imgau/stomachfundicglandAssarzadegan_02.jpeg",
+        "https://www.pathologyoutlines.com/imgau/stomachfundicglandAssarzadegan_03.jpeg",
+        "https://pathologyoutlines.com/caseofweek/case389image1_20x.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with gastric polyps on endoscopy"
+    },
+    {
+      "diagnosis": "Gastritis cystica polyposa",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachgastritiscyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachgastritiscystRaulSGonzalezMD01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachgastritiscystRaulSGonzalezMD02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachgastritiscystRaulSGonzalezMD03.jpg",
+        "https://casereports.bmj.com/content/casereports/2011/bcr.08.2011.4617/F1.large.jpg?width=800&height=600&carousel=1"
+      ],
+      "clinicalInfo": "55-year-old male with polyp post-gastric surgery"
+    },
+    {
+      "diagnosis": "Hyperplastic polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachhyperplastic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachhyperplasticgarciabuitrago01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachhyperplasticgarciabuitrago02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachhyperplasticgarciabuitrago03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachhyperplasticaljuboori04.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachhyperplasticgarciabuitrago05.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachhyperplasticgarciabuitrago06.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachhyperplasticgarciabuitrago07.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachhyperplasticgarciabuitrago08.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachhyperplasticgarciabuitrago09.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachhyperplasticbychkov_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/lymphomanonBatlvstomachhyperplasticbychkov_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachhyperplasticBychkov_03.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with anemia and gastric polyp"
+    },
+    {
+      "diagnosis": "Inflammatory fibroid polyp (stomach)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachinflammatoryfibroid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachinflammatoryfibroidassarzadegan_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachinflammatoryfibroidassarzadegan_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachinflammatoryfibroidassarzadegan_03.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case421image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case421image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case421image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case421image2.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with abdominal pain and polyp on endoscopy"
+    },
+    {
+      "diagnosis": "Juvenile polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachjuvenile.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachjuvenileEsnakula03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachjuvenileEsnakula04.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachjuvenileEsnakula05.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachjuvenileEsnakula07.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachjuvenileEsnakula06.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachjuvenileEsnakula08.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachjuvenileEsnakula09.jpg"
+      ],
+      "clinicalInfo": "20-year-old male with multiple gastric polyps"
+    },
+    {
+      "diagnosis": "Oxyntic gland adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachoxynticglandadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachoxynticglandadenomaliuwang02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachoxynticglandadenomaliuwang03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachoxynticglandadenomaliuwang04.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with gastric polyp on endoscopy"
+    },
+    {
+      "diagnosis": "Peutz-Jeghers",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachpeutzjeghers.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Gastric_Peutz-Jeghers_polyp_-_low_mag.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with multiple gastric polyps"
+    },
+    {
+      "diagnosis": "Pyloric gland adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachpyloricglandadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachpyloricglandadenomamicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachpyloricglandadenomamicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachpyloricglandadenomamicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachpyloricglandadenomamicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachpyloricglandadenomamicro8.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachpyloricglandadenomamicro9.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with gastric polyp on endoscopy"
+    },
+    {
+      "diagnosis": "Dysplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachdysplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachdysplasiaMicroBerg1.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachdysplasiaMicroBerg2.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachdysplasiaMicroBerg3.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachdysplasiaMicroBerg4.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with abnormal gastric biopsy"
+    },
+    {
+      "diagnosis": "Intestinal metaplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachintestinalmetaplasia.html",
+      "images": [
+        "https://librepathology.org/w/images/thumb/1/14/Stomach_with_intestinal_metaplasia_--_intermed_mag.jpg/330px-Stomach_with_intestinal_metaplasia_--_intermed_mag.jpg",
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10620-019-05526-5/MediaObjects/10620_2019_5526_Fig3_HTML.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with chronic gastric inflammation"
+    },
+    {
+      "diagnosis": "Carcinoma-general",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachcarcinomageneral.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachcarcinomageneralmartinezciarpaglini10.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachcarcinomageneralmartinezciarpaglini11.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachcarcinomageneralmartinezciarpaglini12.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachcarcinomageneralmartinezciarpaglini13.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with weight loss and gastric mass"
+    },
+    {
+      "diagnosis": "Diffuse type",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachdiffuse.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachdiffuseKaur03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachdiffuseKaur04.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachdiffuseKaur05.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachdiffuseKaur07.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachdiffuseKaur08.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with gastric mass and weight loss"
+    },
+    {
+      "diagnosis": "Well differentiated neuroendocrine tumor (G1/G2/G3)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachcarcinoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachcarcinoidRazzano01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachcarcinoidRazzano02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachcarcinoidmicroRaulSGonzalezMD1.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachcarcinoidmicroRaulSGonzalezMD2.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachcarcinoidmicroRaulSGonzalezMD3.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachcarcinoidRaulSGonzalezMD01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachcarcinoidRaulSGonzalezMD02.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with gastric lesion on endoscopy"
+    },
+    {
+      "diagnosis": "Poorly differentiated neuroendocrine carcinoma (SCNEC/LCNEC)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachneuroendocrineclassification.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachneuroendocrineclassificationmahjabin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachneuroendocrineclassificationmahjabin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachneuroendocrineclassificationmahjabin08.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with high-grade gastric tumor"
+    },
+    {
+      "diagnosis": "Mixed neuroendocrine-nonneuroendocrine",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachamphicrine.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachneuroendocrineclassificationmahjabin08.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with gastric mass"
+    },
+    {
+      "diagnosis": "Extranodal marginal zone lymphoma of mucosa associated lymphoid tissue (MALT lymphoma)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachMALT.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachMALTwen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachMALTwen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachMALTwen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachMALTwen04.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachMALTwen09.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachMALTwen10.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with gastric mass and dyspepsia"
+    },
+    {
+      "diagnosis": "Gastroblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachgastroblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/gastroblastomaGonzalezGraham01.jpg",
+        "https://www.pathologyoutlines.com/imgau/gastroblastomaGonzalezGraham02.jpg",
+        "https://www.pathologyoutlines.com/imgau/gastroblastomaGonzalezGraham03.jpg",
+        "https://www.pathologyoutlines.com/imgau/gastroblastomaGonzalezGraham04.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with gastric mass"
+    },
+    {
+      "diagnosis": "GIST",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachGIST.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBell_10.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBell_11.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBell_12.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBell_13.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTFindeis-Hosey_014.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTFindeis-Hosey_015.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBell_16.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBell_17.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBell_18.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBell_19.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachGISTBychkov_01.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case523img2.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with submucosal gastric mass"
+    },
+    {
+      "diagnosis": "Glomus tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachglomus.html",
+      "images": [
+        "https://pathologyoutlines.com/caseofweek/case393image6.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image7.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image13.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image17.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image3.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image4.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image5.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image8.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image9.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image10.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image11.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image12.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image14.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image15.jpg",
+        "https://pathologyoutlines.com/caseofweek/case393image16.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachglomusRaulSGonzalezMD01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachglomusRaulSGonzalezMD02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachglomusRaulSGonzalezMD03.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with gastric submucosal lesion"
+    },
+    {
+      "diagnosis": "Leiomyosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachleiomyosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachleiomyosarcoma_Gonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachleiomyosarcoma_Gonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachleiomyosarcoma_Gonzalez03.jpg",
+        "https://pathologyoutlines.com/caseofweek/case438image2.jpg",
+        "https://pathologyoutlines.com/caseofweek/case438image3.jpg",
+        "https://pathologyoutlines.com/caseofweek/case438image4.jpg",
+        "https://pathologyoutlines.com/caseofweek/case438image5.jpg",
+        "https://pathologyoutlines.com/caseofweek/case438image6.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with gastric mass and weight loss"
+    },
+    {
+      "diagnosis": "Plexiform fibromyxoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/stomachplexiformfibromyxoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/stomachplexiformfibromyxoma_GanLiu06.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachplexiformfibromyxoma_GanLiu07.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachplexiformfibromyxoma_GanLiu08.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachplexiformfibromyxoma_GanLiu09.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachplexiformfibromyxoma_Gonzalez11.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachplexiformfibromyxoma_Gonzalez12.jpg",
+        "https://www.pathologyoutlines.com/imgau/stomachplexiformfibromyxoma_Gonzalez13.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with gastric mass"
+    },
+    {
+      "diagnosis": "Giardia lamblia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallbowelgiardiasis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/smallbowelgiardiasisVitha01.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelgiardiasisVitha03.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case157image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case157image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case543image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case543image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case543image3.jpg"
+      ],
+      "clinicalInfo": "35-year-old male with chronic diarrhea and malabsorption"
+    },
+    {
+      "diagnosis": "Whipple disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallbowelwhipple.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/smallbowelwhipplePaulsen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelwhipplePaulsen02.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with weight loss and joint pain"
+    },
+    {
+      "diagnosis": "Inflammatory fibroid polyp (small bowel)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallbowelinflammatoryfibroidpolyp.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/smallbowelinflammatoryfibroidpolyparchivesofpathologyMendez03.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelinflammatoryfibroidpolyparchivesofpathologyMendez04.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelinflammatoryfibroidpolyparchivesofpathologyMendez05.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with abdominal pain and small bowel polyp"
+    },
+    {
+      "diagnosis": "Juvenile polyposis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallboweljuvenilepolyposis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissharma01.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissharma02.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissharma03.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissharma04.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissharma05.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissharma06.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissharma07.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissharma08.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissharma09.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissharma10.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissheridanszabo11.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallboweljuvenilepolyposissheridanszabo12.jpg"
+      ],
+      "clinicalInfo": "25-year-old male with multiple small bowel polyps"
+    },
+    {
+      "diagnosis": "Leiomyoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallbowelleiomyoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/smallbowelleiomyomaAFIP1.jpeg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelleiomyomaAFIP2.jpeg"
+      ],
+      "clinicalInfo": "50-year-old female with submucosal small bowel mass"
+    },
+    {
+      "diagnosis": "Lymphangiectasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallbowellymphangiectasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/smallbowellymphangiectasia_Vyas01.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowellymphangiectasia_Vyas02.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowellymphangiectasia_Vyas03.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowellymphangiectasia_Vyas04.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with malabsorption and diarrhea"
+    },
+    {
+      "diagnosis": "Peutz-Jeghers polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallbowelpeutzjeghers.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/smallbowelpeutzjeghersMicroPatel1.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelpeutzjeghersMicroPatel2.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelpeutzjeghersMicroPatel3.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelpeutzjeghersMicroPatel4.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelpeutzjeghersMicroPatel5.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelpeutzjeghersMicroPatel6.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelpeutzjeghersSueEPig01.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelpeutzjeghersSueEPig02.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with multiple small bowel polyps"
+    },
+    {
+      "diagnosis": "Pseudomelanosis duodeni",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallbowelpseudomelanosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/smallbowelpseudomelanosisTwitterImageWei1.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelpseudomelanosisTwitterImageWei2.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelpseudomelanosisTwitterImageWei3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case231image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case231image3.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with duodenal discoloration on endoscopy"
+    },
+    {
+      "diagnosis": "Sclerosing peritonitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallbowelsclerosingperitonitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case482image4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case482image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case482image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case482image7.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with abdominal pain and bowel obstruction"
+    },
+    {
+      "diagnosis": "Duodenal peptic ulcer",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallbowelduodenalpepticulcer.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/smallbowelduodenalpepticulcerGonzalez03.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelduodenalpepticulcerGonzalez04.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelduodenalpepticulcerGonzalez05.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelduodenalpepticulcerGonzalez06.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelduodenalpepticulcerGonzalez07.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelduodenalpepticulcerGonzalez08.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with epigastric pain and bleeding"
+    },
+    {
+      "diagnosis": "Autoimmune enteropathy",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallbowelautoimmuneenter.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/smallbowelautoimmuneenterShenoy1.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelautoimmuneenterShenoy02.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelautoimmuneenterShenoy3.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with chronic diarrhea and weight loss"
+    },
+    {
+      "diagnosis": "Crohn's disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallbowelcrohns.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/smallbowelcrohnsWong01.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelcrohnsWong02.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelcrohnsWong03.jpg",
+        "https://www.pathologyoutlines.com/imgau/smallbowelcrohnsWong04.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with chronic abdominal pain and diarrhea"
+    },
+    {
+      "diagnosis": "Diaphragm disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/smallboweldiaphragmdisease.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case240image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case240image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case240image6.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case240image7.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with NSAID use and bowel obstruction"
+    }
+  ]
+}

@@ -1,45 +1,88 @@
-<!DOCTYPE html>
+<script type="text/javascript">
+        var gk_isXlsx = false;
+        var gk_xlsxFileLookup = {};
+        var gk_fileData = {};
+        function filledCell(cell) {
+          return cell !== '' && cell != null;
+        }
+        function loadFileData(filename) {
+        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
+            try {
+                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
+                var firstSheetName = workbook.SheetNames[0];
+                var worksheet = workbook.Sheets[firstSheetName];
+
+                // Convert sheet to JSON to filter blank rows
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
+                // Filter out blank rows (rows where all cells are empty, null, or undefined)
+                var filteredData = jsonData.filter(row => row.some(filledCell));
+
+                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
+                var headerRowIndex = filteredData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                );
+                // Fallback
+                if (headerRowIndex === -1 || headerRowIndex > 25) {
+                  headerRowIndex = 0;
+                }
+
+                // Convert filtered JSON back to CSV
+                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
+                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
+                return csv;
+            } catch (e) {
+                console.error(e);
+                return "";
+            }
+        }
+        return gk_fileData[filename] || "";
+        }
+        </script><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pathology Trainer</title>
+    <title>Pathology Quiz</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>Pathology Trainer</h1>
         <div id="sectionMenu">
             <button data-section="softTissue">Soft Tissue</button>
             <button data-section="boneAndJoints">Bone & joints</button>
+            <button data-section="headAndNeck">Head & Neck</button>
             <button data-section="liver">Liver</button>
             <button data-section="pancreas">Pancreas</button>
             <button data-section="cns">CNS</button>
             <button data-section="skin">Skin</button>
             <button data-section="kidney">Kidney</button>
-            <button data-section="lung">Lungs</button>
+            <button data-section="lungs">Lungs</button>
             <button data-section="lungTumors">Lung Tumors</button>
             <button data-section="mandibleMaxilla">Mandible & Maxilla</button>
             <button data-section="breast">Breast</button>
-            <button data-section="hematologyandlymphoma">Hematology & Lymphoma</button>
+            <button data-section="hematologyAndLymphoma">Hematology & Lymphoma</button>
             <button data-section="bladder">Bladder</button>
             <button data-section="esophagus">Esophagus</button>
-            <button data-section="stomachandsmallbowel">Stomach & Small Bowel</button>
+            <button data-section="stomachAndSmallBowel">Stomach & Small Bowel</button>
             <button data-section="colorectal">Colo-Rectal</button>
+            <button data-section="ovary">Ovary</button>
+            <button data-section="uterus">Uterus</button>
+            <button data-section="cervix">Cervix</button>
+            <button data-section="vulvaandvagina">Vulva+Vagina</button>
         </div>
-
-        <div id="content">
-            <p id="clinicalInfo"></p>
-            <div id="tumorImages"></div>
+        <div id="clinicalInfo"></div>
+        <div id="tumorImages"></div>
+        <div id="articleLink"></div>
+        <div id="result"></div>
+        <div>
             <button id="checkButton">Check</button>
             <button id="nextImageButton">Next Image</button>
             <button id="showAllImagesButton">Show All Images</button>
-            <p id="result"></p>
-            <p id="score">Correct answers: 0</p>
-            <button id="nextTumorButton">Next Case</button>
         </div>
+        <div id="score">Correct answers: 0</div>
+        <button id="nextTumorButton">Next Case</button>
+        <div id="progressTracker"></div>
     </div>
-
     <script src="script.js"></script>
 </body>
 </html>

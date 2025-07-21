@@ -1,0 +1,477 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Abnormal uterine bleeding",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusdub.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks05.jpeg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks07.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks08.jpeg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks09.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks10.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks11.jpeg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks12.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks13.jpeg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks14.jpeg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks15.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks16.jpeg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubGilks17.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubMirunaPopescu13-01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubMirunaPopescu13-02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubMirunaPopescu13-03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdubMirunaPopescu13-04.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with irregular menstrual bleeding"
+    },
+    {
+      "diagnosis": "Disordered proliferative",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusdisorderedproliferative.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusdisorderedproliferativeChen1.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdisorderedproliferativeChen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdisorderedproliferativeChen03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusdisorderedproliferativeChen04.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with heavy menstrual periods"
+    },
+    {
+      "diagnosis": "Endometrial metaplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusmetaplasia.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialmetaplasiabentz01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialmetaplasiabentz02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialmetaplasiabentz04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialmetaplasiabentz05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialmetaplasiabentz06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialmetaplasiabentz07.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialmetaplasiabentz08.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialmetaplasiabentz09.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialmetaplasiabentz11.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialmetaplasiabentz12.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialmetaplasiabentz16.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with abnormal uterine bleeding"
+    },
+    {
+      "diagnosis": "Endometrial polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusendopolyp.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusendopolypTachibana_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendopolypHaque_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendopolypHaque_13.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendopolypHaque_06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendopolypHaque_08.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendopolypHaque_17.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with intermenstrual bleeding"
+    },
+    {
+      "diagnosis": "Endometritis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusendometritis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusendometritisskala1.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometritisskala04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometritischronictachibana1.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometritisskala06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometritisskala05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometritisskala07.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with pelvic inflammatory disease"
+    },
+    {
+      "diagnosis": "Endometrial hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusendometrialhyperplasiageneral.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialhyperplasiageneralsharma41.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialhyperplasiageneralsharma42.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialhyperplasiageneralsharma43.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialhyperplasiageneralsharma44.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialhyperplasiageneralsharma45.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialhyperplasiageneralsharma46.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialhyperplasiageneralsharma47.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialhyperplasiageneralsharma48.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrialhyperplasiageneralsharma49.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with irregular bleeding"
+    },
+    {
+      "diagnosis": "Carcinosarcoma (MMMT)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusmmmt.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusmmmt_FerreiraFelix03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusmmmt_FerreiraFelix04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusmmmt_FerreiraFelix05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusmmmt_FerreiraFelix08.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusmmmt_FerreiraFelix12.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with postmenopausal bleeding"
+    },
+    {
+      "diagnosis": "Clear cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusclearcell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila07.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila08.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila09.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila10.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila11.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusclearcellhuvila12.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with abnormal bleeding"
+    },
+    {
+      "diagnosis": "Endometrioid carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusendometrioid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra07.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra08.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra09.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra10.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra11.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra12.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra13.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra14.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra15.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusendometrioidsharmalastra16.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with postmenopausal bleeding"
+    },
+    {
+      "diagnosis": "Mesonephric-like adenocarcinoma (uterus / ovary)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/ovarymesonephriclikeadenocarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi1.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi2.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi3.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi4.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi5.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi6.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi15.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi16.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi17.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi18.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi19.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi20.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarymesonephriclikeadenocarcinomaAtwi21.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with abnormal bleeding"
+    },
+    {
+      "diagnosis": "POLE ultramutated endometrial carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusPOLEendometrialcarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusPOLEmutma01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusPOLEmutma02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusPOLEmutma03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusPOLEmutma04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusPOLEmutma05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusPOLEmutma06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusPOLEmutma07.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusPOLEmutma08.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with endometrial mass"
+    },
+    {
+      "diagnosis": "Serous carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusserous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusserous_Lastra_01updated.jpeg",
+        "https://www.pathologyoutlines.com/imgau/uterusserous_Lastra_02.jpeg",
+        "https://www.pathologyoutlines.com/imgau/uterusserous_Lastra_03.jpeg",
+        "https://www.pathologyoutlines.com/imgau/uterusserous_Lastra_04.jpeg"
+      ],
+      "clinicalInfo": "60-year-old female with postmenopausal bleeding"
+    },
+    {
+      "diagnosis": "Undifferentiated / dedifferentiated carcinoma (endometrium / ovary)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusundifferentiated.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ovarytumorundifferentiated_Tessier-Cloutier01.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorundifferentiated_Tessier-Cloutier03.jpg",
+        "https://www.pathologyoutlines.com/imgau/ovarytumorundifferentiated_Tessier-Cloutier04.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with abnormal bleeding"
+    },
+    {
+      "diagnosis": "Leiomyoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusleiomyoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusleiomyoma_Croce08.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusleiomyoma_Croce15.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusleiomyoma_Croce16.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusleiomyomaCroce17.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusleiomyoma_Croce18.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with heavy menstrual bleeding"
+    },
+    {
+      "diagnosis": "Fumarate hydratase deficient (FH-d) leiomyoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusleiomyoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/Case508img2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case508img3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case508img4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case508img5.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with uterine mass"
+    },
+    {
+      "diagnosis": "Intravenous and diffuse leiomyomatosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusleiomyomaintravascular.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusleiomyomaintravascularCroce05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusleiomyomaintravascularCroce06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusleiomyomaintravascularCroce07.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusleiomyomaintravascularCroce08.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with multiple uterine masses"
+    },
+    {
+      "diagnosis": "Smooth muscle tumors of uncertain malignant potential",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusSTUMP.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusSTUMPmicroTurashvili1.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusSTUMPmicroTurashvili2.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusSTUMPmicroTurashvili3.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusSTUMPmicroTurashvili4.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with uterine tumor"
+    },
+    {
+      "diagnosis": "Leiomyosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uteruslms.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud1.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud5.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud2.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud3.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud4.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsfauceglia011.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud6.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsfauceglia008.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsfauceglia002.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsfauceglia009.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud7.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud8.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud9.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud10.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud011.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud13.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud14.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud15.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud16.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruslmsMicroMonsrud17.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with uterine mass"
+    },
+    {
+      "diagnosis": "Endometrial stromal nodule",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusstromalnodule.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusstromalnoduleJeyachandran02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusstromalnoduleJeyachandran03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusstromalnodule_Jeyachandran04.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with abnormal bleeding"
+    },
+    {
+      "diagnosis": "High grade endometrial stromal sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusESShighgrade.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusHGESSkertowidjojo01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusHGESSkertowidjojo02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusHGESSkertowidjojo03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusHGESSkertowidjojo04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusHGESSkertowidjojo06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusESShighgradeOndic11.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusESShighgradeOndic14.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusESShighgradeOndic15.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusESShighgradeOndic31.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusESShighgradeOndic33.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusessgeneralAyhan13new.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "Low grade endometrial stromal sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusESSlowgrade.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusESSlowgradeKertowidjojo04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusESSlowgradeKertowidjojo05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusESSlowgradeKertowidjojo06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusESSlowgradeKertowidjojo07.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusESSlowgradeKertowidjojo09.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusESSlowgradeKertowidjojo10.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusESSlowgradeKertowidjojo11.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusessgeneralAyhan04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusessgeneralAyhan05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusessgeneralAyhan16new.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with abnormal bleeding"
+    },
+    {
+      "diagnosis": "Alveolar soft part sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixalveolarsoftpartssarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaWiedemeyer05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaWiedemeyer06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaWiedemeyer07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaMcCluggage01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaMcCluggage02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaMcCluggage03.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with uterine mass"
+    },
+    {
+      "diagnosis": "Inflammatory myofibroblastic tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusinflammpseudo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusinflammpseudobennett_01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusinflammpseudobennett_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusinflammpseudobennett_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusinflammpseudobennett_06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusinflammpseudobennett_08.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusinflammpseudobennett_07.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with uterine mass"
+    },
+    {
+      "diagnosis": "Perivascular epithelioid cell tumor (PEComa)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusPEComa.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett07.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett08.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett09.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett10.jpg",
+        "https://www.pathologyoutlines.com/imgau/uteruspecoma_Bennett11.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with pelvic mass"
+    },
+    {
+      "diagnosis": "SMARCA4 deficient uterine sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusSMARCA4sarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusSMARCA4sarcomaMicroKommoss01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusSMARCA4sarcomaMicroKommoss02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusSMARCA4sarcomaMicroKommoss03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusSMARCA4sarcomaMicroKommoss06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusSMARCA4sarcomaMicroKommoss05.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with uterine mass"
+    },
+    {
+      "diagnosis": "Undifferentiated uterine sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterussarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterussarcoma_Chapel01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterussarcoma_Chapel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterussarcoma_Chapel04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterussarcoma_Chapel05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterussarcoma_Chapel06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterussarcoma_Chapel07.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterussarcoma_Chapel08.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with abdominal pain"
+    },
+    {
+      "diagnosis": "Uterine tumors resembling ovarian sex cord tumors",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusUTROSCT.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusutrosctayhan_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusutrosctayhan_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusutrosctayhan_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusUTROSCTstrickland01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusUTROSCTstrickland02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusUTROSCTstrickland03.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with abnormal bleeding"
+    },
+    {
+      "diagnosis": "Atypical polypoid adenomyoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusapa.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusapaSkala01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusapaSkala02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusapaSkala03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusapaSkala04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusapaSkala05.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusapaSkala06.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusapaSkala07.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with polypoid mass"
+    },
+    {
+      "diagnosis": "Adenosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixadenosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixadenosarcomaParraHerran001.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenosarcomaParraHerran002.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenosarcomaParraHerran03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenosarcomaParraHerran04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan001.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan002.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan003.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan004.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan005.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan006.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan007.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan008.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan009.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan0010.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan0011.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan0012.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with uterine polyp"
+    },
+    {
+      "diagnosis": "Adenomatoid tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusadenomatoid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusadenomatoidnewmicroWei01.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenomatoidnewmicroWei02.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenomatoidnewmicroWei03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenomatoidnewmicroWei04new.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with incidental finding"
+    },
+    {
+      "diagnosis": "Adenomyosis / adenomyoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusadenomyosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusadenomyosisAyhan_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenomyosisAyhan_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenomyosisAyhan_09.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with dysmenorrhea"
+    },
+    {
+      "diagnosis": "Arias-Stella reaction",
+      "articleLink": "https://www.pathologyoutlines.com/topic/uterusariasstella.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/uterusariasstellaayhan01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusariasstellaayhan02new.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusariasstellaayhan03new.jpg"
+      ],
+      "clinicalInfo": "30-year-old pregnant female with abnormal biopsy"
+    }
+  ]
+}

@@ -2,6 +2,7 @@ console.log('Script started');
 
 let tumors = [];
 let usedTumors = [];
+let answerHistory = [];
 let currentTumor, currentImageIndex = 0, correctAnswers = 0, totalTumors = 0;
 let isSelfAssessed = false;
 
@@ -14,8 +15,10 @@ const resultElement = document.getElementById('result');
 const nextCaseButton = document.getElementById('nextTumorButton');
 const scoreElement = document.getElementById('score');
 const sectionButtons = document.querySelectorAll('#sectionMenu button');
+const progressTracker = document.getElementById('progressTracker');
+const articleLinkElement = document.getElementById('articleLink');
 
-if (!checkButton || !nextImageButton || !showAllImagesButton || !nextCaseButton || !imagesContainer || !resultElement || !scoreElement || !clinicalInfoElement) {
+if (!checkButton || !nextImageButton || !showAllImagesButton || !nextCaseButton || !imagesContainer || !resultElement || !scoreElement || !clinicalInfoElement || !progressTracker || !articleLinkElement) {
     console.error('Error: One or more elements not found');
 }
 
@@ -29,10 +32,13 @@ function loadSection(section) {
             console.log(`${section} JSON loaded:`, data);
             tumors = [...data.tumors];
             usedTumors = [];
+            answerHistory = new Array(tumors.length).fill(null);
             currentImageIndex = 0;
             correctAnswers = 0;
             totalTumors = 0;
             scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
+            articleLinkElement.innerHTML = '';
+            updateProgressTracker();
             loadNewCase();
             checkButton.style.display = 'inline';
             nextImageButton.style.display = 'inline';
@@ -44,6 +50,40 @@ function loadSection(section) {
         });
 }
 
+function updateProgressTracker() {
+    progressTracker.innerHTML = '';
+    tumors.forEach((_, index) => {
+        const box = document.createElement('span');
+        box.className = 'progress-box';
+        box.innerHTML = `<span>${index + 1}</span>`;
+        if (answerHistory[index]) {
+            box.classList.add(answerHistory[index].status);
+        }
+        box.addEventListener('click', () => revisitCase(index));
+        progressTracker.appendChild(box);
+    });
+}
+
+function revisitCase(index) {
+    if (answerHistory[index]) {
+        currentTumor = answerHistory[index].tumor;
+        currentImageIndex = 0;
+        isSelfAssessed = true;
+        imagesContainer.innerHTML = '';
+        clinicalInfoElement.textContent = currentTumor.clinicalInfo || '';
+        resultElement.textContent = `Diagnosis: ${currentTumor.diagnosis}`;
+        const linkHtml = currentTumor.articleLink ? 
+            `<a href="${currentTumor.articleLink}" target="_blank" rel="noopener noreferrer" class="article-link">Read more on Pathology Outlines</a>` : 
+            'No article link available';
+        articleLinkElement.innerHTML = linkHtml;
+        showInitialImage();
+        nextImageButton.style.display = currentImageIndex < currentTumor.images.length - 1 ? 'inline' : 'none';
+        showAllImagesButton.style.display = currentTumor.images.length > 1 ? 'inline' : 'none';
+        nextCaseButton.style.display = 'inline';
+        checkButton.disabled = true;
+    }
+}
+
 function loadNewCase() {
     if (tumors.length === 0) {
         resultElement.textContent = 'No more cases available!';
@@ -51,12 +91,13 @@ function loadNewCase() {
         nextImageButton.style.display = 'none';
         showAllImagesButton.style.display = 'none';
         nextCaseButton.style.display = 'none';
+        articleLinkElement.innerHTML = '';
         return;
     }
 
     const randomIndex = Math.floor(Math.random() * tumors.length);
     currentTumor = tumors[randomIndex];
-    usedTumors.push(currentTumor);
+    usedTumors.push({ tumor: currentTumor, index: randomIndex });
     tumors.splice(randomIndex, 1);
     currentImageIndex = 0;
     isSelfAssessed = false;
@@ -71,6 +112,7 @@ function loadNewCase() {
     clinicalInfoElement.style.fontStyle = 'italic';
     clinicalInfoElement.style.textAlign = 'center';
     clinicalInfoElement.style.marginBottom = '10px';
+    articleLinkElement.innerHTML = '';
     showInitialImage();
     nextImageButton.style.display = currentImageIndex < currentTumor.images.length - 1 ? 'inline' : 'none';
     showAllImagesButton.style.display = currentTumor.images.length > 1 ? 'inline' : 'none';
@@ -203,6 +245,8 @@ function showSelfAssessmentModal() {
         `<a href="${currentTumor.articleLink}" target="_blank" rel="noopener noreferrer" class="article-link">Read more on Pathology Outlines</a>` : 
         'No article link available';
     
+    articleLinkElement.innerHTML = linkHtml;
+
     if (!modal) {
         modal = document.createElement('div');
         modal.className = 'modal';
@@ -213,6 +257,7 @@ function showSelfAssessmentModal() {
                 <p id="articleLink">${linkHtml}</p>
                 <button id="selfCorrect">I was right</button>
                 <button id="selfIncorrect">I was wrong</button>
+                <button id="selfUnsure">I was unsure</button>
                 <p id="modalScore">Score: ${correctAnswers}/${totalTumors}</p>
             </div>
         `;
@@ -233,17 +278,22 @@ function showSelfAssessmentModal() {
 
         const selfCorrectButton = modal.querySelector('#selfCorrect');
         const selfIncorrectButton = modal.querySelector('#selfIncorrect');
+        const selfUnsureButton = modal.querySelector('#selfUnsure');
 
         selfCorrectButton.addEventListener('click', () => {
             if (!isSelfAssessed) {
                 correctAnswers++;
                 totalTumors++;
                 isSelfAssessed = true;
+                const originalIndex = usedTumors[usedTumors.length - 1].index;
+                answerHistory[originalIndex] = { tumor: currentTumor, status: 'correct' };
                 scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
                 modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
                 selfCorrectButton.style.display = 'none';
                 selfIncorrectButton.style.display = 'none';
+                selfUnsureButton.style.display = 'none';
                 nextCaseButton.style.display = 'inline';
+                updateProgressTracker();
             }
             modal.style.display = 'none';
             checkButton.disabled = false;
@@ -253,34 +303,58 @@ function showSelfAssessmentModal() {
             if (!isSelfAssessed) {
                 totalTumors++;
                 isSelfAssessed = true;
+                const originalIndex = usedTumors[usedTumors.length - 1].index;
+                answerHistory[originalIndex] = { tumor: currentTumor, status: 'incorrect' };
                 scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
                 modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
                 selfCorrectButton.style.display = 'none';
                 selfIncorrectButton.style.display = 'none';
+                selfUnsureButton.style.display = 'none';
                 nextCaseButton.style.display = 'inline';
+                updateProgressTracker();
+            }
+            modal.style.display = 'none';
+            checkButton.disabled = false;
+        });
+
+        selfUnsureButton.addEventListener('click', () => {
+            if (!isSelfAssessed) {
+                totalTumors++;
+                isSelfAssessed = true;
+                const originalIndex = usedTumors[usedTumors.length - 1].index;
+                answerHistory[originalIndex] = { tumor: currentTumor, status: 'unsure' };
+                scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
+                modal.querySelector('#modalScore').textContent = `Score: ${correctAnswers}/${totalTumors}`;
+                selfCorrectButton.style.display = 'none';
+                selfIncorrectButton.style.display = 'none';
+                selfUnsureButton.style.display = 'none';
+                nextCaseButton.style.display = 'inline';
+                updateProgressTracker();
             }
             modal.style.display = 'none';
             checkButton.disabled = false;
         });
     } else {
         const diagnosisElement = modal.querySelector('#diagnosis');
-        const articleLinkElement = modal.querySelector('#articleLink');
+        const modalArticleLinkElement = modal.querySelector('#articleLink');
         const scoreElement = modal.querySelector('#modalScore');
         const selfCorrectButton = modal.querySelector('#selfCorrect');
         const selfIncorrectButton = modal.querySelector('#selfIncorrect');
+        const selfUnsureButton = modal.querySelector('#selfUnsure');
 
         if (diagnosisElement) {
             diagnosisElement.textContent = `Correct diagnosis: ${currentTumor.diagnosis}`;
         }
-        if (articleLinkElement) {
-            articleLinkElement.innerHTML = linkHtml;
+        if (modalArticleLinkElement) {
+            modalArticleLinkElement.innerHTML = linkHtml;
         }
         if (scoreElement) {
             scoreElement.textContent = `Score: ${correctAnswers}/${totalTumors}`;
         }
-        if (selfCorrectButton && selfIncorrectButton) {
+        if (selfCorrectButton && selfIncorrectButton && selfUnsureButton) {
             selfCorrectButton.style.display = isSelfAssessed ? 'none' : 'inline';
             selfIncorrectButton.style.display = isSelfAssessed ? 'none' : 'inline';
+            selfUnsureButton.style.display = isSelfAssessed ? 'none' : 'inline';
         }
     }
     modal.style.display = 'block';
@@ -289,6 +363,7 @@ function showSelfAssessmentModal() {
 checkButton.addEventListener('click', () => {
     if (currentTumor) {
         resultElement.textContent = `Diagnosis: ${currentTumor.diagnosis}`;
+        checkButton.disabled = true;
         showSelfAssessmentModal();
     }
 });
@@ -312,4 +387,5 @@ sectionButtons.forEach(button => {
     });
 });
 
+// Initialize with a default section
 loadSection('skin');
