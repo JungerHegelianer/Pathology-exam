@@ -1,0 +1,370 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Squamous metaplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixmetaplasiasquamous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixmetaplasiasquamousYoshiki05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmetaplasiasquamousYoshiki06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmetaplasiasquamousYoshiki07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmetaplasiasquamousYoshiki08.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmetaplasiasquamousYoshiki09.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmetaplasiasquamousYoshiki10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmetaplasiasquamousYoshiki11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmetaplasiasquamousYoshiki12.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmetaplasiasquamousYoshiki13.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmetaplasiasquamousYoshiki14.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with abnormal Pap smear"
+    },
+    {
+      "diagnosis": "Condyloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvacondyloma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvacondylomaChoschzick001.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvacondylomaChoschzick004.jpg"
+      ],
+      "clinicalInfo": "25-year-old female with genital warts"
+    },
+    {
+      "diagnosis": "HSIL / CIN II / CIN III",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixhsilciniii.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixHSILCINIIIAlkhateeb01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixHSILCINIIIAlkhateeb02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixHSILCINIIIAlkhateeb03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixHSILCINIIIAlkhateeb04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixHSILCINIIIAlkhateeb05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixHSILCINIIIAlkhateeb08.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixHSILCINIIIAlkhateeb09.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixHSILCINIIIAlkhateeb10.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with abnormal cervical screening"
+    },
+    {
+      "diagnosis": "HPV associated cervical squamous cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixSCC.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixSCCTurashvili001.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixSCCTurashvili002.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixSCCTurashvili003.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixSCCTurashvili004.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixSCCTurashvili005.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixSCCTurashvili006.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixSCCBychkov10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixSCCBychkov11.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with vaginal bleeding"
+    },
+    {
+      "diagnosis": "Endocervical polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixendocervpolyp.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixendocervpolypBuzamicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixendocervpolypBuzamicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixendocervpolypBuzamicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixendocervpolypBuzamicro4.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with intermenstrual spotting"
+    },
+    {
+      "diagnosis": "Müllerian papilloma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixmullerianpap.html",
+      "images": [
+        "https://screening.iarc.fr/pic/00002333.jpg",
+        "https://screening.iarc.fr/pic/00002335.jpg",
+        "https://screening.iarc.fr/pic/00002336.jpg"
+      ],
+      "clinicalInfo": "10-year-old female with vaginal discharge"
+    },
+    {
+      "diagnosis": "Nabothian cysts",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixnabothiancyst.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixnabothiancyst_Turashvili01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixnabothiancyst_Turashvili02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixnabothiancyst_Turashvili03.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with incidental finding on exam"
+    },
+    {
+      "diagnosis": "Tunnel clusters",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixtunnelclusters.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixtunnelclusters_Turashvili01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixtunnelclusters_Turashvili02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixtunnelclusters_Turashvili03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixtunnelclusters_Turashvili08.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixtunnelclusters_Turashvili04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixtunnelclusters_Turashvili05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixtunnelclusters_Turashvili06.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with cervical lesion"
+    },
+    {
+      "diagnosis": "Microglandular hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixMGH.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixMGHTurashvili01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixMGHTurashvili02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixMGHTurashvili03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixMGHTurashvili04.jpg"
+      ],
+      "clinicalInfo": "30-year-old female on oral contraceptives"
+    },
+    {
+      "diagnosis": "Lobular endocervical glandular hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixlobularendocerv.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixLEGHparraherran01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixLEGHparraherran02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixLEGHparraherran03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixLEGHparraherran04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixLEGHpopescutwt01.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with watery discharge"
+    },
+    {
+      "diagnosis": "Arias Stella reaction",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixariasstella.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixariasstellamaldonado01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixariasstellamaldonado02.jpg"
+      ],
+      "clinicalInfo": "28-year-old pregnant female with abnormal Pap"
+    },
+    {
+      "diagnosis": "Adenocarcinoma in situ",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixAIS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixAIS_Turashvili01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixAIS_Turashvili02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixAIS_Turashvili03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixAIS_Turashvili04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixAIS_Turashvili09.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixAIS_Turashvili05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixAIS_Turashvili06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixAIS_Turashvili07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixAISKhutti01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixAISKhutti02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixAISKhutti03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixAISKhutti04.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with abnormal cervical screening"
+    },
+    {
+      "diagnosis": "HPV associated adenocarcinoma (usual type and variants)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixhpvadenocarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixhpvadenocarcinomaParra-Herran1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixhpvadenocarcinomaParra-Herran2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixhpvadenocarcinomaParra-Herran5.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixhpvadenocarcinomaParra-Herran6.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixhpvadenocarcinomaParra-Herran7.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case495img1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case495img2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case495img3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case495img4.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case495img5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case495img6.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with vaginal bleeding"
+    },
+    {
+      "diagnosis": "Gastric type adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixGAS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixGASmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixGASmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixGASmicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixGASmicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixGASmicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixGASmicro07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixGASmicro08.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with watery discharge"
+    },
+    {
+      "diagnosis": "Clear cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixclearcell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixclearcellHameedmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixclearcellHameedmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixclearcellHameedmicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixclearcellHameedmicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixclearcellHameedmicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixclearcellHameedmicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixclearcellHameedmicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixclearcellHameedmicro8.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixclearcellHameedmicro9.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixclearcellHameedmicro10.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with vaginal bleeding"
+    },
+    {
+      "diagnosis": "Mesonephric adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixmesonephricadeno.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro8.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro9.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro11.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with abnormal discharge"
+    },
+    {
+      "diagnosis": "Adenoid basal carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixadenoidbasal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixadenoidbasalskala03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenoidbasalskala05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenoidbasalskala06.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with cervical mass"
+    },
+    {
+      "diagnosis": "Adenomyoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixadenomyoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixadenomyomagiacometti01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenomyomagiacometti02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenomyomagiacometti03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenomyomagiacometti04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenomyomagiacometti05.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with cervical lesion"
+    },
+    {
+      "diagnosis": "Adenosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixadenosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixadenosarcomaParraHerran001.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenosarcomaParraHerran002.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenosarcomaParraHerran03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixadenosarcomaParraHerran04.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan001.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan003.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan004.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan005.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan006.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan007.jpg",
+        "https://www.pathologyoutlines.com/imgau/uterusadenosarcomaAyhan008.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with cervical polyp"
+    },
+    {
+      "diagnosis": "Mesonephric rests and mesonephric hyperplasia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixmesonephrichyper.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephrichyperKearns01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephrichyperKearns02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephrichyperKearns03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephrichyperKearns04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephrichyperKearns06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephrichyperKearns05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephrichyperCampora01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephrichyperCampora02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephrichyperCampora03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephrichyperCampora04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephrichyperHerran1.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with incidental finding"
+    },
+    {
+      "diagnosis": "Placental site nodule",
+      "articleLink": "https://www.pathologyoutlines.com/topic/placentaplacentalsitenodule.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/placentaplacentalsitenoduleMendoza1.jpg",
+        "https://www.pathologyoutlines.com/imgau/placentaplacentalsitenoduleMendoza2.jpg",
+        "https://www.pathologyoutlines.com/imgau/placentaplacentalsitenoduleMendoza3.jpg",
+        "https://www.pathologyoutlines.com/imgau/placentaplacentalsitenoduleMendoza4.jpg",
+        "https://www.pathologyoutlines.com/imgau/placentaplacentalsitenoduleMendoza5.jpg"
+      ],
+      "clinicalInfo": "35-year-old female post-pregnancy with abnormal biopsy"
+    },
+    {
+      "diagnosis": "LSIL / CIN I",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixLSIL.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixLSILsalih02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixLSILsalih03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixLSILsalihNEW04.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with abnormal Pap smear"
+    },
+    {
+      "diagnosis": "Invasive stratified mucin producing carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixinvasivestratifiedmucincarc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixinvasivestratifiedmucincarcBarroetaKontosis01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixinvasivestratifiedmucincarcBarroetaKontosis02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixinvasivestratifiedmucincarcBarroetaKontosis03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixinvasivestratifiedmucincarcBarroetaKontosis04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixinvasivestratifiedmucincarcBarroetaKontosis05.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with cervical mass"
+    },
+    {
+      "diagnosis": "Primary endometrioid adenocarcinoma (HPV independent)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixprimaryendoadeno.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixprimaryendoadenochapel01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixprimaryendoadenochapel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixprimaryendoadenochapel03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixprimaryendoadenochapel04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixprimaryendoadenochapel05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixprimaryendoadenochapel06.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with vaginal bleeding"
+    },
+    {
+      "diagnosis": "Adenoid cystic carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixadenoidcystic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/images/cervixhosny1.jpg",
+        "https://www.pathologyoutlines.com/images/cervixhosny2.jpg",
+        "https://www.pathologyoutlines.com/images/cervixhosny3.jpg",
+        "https://www.pathologyoutlines.com/images/cervixhosny4.jpg",
+        "https://www.pathologyoutlines.com/images/cervixhosny5.jpg",
+        "https://www.pathologyoutlines.com/images/cervixhosny6.jpg",
+        "https://www.pathologyoutlines.com/images/cervixhosnyvasc.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with cervical mass"
+    },
+    {
+      "diagnosis": "Large cell neuroendocrine carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixlargecellneuroendocrine.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case327image1_4x.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case327image2_10x.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case327image3_20x.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with cervical tumor"
+    },
+    {
+      "diagnosis": "Small cell neuroendocrine carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixsmallcell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellSalehiLin01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellSalehiLin02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellSalehiLin03.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellSalehiLin04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellSalehiLin05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellSalehiLin06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellSalehiLin07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellSalehiLin08.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellSalehiLin09.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellSalehiLin10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellSalehiLin11.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixsmallcellZheng12.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with vaginal bleeding"
+    }
+  ]
+}

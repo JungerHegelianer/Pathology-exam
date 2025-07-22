@@ -1,0 +1,332 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Fibroepithelial (stromal) polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vaginafibroepithelial.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vaginafibroepithelialmicro02.jpeg",
+        "https://www.pathologyoutlines.com/imgau/vaginiafibroepithelialmicro03new.jpg",
+        "https://www.pathologyoutlines.com/imgau/vaginafibroepithelialmicro04.jpeg",
+        "https://www.pathologyoutlines.com/imgau/vaginafibroepithelialmicro05.jpeg",
+        "https://www.pathologyoutlines.com/imgau/vaginafibroepithelialmicro06.jpeg"
+      ],
+      "clinicalInfo": "40-year-old female with vaginal mass"
+    },
+    {
+      "diagnosis": "Lichen planus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvalichenplanus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvalichenplanusErem03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvalichenplanusErem04.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvalichenplanusErem01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvalichenplanusErem05.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvalichenplanusEremmicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvalichenplanusErem02.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with vulvar itching and lesions"
+    },
+    {
+      "diagnosis": "Lichen simplex chronicus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skinnontumorlichensimplexchronicus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skinnontumorlichensimplexchronicusrocha02.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnontumorlichensimplexchronicusrocha03.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with chronic vulvar itching"
+    },
+    {
+      "diagnosis": "Lichen sclerosus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvalichensclerosus.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvalichensclerosus_Huvila001.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvalichensclerosus_Huvila02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvalichensclerosus_Huvila03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvalichensclerosus_Huvila04.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvalichensclerosus_Huvila05.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with vulvar discomfort and whitening"
+    },
+    {
+      "diagnosis": "Allergic contact dermatitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skinnontumorallergiccontact.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skinnontumorallergiccontactRosa1.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnontumorallergiccontactRosa2.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnontumorallergiccontactRosa3.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnontumorallergiccontactRosa4.jpg",
+        "https://www.pathologyoutlines.com/imgau/skinnontumorallergiccontactRosa5.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with vulvar rash"
+    },
+    {
+      "diagnosis": "HPV associated SIL",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvaVIN.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvaVINChoschzick01new.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaVINChoschzick04a.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaVINChoschzick05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaVINChoschzick09new.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with vulvar lesions"
+    },
+    {
+      "diagnosis": "HPV associated squamous cell carcinoma-vulva",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvascc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvasccchoschzick03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvasccchoschzick_07.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvasccchoschzick08.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with vulvar mass"
+    },
+    {
+      "diagnosis": "HPV independent squamous cell carcinoma-vulva",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvaverrucous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvaverrucouschoschzick01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaverrucouschoschzick06.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with verrucous vulvar lesion"
+    },
+    {
+      "diagnosis": "HPV independent VIN-vulva",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvadifferentiatedVIN.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvadifferentiatedVINChoschzick01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvadifferentiatedVINChoschzick04.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvadifferentiatedVINChoschzick06.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvadifferentiatedVINChoschzick09.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with vulvar dysplasia"
+    },
+    {
+      "diagnosis": "Vaginal intraepithelial neoplasia (VAIN)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vaginavain.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vaginavainMicroKhan1.jpg",
+        "https://www.pathologyoutlines.com/imgau/vaginavainMicroKhan2.jpg",
+        "https://www.pathologyoutlines.com/imgau/vaginavainMicroKhan5.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with abnormal vaginal cytology"
+    },
+    {
+      "diagnosis": "Bartholin gland carcinoma-vulva",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvabartholinglandcarc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvabartholinglandcarcNazeran01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvabartholinglandcarcNazeran02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvabartholinglandcarcNazeran04.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvabartholinglandcarcNazeran06.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvabartholinglandcarcHorling08.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvabartholinglandcarcHorling09.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with vulvar mass"
+    },
+    {
+      "diagnosis": "Basal cell carcinoma-vulva",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvabasalcellcarc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvabasalcellcarcMicroMa01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvabasalcellcarcMicroMa02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvabasalcellcarcMicroMa03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvabasalcellcarc_Nagarajan01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvabasalcellcarc_Nagarajan02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvabasalcellcarc_Nagarajan04.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with vulvar ulcer"
+    },
+    {
+      "diagnosis": "Clear cell carcinoma-vagina",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vaginaclearcelladeno.html",
+      "images": [
+        "https://www.pathologyoutlines.com/caseofweek/case363image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case363image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case363image5.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case363image10.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with vaginal mass"
+    },
+    {
+      "diagnosis": "Cutaneous neuroendocrine carcinoma / Merkel cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticmerkelcell.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmerkelcellly04new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmerkelcellly05new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmerkelcellly06new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmerkelcellly07new.jpg",
+        "https://www.pathologyoutlines.com/imgau/skintumornonmelanocyticmerkelcellly08new.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with vulvar nodule"
+    },
+    {
+      "diagnosis": "Mesonephric adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixmesonephricadeno.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro8.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro9.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro10.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixmesonephricadenoHoangmicro11.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with abnormal discharge"
+    },
+    {
+      "diagnosis": "Paget disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvapagetsdisease.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvapagetsdisease_Nagarajan09.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvapagetsdisease_Nagarajan03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvapagetsdisease_Nagarajan08.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvapagetsdisease_Nagarajan06.jpg"
+      ],
+      "clinicalInfo": "65-year-old female with vulvar erythema"
+    },
+    {
+      "diagnosis": "Aggressive angiomyxoma-vulva",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvaaggressiveangiomyxoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvaaggressiveAMchapel01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaaggressiveAMchapel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaaggressiveAMchapel03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaaggressiveAMchapel04.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaaggressiveAMchapel05.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaaggressiveAMchapel06.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaaggressiveAMchapel07.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaaggressiveangiomyxomaAndrew_Fltv02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaaggressiveangiomyxomaAndrew_Fltv03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaaggressiveangiomyxomaAndrew_Fltv04.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with vulvar mass"
+    },
+    {
+      "diagnosis": "Alveolar soft part sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixalveolarsoftpartssarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaWiedemeyer05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaWiedemeyer06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaWiedemeyer07.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaMcCluggage01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaMcCluggage02.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixalveolarsoftpartssarcomaMcCluggage03.jpg"
+      ],
+      "clinicalInfo": "30-year-old female with vaginal mass"
+    },
+    {
+      "diagnosis": "Angiomyofibroblastoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvaangiomyofibroblastoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvaAMFBchapel01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaAMFBchapel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaAMFBchapel03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaAMFBchapel04.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with vulvar mass"
+    },
+    {
+      "diagnosis": "Cellular angiofibroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvacellularangiofibroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvacellularAFchapel01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvacellularAFchapel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvacellularAFchapel03.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with vulvar mass"
+    },
+    {
+      "diagnosis": "Epithelioid sarcoma-vulva",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvaepithelioidsarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvaepithelioidsarcomachapel01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaepithelioidsarcomachapel02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaepithelioidsarcomachapel03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaepithelioidsarcomachapel04.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaepithelioidsarcomachapel05.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaepithelioidsarcomachapel06.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaepithelioidsarcomachapel07.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaepithelioidsarcoma_Nagarajan07.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaepithelioidsarcoma_Nagarajan13.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaepithelioidsarcoma_Nagarajan16.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with vulvar mass"
+    },
+    {
+      "diagnosis": "Rhabdomyosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/cervixrhabdomyosarcoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/cervixrhabdomyosarcomaDevins01.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixrhabdomyosarcomaDevins2.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixrhabdomyosarcomaDevins3.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixrhabdomyosarcomaDevins04.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixrhabdomyosarcomaDevins05.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixrhabdomyosarcomaDevins06.jpg",
+        "https://www.pathologyoutlines.com/imgau/cervixrhabdomyosarcomaDevins09.jpg"
+      ],
+      "clinicalInfo": "20-year-old female with vaginal mass"
+    },
+    {
+      "diagnosis": "Smooth muscle tumors",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvaLMS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvaLMSChapel2.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaLMSChapel1.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaLMSChapel3.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaLMSChapel5.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaLMSChapel6.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaLMSChapel7.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaLMSChapel4.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaLMSChapel8.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaLMSChapel9.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaLMSChapel10.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with vulvar mass"
+    },
+    {
+      "diagnosis": "Atypical melanocytic nevi of the genital type-vulva",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvaAMNGT.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvaAMNGTEremTurashvili01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaAMNGTEremTurashvili02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaAMNGTEremTurashvili03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaAMNGTEremTurashvili04.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaAMNGTEmoryUniv05.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvaAMNGTEmoryUniv06.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with vulvar pigmented lesion"
+    },
+    {
+      "diagnosis": "Dysplastic melanocytic nevus",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvadysplasticnevi.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvadysplasticneviEremTurashvili02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvadysplasticneviEremTurashvili03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvadysplasticneviEremTurashvili04.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvadysplasticneviEremTurashvili05.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvadysplasticneviEremTurashvili006.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvadysplasticneviEremTurashvili01.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with atypical vulvar lesion"
+    },
+    {
+      "diagnosis": "Melanoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/vulvamelanoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/vulvamelanomamicroEremTurashviliEmory01.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvamelanomamicroEremTurashviliEmory02.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvamelanomamicroEremTurashviliEmory03.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvamelanomamicroEremTurashviliEmory04.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvamelanomamicroEremTurashviliEmory05.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvamelanomamicroEremTurashviliEmory06.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvamelanomamicroEremTurashviliEmory07.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvamelanomamicroEremTurashviliEmory08.jpg",
+        "https://www.pathologyoutlines.com/imgau/vulvamelanomamicroEremTurashviliEmory09.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with vulvar pigmented mass"
+    }
+  ]
+}
