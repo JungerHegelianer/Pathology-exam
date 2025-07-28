@@ -35,6 +35,20 @@ body {
     background-color: #45a049;
 }
 
+#clinicalInfo {
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #333;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 10;
+    padding: 10px;
+    display: block !important;
+}
+
 #tumorImages {
     display: flex;
     flex-wrap: wrap;
@@ -52,6 +66,47 @@ body {
 
 .tumor-image:hover {
     transform: scale(1.05);
+}
+
+#progressTracker {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.progress-box {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #333;
+    background-color: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.progress-box.correct {
+    background-color: #4CAF50;
+}
+
+.progress-box.incorrect {
+    background-color: #f44336;
+}
+
+.progress-box.unsure {
+    background-color: #ffeb3b;
+}
+
+.progress-box:hover {
+    opacity: 0.8;
+}
+
+.progress-box span {
+    font-size: 12px;
+    color: #333;
 }
 
 button {
@@ -72,12 +127,6 @@ button:hover {
 button:disabled {
     background-color: #cccccc;
     cursor: not-allowed;
-}
-
-#clinicalInfo {
-    font-style: italic;
-    text-align: center;
-    margin-bottom: 10px;
 }
 
 #result {
@@ -222,45 +271,4 @@ button:disabled {
 
 .modal-content p {
     margin: 10px 0;
-}
-
-#progressTracker {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-    margin: 20px 0;
-}
-
-.progress-box {
-    width: 30px;
-    height: 30px;
-    border: 1px solid #333;
-    background-color: #ccc;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.progress-box.correct {
-    background-color: #4CAF50;
-}
-
-.progress-box.incorrect {
-    background-color: #f44336;
-}
-
-.progress-box.unsure {
-    background-color: #ffeb3b;
-}
-
-.progress-box:hover {
-    opacity: 0.8;
-}
-
-.progress-box span {
-    font-size: 12px;
-    color: #333;
 }

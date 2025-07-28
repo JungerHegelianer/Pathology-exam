@@ -30,9 +30,9 @@ function loadSection(section) {
         })
         .then(data => {
             console.log(`${section} JSON loaded:`, data);
-            tumors = [...data.tumors];
+            tumors = [...data.tumors].sort(() => Math.random() - 0.5); // Shuffle tumors for random order
             usedTumors = [];
-            answerHistory = new Array(tumors.length).fill(null);
+            answerHistory = [];
             currentImageIndex = 0;
             correctAnswers = 0;
             totalTumors = 0;
@@ -52,7 +52,7 @@ function loadSection(section) {
 
 function updateProgressTracker() {
     progressTracker.innerHTML = '';
-    tumors.forEach((_, index) => {
+    for (let index = 0; index < (answerHistory.length + tumors.length); index++) { // Total original length
         const box = document.createElement('span');
         box.className = 'progress-box';
         box.innerHTML = `<span>${index + 1}</span>`;
@@ -61,7 +61,7 @@ function updateProgressTracker() {
         }
         box.addEventListener('click', () => revisitCase(index));
         progressTracker.appendChild(box);
-    });
+    }
 }
 
 function revisitCase(index) {
@@ -95,10 +95,9 @@ function loadNewCase() {
         return;
     }
 
-    const randomIndex = Math.floor(Math.random() * tumors.length);
-    currentTumor = tumors[randomIndex];
-    usedTumors.push({ tumor: currentTumor, index: randomIndex });
-    tumors.splice(randomIndex, 1);
+    currentTumor = tumors.shift(); // Take first from shuffled list (sequential in random order)
+    const originalIndex = answerHistory.length; // Sequential index for progress
+    usedTumors.push({ tumor: currentTumor, index: originalIndex });
     currentImageIndex = 0;
     isSelfAssessed = false;
 
