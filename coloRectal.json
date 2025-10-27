@@ -1,0 +1,638 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Conventional colorectal adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumoradenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumoradenomaDingWen01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumoradenoma_kuo06.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumoradenoma_kuo07.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumoradenoma_kuo08.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumoradenomaDingWen02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortubularadenomaDunnmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortubularadenomaDunnmicro2.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with polyp on colonoscopy"
+    },
+    {
+      "diagnosis": "Hyperplastic polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorhyperplastic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonhyperplasticpolypbateman01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonhyperplasticpolypbateman02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonhyperplasticpolypbateman03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonhyperplasticpolypbateman04.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonhyperplasticpolypbateman06.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonhyperplasticpolypbateman07.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with incidental polyp"
+    },
+    {
+      "diagnosis": "Inflammatory polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorinflammatory.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatoryDunnmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatoryDunnmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatoryDunnmicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatoryDunnmicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatorygonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatorygonzalez02.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with rectal bleeding"
+    },
+    {
+      "diagnosis": "Inflammatory cap polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorcappolyposis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/thumb/colontumorcappolyposisWiens01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorcappolyposisWiens02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorcappolyposisWiens03.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with multiple rectal polyps"
+    },
+    {
+      "diagnosis": "Inflammatory fibroid polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorinflammatoryfibroid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatoryfibroidFernandezAcenero02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatoryfibroidFernandezAcenero03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatoryfibroidFernandezAcenero04.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatoryfibroidFernandezAcenero05.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatoryfibroidFernandezAcenero06.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorinflammatoryfibroidFernandezAcenero07.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with abdominal pain and polyp"
+    },
+    {
+      "diagnosis": "Juvenile (retention) polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorjuvenilepolyp.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorjuvenilepolypHassell01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorjuvenilepolypHassell02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorjuvenilepolypHassell03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorjuvenilepolypHassell04.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorjuvenilepolypHassell05.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorjuvenilepolypHassell06.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorjuvenilepolypBansal04.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorjuvenilepolypBansal05.jpg"
+      ],
+      "clinicalInfo": "30-year-old male with rectal polyp"
+    },
+    {
+      "diagnosis": "Lymphoid polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/anuslymphoidpolyp.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/anuslymphoidpolypRishi02.jpg",
+        "https://www.pathologyoutlines.com/imgau/anuslymphoidpolypRishi03.jpg",
+        "https://www.pathologyoutlines.com/imgau/anuslymphoidpolypRishi04.jpg",
+        "https://www.pathologyoutlines.com/imgau/anuslymphoidpolypRishi05.jpg",
+        "https://www.pathologyoutlines.com/imgau/anuslymphoidpolypRishi06.jpg",
+        "https://www.pathologyoutlines.com/imgau/anuslymphoidpolypRishi07.jpg",
+        "https://www.pathologyoutlines.com/imgau/anuslymphoidpolypRishi08.jpg",
+        "https://www.pathologyoutlines.com/imgau/anuslymphoidpolypRishi09.jpg",
+        "https://www.pathologyoutlines.com/imgau/anuslymphoidpolypRishi11.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with anal mass"
+    },
+    {
+      "diagnosis": "Mucosal prolapse polyp",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonmucosalprolapsepolyp.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonmucosalprolapsepolypMcCloskeyHutchings02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonmucosalprolapsepolypMcCloskeyHutchings03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonmucosalprolapsepolypMcCloskeyHutchings04.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonmucosalprolapsepolypMcCloskeyHutchings05.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonmucosalprolapsepolypMcCloskeyHutchings06.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonmucosalprolapsepolypMcCloskeyHutchings07.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with rectal bleeding and polyp"
+    },
+    {
+      "diagnosis": "Sessile serrated adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorsessileserrated.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonserratedlesionsDingWen02.jpg",
+        "https://pathologyoutlines.com/imgau/colontumorsessileserratedmicro01.jpg",
+        "https://pathologyoutlines.com/imgau/colontumorsessileserratedmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorsessileserrated_hartley01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorsessileserratedGonzalezmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorsessileserratedGonzalezmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorsessileserratedGonzalezmicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorsessileserratedRaulSGonzalezMD01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorsessileserratedRaulSGonzalezMD02.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with polyp on colonoscopy"
+    },
+    {
+      "diagnosis": "Traditional serrated adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumortraditionalserratedadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumortraditionalserratedadenomaKuomicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortraditionalserratedadenomaKuomicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortraditionalserratedadenomaKuomicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortraditionalserratedadenomaKuomicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortraditionalserratedadenomaKuomicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortraditionalserratedadenomaKuomicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortraditionalserratedadenoma_hartley01.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with polyp on screening colonoscopy"
+    },
+    {
+      "diagnosis": "Tubulovillous / villous adenoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumortvadenoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumortvadenomaCiarpaglini13.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortvadenomaCiarpaglinimicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortvadenomaCiarpaglini17.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortvadenomaCiarpaglinimicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortvadenomaCiarpaglinimicro8.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortvadenomaCiarpaglinimicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortvadenomaCiarpaglinimicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortvadenomaCiarpaglinimicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortvadenomaCiarpaglinimicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumortvadenomaBychkov07.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with large polyp on colonoscopy"
+    },
+    {
+      "diagnosis": "Cronkhite-Canada syndrome",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorcronkhite.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorcronkhitegonzalez101.jpg",
+        "https://www.pathologyoutlines.com/thumb/colontumorcronkhitegonzalez102.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorcronkhitegonzalez103.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorcronkhitegonzalez104.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with multiple polyps and diarrhea"
+    },
+    {
+      "diagnosis": "Cowden syndrome",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorcowden.html",
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/db40/4112971/d39add4fa572/1750-1172-9-101-1.jpg",
+        "https://www.brown.edu/Courses/Digital_Path/systemic_path/syndromes/images/clip_image012.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gastric_juvenile_polyp_-_very_low_mag.jpg/250px-Gastric_juvenile_polyp_-_very_low_mag.jpg",
+        "https://www.webpathology.com/_next/image?url=https%3A%2F%2Fd3cyex60hhnlth.cloudfront.net%2Ffit-in%2F650x650%2Ffilters%3Aformat(webp)%2Fcase%2Fdetail_images%2Fc9455_detail.jpg&w=750&q=75",
+        "https://www.webpathology.com/_next/image?url=https%3A%2F%2Fd3cyex60hhnlth.cloudfront.net%2Ffit-in%2F650x650%2Ffilters%3Aformat(webp)%2Fcase%2Fdetail_images%2Fc9463_detail.jpg&w=750&q=75"
+      ],
+      "clinicalInfo": "40-year-old female with multiple colorectal polyps"
+    },
+    {
+      "diagnosis": "Intramucosal carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorintramucosal.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colon-intramucosalGonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon-intramucosalGonzalez02.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with abnormal biopsy findings"
+    },
+    {
+      "diagnosis": "Adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumoradenocarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumoradenocarcinomamicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumoradenocarcinomamicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumoradenocarcinomamicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumoradenocarcinomamicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumoradenocarcinomamicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumoradenocarcinomamicro06.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with rectal mass and bleeding"
+    },
+    {
+      "diagnosis": "Adenoma-like adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorvillousadenocarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorvillousadenocarcinomaGonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorvillousadenocarcinomaGonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorvillousadenocarcinomaVranic01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorvillousadenocarcinomaVranic02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorvillousadenocarcinomaVranic03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorvillousadenocarcinomaVranic04.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with colorectal mass"
+    },
+    {
+      "diagnosis": "Adenosquamous carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumoradenosquamous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonadenosquamousmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonadenosquamousmicro02.jpg",
+        "https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=635754&s=27&r=2&c=2",
+        "https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=635767&s=27&r=2&c=2"
+      ],
+      "clinicalInfo": "55-year-old male with colorectal mass"
+    },
+    {
+      "diagnosis": "Hepatoid carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorhepatoid.html",
+      "images": [
+        "https://www.researchgate.net/publication/377068647/figure/fig3/AS:11431281218476779@1705596345958/A-Hepatoid-adenocarcinoma-is-characterized-by-the-presence-of-tumor-cells-that-exhibit.ppm",
+        "https://casereports.bmj.com/content/casereports/2015/bcr-2014-206222/F1.large.jpg",
+        "https://www.researchgate.net/publication/234098098/figure/fig3/AS:213980330106882@1428028294484/Histopathological-features-of-hepatoid-adenocarcinoma-of-the-urinary-bladder-The-tumor.png",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a478/4168104/45b80d87068a/WJG-20-12657-g002.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with aggressive colorectal tumor"
+    },
+    {
+      "diagnosis": "Low grade tubuloglandular adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorlowgradetubulo.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonlowgradetubuloadeno1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlowgradetubuloadeno2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlowgradetubuloadeno4.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlowgradetubuloadeno5.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with colorectal mass"
+    },
+    {
+      "diagnosis": "Lymphoglandular complex-like colorectal carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonlymphoglandularcomplexcolocarc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonlymphoglandularcomplexcolocarcYilmaz01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlymphoglandularcomplexcolocarcYilmaz02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlymphoglandularcomplexcolocarcYilmaz03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlymphoglandularcomplexcolocarcYilmaz04.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlymphoglandularcomplexcolocarcYilmaz05.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlymphoglandularcomplexcolocarcYilmaz06.jpeg"
+      ],
+      "clinicalInfo": "50-year-old male with colorectal tumor"
+    },
+    {
+      "diagnosis": "Medullary carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumormedullary.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumormedullaryGonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumormedullaryGonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumormedullaryGonzalez03.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with colorectal mass"
+    },
+    {
+      "diagnosis": "Micropapillary carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumormicropapillary.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumormicropapillaryGonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumormicropapillaryGonzalez02.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with colorectal tumor"
+    },
+    {
+      "diagnosis": "Mucinous adenocarcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorcolloid.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorcolloidGonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorcolloidGonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorcolloidwhat_will_kill_you01.jpg"
+      ],
+      "clinicalInfo": "65-year-old male with colorectal mass and bleeding"
+    },
+    {
+      "diagnosis": "Serrated adenocarcinoma (SAC)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorserratedadeno.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorserratedadenogonzalo_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorserratedadenogonzalo_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorserratedadenogonzalo_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorserratedadenogonzalo_05.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorserratedadenogonzalo_06.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with colorectal tumor"
+    },
+    {
+      "diagnosis": "Signet ring cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorsignetring.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorsignetringmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorsignetringmicro02.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with aggressive colorectal tumor"
+    },
+    {
+      "diagnosis": "Squamous cell carcinoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorscc.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorssccmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorssccmicro02.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with colorectal mass"
+    },
+    {
+      "diagnosis": "Mixed neuroendocrine nonneuroendocrine neoplasm",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumormxdnrndcrnnonnrndocrnnplsm.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumormxdnrndcrnnonnrndocrnnplsmhassell01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumormxdnrndcrnnonnrndocrnnplsmhassell02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumormxdnrndcrnnonnrndocrnnplsmhassell03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumormxdnrndcrnnonnrndocrnnplsmhagan01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumormxdnrndcrnnonnrndocrnnplsmhagan02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumormxdnrndcrnnonnrndocrnnplsmhagan03.jpg"
+      ],
+      "clinicalInfo": "60-year-old male with colorectal tumor"
+    },
+    {
+      "diagnosis": "Poorly differentiated neuroendocrine carcinoma (Large and Small cell)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorneuroendocrinecarcinoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorneuroendocrinecarcinomaGonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorneuroendocrinecarcinomaGonzalez02.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case531img1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case531img2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case531img3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/Case531img4.jpg"
+      ],
+      "clinicalInfo": "55-year-old female with colorectal tumor"
+    },
+    {
+      "diagnosis": "Well differentiated neuroendocrine tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorneuroendocrinetumor.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorneuroendocrinetumorMartinez01.jpeg",
+        "https://www.pathologyoutlines.com/imgau/colontumorneuroendocrinetumorMartinez02.jpeg",
+        "https://www.pathologyoutlines.com/imgau/colontumorneuroendocrinetumorMartinez05.jpeg",
+        "https://www.pathologyoutlines.com/imgau/colontumorneuroendocrinetumorMartinez06.jpeg",
+        "https://www.pathologyoutlines.com/imgau/colontumorneuroendocrinetumorTachibanamicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorneuroendocrinetumorTachibanamicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorneuroendocrinetumorCiarpaglinimicronew3.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorneuroendocrinetumorCiarpaglinimicronew5.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorneuroendocrinetumorCiarpaglinimicronew6.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with colorectal lesion on endoscopy"
+    },
+    {
+      "diagnosis": "Ganglioneuroma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorganglioneuroma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorganglioneuroma_hartley01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorganglioneuromamicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorganglioneuromamicro3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case305image1.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case305image2.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case305image3.jpg",
+        "https://www.pathologyoutlines.com/caseofweek/case305image5.jpg"
+      ],
+      "clinicalInfo": "40-year-old female with colorectal mass"
+    },
+    {
+      "diagnosis": "Gastrointestinal stromal tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorgist.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorgistgonzalez1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorgistgonzalez2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorgistgonzalez3.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c058/2809996/88391809bdd7/ijcep0001-0162-f3.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with submucosal colorectal mass"
+    },
+    {
+      "diagnosis": "Inflammatory myofibroblastic tumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorimt.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorimtGonzalezmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorimtFeelymicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorimtFeelymicro3.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with colorectal mass"
+    },
+    {
+      "diagnosis": "Kaposi sarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorkaposi.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorkaposiGonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/colontumorkaposiGonzalez03.jpg",
+        "https://pathorama.ch/storage/samples/000173.jpg",
+        "https://pathorama.ch/storage/samples/000172.jpg",
+        "https://pathorama.ch/storage/samples/000171.jpg"
+      ],
+      "clinicalInfo": "40-year-old immunocompromised male with colorectal lesion"
+    },
+    {
+      "diagnosis": "Leiomyoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorleiomyoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colon/LeiomyomaGonzalez1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/LeiomyomaGonzalez2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/LeiomyomaGonzalez3.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/LeiomyomaGonzalezsym1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon/LeiomyomaGonzalezsym2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorleiomyomaAndrewPathOutPic01.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with submucosal colorectal mass"
+    },
+    {
+      "diagnosis": "Leiomyosarcoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorLMS.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorleiomyosarcomagonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorleiomyosarcomagonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorleiomyosarcomagonzalez03.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with colorectal sarcoma"
+    },
+    {
+      "diagnosis": "Mucosal Schwann cell hamartoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumormucosalschwann.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumormucosalschwannGonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumormucosalschwannGonzalez02.jpg"
+      ],
+      "clinicalInfo": "45-year-old female with colorectal lesion"
+    },
+    {
+      "diagnosis": "Perineurioma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorperineurioma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorperineuriomaGonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorperineuriomaGonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumorperineurioma_hartley02.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with submucosal colorectal mass"
+    },
+    {
+      "diagnosis": "Reactive nodular fibrous pseudotumor",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorreactivenodular.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumorreactivenodularGonzalez01new.png",
+        "https://www.pathologyoutlines.com/imgau/colontumorreactivenodularGonzalez02new.png",
+        "https://www.pathologyoutlines.com/imgau/colontumorreactivenodularGonzalez03new.png",
+        "https://www.pathologyoutlines.com/imgau/colontumorreactivenodularGonzalez04new.png"
+      ],
+      "clinicalInfo": "40-year-old female with colorectal lesion"
+    },
+    {
+      "diagnosis": "Schwannoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumorschwannoma.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/ColonSchwannomaGonzalez1new.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ColonSchwannomaGonzalez2new.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ColonSchwannomaGonzalez3new.jpeg",
+        "https://www.pathologyoutlines.com/imgau/ColonSchwannomaGonzalez4new.jpeg",
+        "https://www.pathologyoutlines.com/imgau/colontumorschwannomaAndrew_Fltv03.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with colorectal mass"
+    },
+    {
+      "diagnosis": "Mantle cell lymphoma",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colontumormcl.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colontumormclButterfield05.jpg",
+        "https://www.pathologyoutlines.com/imgau/colontumormclButterfield14.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with colorectal mass and weight loss"
+    },
+    {
+      "diagnosis": "Graft versus host disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonGVHD.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonGVHDmicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonGVHDmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonGVHDmicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonGVHDmicro4.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonGVHDmicro5.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonGVHDmicro6.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonGVHDmicro7.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonmmfcolitisHagen05.jpg"
+      ],
+      "clinicalInfo": "45-year-old post-transplant patient with diarrhea"
+    },
+    {
+      "diagnosis": "Granulomatous colitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colongranulomatous.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colongranulomatousShim01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colongranulomatousShim02.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with chronic diarrhea"
+    },
+    {
+      "diagnosis": "Lymphocytic colitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonlymphocytic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonlymphocyticmicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlymphocyticmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlymphocyticmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlymphocyticmicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlymphocyticmicro05.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlymphocyticmicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonlymphocyticmicro08new.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with chronic watery diarrhea"
+    },
+    {
+      "diagnosis": "Malakoplakia",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonmalakoplakia.html",
+      "images": [
+        "https://granuloma.homestead.com/malakoplakia_colon_s91-5195-03.jpg",
+        "https://pathos223.com/en/image/004/4-1.jpg"
+      ],
+      "clinicalInfo": "55-year-old male with colorectal lesion"
+    },
+    {
+      "diagnosis": "Pseudomembranous colitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonAAcolitis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonAAcolitisgonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonAAcolitisgonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonAAcolitisgonzalez03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonAAcolitisgonzalez04.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonAAcolitismallikarjunappa05.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonAAcolitismallikarjunappa06.jpg"
+      ],
+      "clinicalInfo": "60-year-old female with diarrhea post-antibiotic use"
+    },
+    {
+      "diagnosis": "Amebic colitis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonamebic.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonamebic_CDC06.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonamebicPritt07.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonamebicPritt08.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonamebicPritt09.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonamebicPritt10.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonamebicPritt11.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonamebicPritt12.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonamebicPritt13.jpg"
+      ],
+      "clinicalInfo": "35-year-old male with bloody diarrhea"
+    },
+    {
+      "diagnosis": "Actinomycosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonactinomycosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonactinomycosisGonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonactinomycosisGonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonactinomycosisGonzalez03.jpg"
+      ],
+      "clinicalInfo": "50-year-old male with colorectal mass and fever"
+    },
+    {
+      "diagnosis": "Cytomegalovirus (CMV)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonCMV.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonCMVYearsley04.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonCMVYearsley05.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonCMVYearsley06.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonCMVYearsley07.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonCMVYearsley08.jpg"
+      ],
+      "clinicalInfo": "40-year-old immunocompromised male with diarrhea"
+    },
+    {
+      "diagnosis": "Histoplasmosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonhistoplasmosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonhistoplasmosisChenmicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonhistoplasmosisChenmicro3.jpg"
+      ],
+      "clinicalInfo": "45-year-old male with colorectal lesion and fever"
+    },
+    {
+      "diagnosis": "Schistosomiasis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonschistosomiasis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonschistosomiasisGuptamicro1.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonschistosomiasisGuptamicro2.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonschistosomiasisGuptamicro3.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonschistosomiasisGuptamicro4.jpg",
+        "https://www.pathologyoutlines.com/images/colonSchisto1.jpg",
+        "https://www.pathologyoutlines.com/images/colonSchisto2.jpg",
+        "https://www.pathologyoutlines.com/images/colonSchisto3.jpg",
+        "https://www.pathologyoutlines.com/images/colonSchisto4.jpg",
+        "https://www.pathologyoutlines.com/images/colonSchisto6.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonschistosomiasisZaalruwai831.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonschistosomiasisZaalruwai832.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonschistosomiasisZaalruwai834.jpg"
+      ],
+      "clinicalInfo": "35-year-old male with chronic diarrhea and travel history"
+    },
+    {
+      "diagnosis": "Strongyloides stercoralis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonstrongyloides.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonstrongyloidesNYUGSOMpathres01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonstrongyloidesNYUGSOMpathres02.jpg"
+      ],
+      "clinicalInfo": "40-year-old male with diarrhea and eosinophilia"
+    },
+    {
+      "diagnosis": "Amyloidosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonamyloidosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colonamyloidosismicro01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonamyloidosismicro02.jpg"
+      ],
+      "clinicalInfo": "50-year-old female with colorectal lesion"
+    },
+    {
+      "diagnosis": "Endometriosis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/colonendometriosis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/colon-endometriosisGonzalez01.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon-endometriosisGonzalez02.jpg",
+        "https://www.pathologyoutlines.com/imgau/colon-endometriosisGonzalez03.jpg",
+        "https://www.pathologyoutlines.com/imgau/colonendometriosisandrewfltvtwit03.jpg"
+      ],
+      "clinicalInfo": "35-year-old female with pelvic pain and colorectal mass"
+    }
+  ]
+}
