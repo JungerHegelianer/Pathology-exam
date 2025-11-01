@@ -1,0 +1,169 @@
+{
+  "tumors": [
+    {
+      "diagnosis": "Crescentic glomerulonephritis (RPGN)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneyrpgn.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneyrpgnMurshed01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyrpgnMurshed03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyrpgnMurshed04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyrpgnMurshed09.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyrpgnMurshed11.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyrpgnMurshed12.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyrpgnMurshed13.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyrpgnMurshed14.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyrpgnMurshed15.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyrpgnMurshed16.jpg"
+      ],
+      "clinicalInfo": "RAPIDLY PROGRESSIVE GN = CRESCENTIC GN.\nClinico (RPGN) - Pathologic (crescents > 50% of glomeruli) syndrome (morphologic pattern of several diseases):\n(a) Immune-complex (IF: granular IgG) ≈30%: Post-infectious GN, SLE, MPGN, IgA/HSP (rare in each).\n(b) Anti-GBM (IF: linear IgG) ≈10%: Anti-GBM nephritis (no lung) or Goodpasture syndrome (lung involvement, pulmonary hemorrhage).\nAntigen is α3 chain of collagen IV.\nMay follow exposure to volatile hydrocarbons.\nTreat with plasmapheresis + immunosuppression.\n(c) Pauci-immune (IF negative) ≈60%: ~90% ANCA positive.\nIdiopathic or systemic small vessel vasculitis (MPA, GPA, EGPA).\nMorphology: crescents from proliferation of parietal epithelial cells + monocytes + fibrin; progressive sclerosis and glomerular obliteration.\nEM: GBM ruptures → fibrin leaks to Bowman’s space → crescent.\nImmune complexes dense in (a); none in (b),(c)."
+    },
+    {
+      "diagnosis": "Acute tubular necrosis (ATN)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneyatn.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneyatndavis01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyatndavis02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyatndavis03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyatndavis04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyatndavis05.jpg"
+      ],
+      "clinicalInfo": "Ischemic or toxic AKI.\nMuddy brown granular casts; mild proteinuria; FeNa often >2%.\nCommon settings: shock, sepsis, nephrotoxins (aminoglycosides, amphotericin, cisplatin, myo-/hemoglobin).\nComplement normal.\nSupportive care; remove insult."
+    },
+    {
+      "diagnosis": "Acute interstitial nephritis (drug-induced hypersensitivity)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneytubulointerstitialnephritis.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneytubulointerstitialnephritisAlbadri01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytubulointerstitialnephritisAlbadri02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytubulointerstitialnephritisAlbadri03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytubulointerstitialnephritisAlbadri04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytubulointerstitialnephritisAlbadri05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneytubulointerstitialnephritisAlbadri06.jpg"
+      ],
+      "clinicalInfo": "Main drugs: (1) Antibiotics: β-lactams (penicillins, cephalosporins), sulfonamides, fluoroquinolones, antituberculous (isoniazid, rifampin).\n(2) NSAIDs: may present with nephrotic-range proteinuria with MCD-like histology.\nLess frequent: (3) Diuretics: thiazides, furosemide.\n(4) Antiulcer: cimetidine, ranitidine, omeprazole.\nClinical: 1–3 weeks after exposure—fever, rash, eosinophilia, hematuria, sterile pyuria; up to 50% ARF in elderly.\nEosinophiluria helpful.\nUsually reversible after withdrawal.\nNo dose relationship.\nRecurs on re-exposure.\nPathology: interstitial edema and inflammation (± eosinophils, ± granulomas) with tubular injury/necrosis."
+    },
+    {
+      "diagnosis": "Minimal change glomerulopathy (MCD)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneyminchange.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneyminchangelarque_02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyminchangelarque_03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyminchangelarque_04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyminchangelarque_01.jpg"
+      ],
+      "clinicalInfo": "Children 2–8y; may follow viral infection or immunization.\nNephrotic syndrome with normal renal function, no hypertension, no hematuria.\n>95% steroid response; excellent prognosis.\nLM: normal; IF: negative; EM: diffuse podocyte foot-process effacement; no immune deposits.\nPathogenesis: T-cell–derived circulating factors injure podocytes; reduced/abnormal nephrin in congenital/rare cases.\nAssociations: Hodgkin lymphoma; NSAIDs; atopy."
+    },
+    {
+      "diagnosis": "Focal segmental glomerulosclerosis (FSGS)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneyfsgs.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneyfsgslimperiocazzaniga01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyfsgslimperiocazzaniga04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyfsgslimperiocazzaniga06.jpg",
+        "https://www.tau.ac.il/medicine/tau-only/webpath/jpeg1/renal082.jpg",
+        "https://ohiostate.pressbooks.pub/app/uploads/sites/81/2017/11/Figure-4A-B160704-HE-2-glomeruli-one-normal-one-FSGS-cropped-sharpened-brightened-asterisk-1024x901.jpg",
+        "https://ohiostate.pressbooks.pub/app/uploads/sites/81/2017/11/Figure-5B-B110205-GS-PAS-cropped-sharpened-brightened-circled-1024x901.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnV-0d6YOaC2Pdz_tNUTZLMD9AWACmpANITg&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSD1cBem7IMEbiZEY-cHbCOroYY3xhyxiiESde6YeWUtfPCgD5_N94tE0tvtheKXV7oS4&usqp=CAU"
+      ],
+      "clinicalInfo": "Primary/idiopathic: acute full nephrotic syndrome like MCD.\nSecondary/adaptive: not full nephrotic syndrome; due to hyperfiltration and hypertension (reflux nephropathy, advanced GN, massive obesity, unilateral renal agenesis, sickle cell).\nViral: HIV (often APOL1 risk) with collapsing FSGS.\nToxins/drugs: bisphosphonates, lithium, heroin.\nGenetic: podocin, actinin; APOL1 in people of sub-Saharan ancestry.\nCompared to MCD: more hematuria, hypertension, ↓GFR; less steroid response.\n~50% ESRD at 10y in adults.\n25–50% recurrence post-transplant (sometimes within days).\nLM: focal, segmental sclerosis; interstitial fibrosis/tubular atrophy.\nCollapsing variant aggressive.\nIF: IgM and C3 in sclerotic areas (trapping).\nEM: diffuse foot-process effacement in non-sclerotic areas; podocyte detachment from GBM.\nPathogenesis: podocyte injury by circulating factors in idiopathic form."
+    },
+    {
+      "diagnosis": "Membranous nephropathy (MN)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneymemgn.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneymemgnLarque01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneymemgnLarque02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneymemgnLarque03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneymemgnLarque04.jpg"
+      ],
+      "clinicalInfo": ") 85% primary with anti-PLA2R; 15% secondary: SLE (V), infections (HBV, syphilis, malaria), drugs (captopril, gold, penicillamine, rare NSAIDs), tumors (lung/colon; rare).\nCourse: nephrotic syndrome; 1/3 progress, 1/3 remit, 1/3 persist.\nLM: diffuse capillary wall thickening.\nIF: granular IgG+C3.\nEM: subepithelial deposits with intervening GBM spikes and domes.\nPathogenesis: in-situ subepithelial ICs to podocyte antigens (PLA2R, THSD7A).\nLimited inflammation; C5b-9–mediated podocyte injury."
+    },
+    {
+      "diagnosis": "Membranoproliferative glomerulonephritis (MPGN)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneymembranoprolif.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneymembranoprolifzhang02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneymembranoprolifzhang03.jpg",
+        "https://www.pathologyoutlines.com/nephropath/MPGNImembranoproliflesionsPAS1.jpg",
+        "https://www.pathologyoutlines.com/nephropath/MPGNImembranoproliflesionsPAS2.jpg"
+      ],
+      "clinicalInfo": "MPGN (mesangiocapillary) is a morphologic pattern.\nPrimary idiopathic in children; secondary in SLE (IV), HCV (often cryoglobulinemia), HBV, chronic liver disease.\nLM: mesangial/endocapillary hypercellularity with lobulation; double contours (“tram-tracks”) from mesangial interposition.\nType I (immune-complex): subendothelial deposits; IF granular C3+IgG±C4/C1.\nType II (dense deposit disease): dense transformation of lamina densa; IF C3 and properdin only; alternative complement pathway.\nClinical: nephrotic ± nephritic; low serum C3 common.\nSlow progression; ~50% CRF at 10y; high recurrence after transplant in type II.\nC3 glomerulopathy lacks IgG with dominant C3."
+    },
+    {
+      "diagnosis": "Infection-related GN (bacterial)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneybacterialinfectionGN.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneybacterialinfectionGN_Kung01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneybacterialinfectionGN_Kung02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneybacterialinfectionGN_Kung03.jpg"
+      ],
+      "clinicalInfo": "Nephritic presentation during/after infection; low C3 with near-normal C4 typical.\nEvaluate source (endocarditis, abscess; staphylococcal in adults).\nIF often “starry sky” granular pattern; subepithelial “humps” on EM in poststreptococcal cases."
+    },
+    {
+      "diagnosis": "Henoch–Schönlein purpura (IgA vasculitis)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneyhsp.html",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjesa78iY5CJfuOwAquUsFJh4HBQTWPOOvRA&s",
+        "https://onlinelibrary.wiley.com/cms/asset/16f6459f-8446-4661-aa85-f9adce18541a/carm7890379-fig-0001a-m.jpg",
+        "https://www.researchgate.net/publication/363848562/figure/fig2/AS:11431281086402096@1664209194508/Histopathologic-image-of-the-patients-venal-biopsy-segmental-endocapillary_Q320.jpg"
+      ],
+      "clinicalInfo": "Skin purpura (leukocytoclastic vasculitis); abdominal pain and GI bleeding; arthralgia.\nGN with recurrent hematuria/proteinuria for years.\nOften follows respiratory infection.\nMostly children.\nSerum IgA↑ in ~50%; IgA in dermal capillaries.\nMay represent systemic variant of IgA nephropathy.\nLM: mesangial proliferative to focal/diffuse proliferative GN.\nIF: mesangial IgA.\nGenerally good prognosis, but some progress to CRF."
+    },
+    {
+      "diagnosis": "IgA nephropathy (Berger disease)",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneyiga.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneyigasoares02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyigasoares06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneyigasoares07.jpg",
+        "https://www.pathologyoutlines.com/nephropath/IgAmesangexploopadhesionPAS.jpg"
+      ],
+      "clinicalInfo": "Very common mesangial IgA GN.\nRecurrent gross or microscopic hematuria in children/young adults (M:F ≈3:1).\nOccurs during or shortly after viral URI/GI infection, in contrast to postinfectious GN (7–14 days later).\n20–35% progress to CRF with risk factors: age, heavy proteinuria, crescents, sclerosis/fibrosis.\n~40% recurrence in transplants but rarely leads to failure.\nLM: mesangial proliferative to normal.\nIF: mesangial IgA1 and C3 without C4/C1 (alternate pathway).\nEM: mesangial deposits.\nPathogenesis: aberrantly glycosylated IgA1 from mucosa accumulates in mesangium, activates complement (alternate pathway).\nAssociations: celiac, liver disease."
+    },
+    {
+      "diagnosis": "Diabetic kidney disease",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneydiabetes.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneydiabetesmicro02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneydiabetesmicro04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneydiabetesmicro03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneydiabetesmicro06.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneydiabetesmicro17.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneydiabetesmicro18.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneydiabetesmicro19.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneydiabetesmicro08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneydiabetesmicro20.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneydiabetesmicro10.jpg"
+      ],
+      "clinicalInfo": "Major cause of CKD and CV mortality.\nAppears after 10–20y of diabetes; risk ↑ with poor glycemic control and hypertension.\nTight glycemic control and ACE inhibitors slow progression.\nPathogenesis: hyperglycemia → hyperfiltration and mesangial matrix expansion; nonenzymatic glycation (AGEs) → microangiopathy with GBM thickening.\nLM: GBM thickening, mesangial matrix expansion, diffuse or nodular (Kimmelstiel–Wilson) glomerulosclerosis; afferent/efferent arteriolosclerosis.\nChanges recur in kidney transplants unless pancreas transplanted."
+    },
+    {
+      "diagnosis": "Systemic lupus erythematosus nephritis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneysle.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneysleMikhailov01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneysleMikhailov02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneysleMikhailov08.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneysleMikhailov03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneysleMikhailov05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneysleMikhailov07.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneysleMikhailov17.jpg"
+      ],
+      "clinicalInfo": "Renal involvement in ~50% clinically; >95% by LM/IF/EM.\nISN/RPS classes I–VI.\nIII/IV: nephritic with hematuria/proteinuria, often crescents/necrosis; “wire loops” from massive subendothelial deposits; hematoxylin bodies rare.\nV: membranous with nephrotic syndrome.\nIF: “full house” IgG, IgA, IgM, C3, C1q.\nEM: mesangial, subendothelial, and/or subepithelial deposits.\nTubuloreticular inclusions in endothelium.\nBiopsy essential for classification and therapy."
+    },
+    {
+      "diagnosis": "Acute postinfectious glomerulonephritis",
+      "articleLink": "https://www.pathologyoutlines.com/topic/kidneypoststrep.html",
+      "images": [
+        "https://www.pathologyoutlines.com/imgau/kidneypoststrepMemon01.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneypoststrepMemon02.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneypoststrepMemon03.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneypoststrepMemon04.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneypoststrepMemon05.jpg",
+        "https://www.pathologyoutlines.com/imgau/kidneypoststrepMemon06.jpg"
+      ],
+      "clinicalInfo": "Diffuse proliferative GN classically after group A β-hemolytic streptococcal infection; also after staph, sepsis, viruses, or during endocarditis.\nLatency 1–4 weeks after pharyngitis/impetigo.\nChildren 5–10 most common.\nStreptococcal antigens plant in glomeruli → in-situ ICs.\nLM: large hypercellular glomeruli with endocapillary hypercellularity and leukocytes.\nIF: granular IgG and C3.\nEM: large subepithelial “humps” (ICs).\nClinical: smoky/cola hematuria, oliguria, edema, hypertension, RBC casts; ASO/anti-DNase B elevated; low C3.\nPrognosis: >95% recover in children; adults worse; small risk of RPGN or chronicity."
+    }
+  ]
+}
